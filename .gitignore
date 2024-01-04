@@ -28,9 +28,3 @@ node_modules
 *.gem
 .bundle
 .ruby-version
-
-**/docs/**
-.dev*
-.github*
-**/fixtures/***
-Dock**
