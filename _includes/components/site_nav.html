@@ -1,0 +1,14 @@
+<button id="menu-button" class="site-button btn-reset" aria-label="Toggle menu" aria-pressed="false">
+  <svg viewBox="0 0 24 24" class="icon" aria-hidden="true"><use xlink:href="#svg-menu"></use></svg>
+</button>
+<nav aria-label="Main" id="site-nav" class="site-nav">
+      <ul class="nav-list">
+      {%- for node in site.nav_external_links -%}
+        <li class="nav-list-item">
+          <a href="{{ node.url | absolute_url }}" class="nav-list-link site-button">
+            {{ node.title }}
+          </a>
+        </li>
+      {%- endfor -%}
+    </ul>
+</nav>
