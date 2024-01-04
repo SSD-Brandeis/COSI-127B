@@ -4,7 +4,7 @@ title: Resources
 nav_order: 2
 description: >-
     Resources for the course.
-banner_image: /assets/css/resources.jpg
+banner_image: /COSI-127B/assets/css/resources.jpg
 banner_heading: "Text Books"
 banner_description: "Textbook Wisdom Awaits"
 ---

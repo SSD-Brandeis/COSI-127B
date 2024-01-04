@@ -3,7 +3,7 @@ layout: default
 title: Home
 nav_order: 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
-banner_image: /assets/css/p2.jpg
+banner_image: /COSI-127B/assets/css/p2.jpg
 banner_heading: "COSI-127B"
 banner_description: "Database Management Systems"
 permalink: /

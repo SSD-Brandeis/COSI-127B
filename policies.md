@@ -4,7 +4,7 @@ title: Policies
 nav_order: 3
 description: >-
     Policies for the course.
-banner_image: /assets/css/policy.jpg
+banner_image: /COSI-127B/assets/css/policy.jpg
 banner_heading: "Policies"
 banner_description: "Adherence Empowers Progress"
 ---

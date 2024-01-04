@@ -4,7 +4,7 @@ title: Homework
 nav_order: 4
 description: >-
     Homework for the course.
-banner_image: /assets/css/assignment.jpg
+banner_image: /COSI-127B/assets/css/assignment.jpg
 banner_heading: "Homework Assignments"
 banner_description: ""
 ---
