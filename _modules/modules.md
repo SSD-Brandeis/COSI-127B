@@ -89,5 +89,5 @@ Tue, Apr 16
 Thu, Apr 18
 : **Review**{: .label .label-yellow}
 
-Tue, May 07
-: **Final Exam**{: .label .label-purple} (Tentative)
+TBD
+: **Final Exam**{: .label .label-purple}
