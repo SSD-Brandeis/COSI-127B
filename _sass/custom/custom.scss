@@ -64,3 +64,39 @@ h2 {
 p {
   font-size: medium;
 }
+
+// .policies
+.policies {
+  display: block;
+
+  @include mq(md) {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px; /* Adjust the gap as needed */
+  }
+
+  .policy {
+    @include mq(md){
+      padding-left: 2rem;
+      padding-right: 2rem;
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      background-color: #d7d5d6;
+      text-align: justify;
+    }
+  }
+
+  .policy h2 {
+    font-size: 1.5rem;
+
+    @include mq(md) {
+      margin-bottom: 0px;
+      margin-bottom: 0.5rem;
+      }
+  }
+
+  p {
+    font-size: medium;
+  }
+}

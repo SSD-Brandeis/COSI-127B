@@ -4,8 +4,8 @@ title: Home
 nav_order: 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 banner_image: /COSI-127B/assets/css/p2.jpg
-banner_heading: "COSI-127B"
-banner_description: "Database Management Systems"
+banner_heading: "Database Management Systems"
+banner_description: "COSI-127B"
 permalink: /
 ---
 
@@ -29,31 +29,20 @@ Students who successfully complete all components of this course will be able to
 5. Understanding of the fundamental performance tradeoffs in data structures and access methods design, and the importance of such design decisions on the overall performance of a relational data system. 
 6. Understanding of the impact of the ever-changing workload and application requirements on the design of modern relational data systems. 
 
-## <u>Components of Course Work</u>
-Success in this four-credit course is based on the expectation that students will spend a minimum of 9 hours of study time per week in preparation for class.
-- *<u>Class Participation and Interaction</u>*: The class is designed to be interactive. The students are highly encouraged to ask questions and participate in in-class discussions. All lectures are delivered in person. The students are expected to attend all lectures and regularly interact with the teaching staff during student hours
-- *<u>Collaborative Notes</u>*: Starting from class 3, the students will contribute towards a shared collaborative document, known as class notes. Each student will contribute to the class notes to at least one class, and each class will have at least two contributors.
-- *<u>Programming Assignments</u>*: During the semester there will be two programming assignments. The projects will be based on topics taught in class.
-- *<u>Written Assignments</u>*: Approximately every two weeks there will be one written assignment based on concepts taught in class. The assignments will be graded on a completion basis, that is, you will receive full credit as long as you submit them on time and receive a grade above 70%.
+## Instructor
 
-Group work and collaboration are essential to your learning. That said, all of your written work will be solo assignments and must be your original work and produced without the assistance of others unless I specifically state otherwise. 
+{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
 
-## <u>Evaluation and Grading</u>
-The course grade will break down as follows (minor alterations may occur):
-- *<u>In-class participation</u>*:	4%
-- *<u>Written assignments</u>*:	12%
-- *<u>Programming assignments</u>*:	30%
-- *<u>Midterm exam</u>*:	20%
-- *<u>Final exam</u>*:	35%
+{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
+{% assign num_teaching_assistants = teaching_assistants | size %}
+{% if num_teaching_assistants != 0 %}
 
+## Teaching Assistants
 
-## <u>Letter Grades</u>
-
-| Percentage Range | Grade | Percentage Range | Grade |
-|:-----------------|:-----:|:-----------------|:-----:|
-| 93% or higher    |   A   | 73-76.9%         |   C   |
-| 90-92.9%         |  A-   | 70-72.9%         |  C-   |
-| 87-89.9%         |   B+  | 66-69.9%         |   D+  |
-| 83-86.9%         |   B   | 63-66.9%         |   D   |
-| 80-82.9%         |  B-   | 60-62.9%         |  D-   |
-| 77-79.9%         |   C+  | Less than 60%    |   E(F)|
+{% for staffer in teaching_assistants %}
+{{ staffer }}
+{% endfor %}
+{% endif %}

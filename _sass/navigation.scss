@@ -9,7 +9,7 @@
   display: flex;
   flex-direction: column;
 
-  @include mq(md) {
+  @include mq(sm) {
     flex-direction: row;
     justify-content: space-between;
   }
@@ -38,9 +38,19 @@
         padding-left: $nav-list-item-height-sm;
       }
 
-      @include mq(md) {
+      @include mq(sm) {
         min-height: $nav-list-item-height;
         line-height: #{$nav-list-item-height - 2 * $sp-1};
+        @if $nav-list-expander-right {
+          padding-right: 0.5rem;
+          padding-left: 0.5rem;
+        } @else {
+          padding-right: $gutter-spacing;
+          padding-left: $nav-list-item-height;
+        }
+      }
+
+      @include mq(md) {
         @if $nav-list-expander-right {
           padding-right: 1rem;
           padding-left: 1rem;
@@ -83,7 +93,7 @@
       padding: #{$nav-list-item-height-sm * 0.25};
       color: $link-color;
 
-      @include mq(md) {
+      @include mq(sm) {
         width: $nav-list-item-height;
         height: $nav-list-item-height;
         padding: #{$nav-list-item-height * 0.25};
