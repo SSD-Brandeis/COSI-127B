@@ -20,13 +20,13 @@ Thu, Jan 25
 Tue, Jan 30
 : [Lecture-6: Functional Dependencies](#)
 
-Thu, Feb 1
+Thu, Feb 01
 : [Lecture-7: Normalization](#)
 
-Tue, Feb 6
+Tue, Feb 06
 : [Lecture-8: SQL I](#)
 
-Thu, Feb 8
+Thu, Feb 08
 : [Lecture-9: SQL II](#)
 
 Tue, Feb 13
@@ -35,47 +35,59 @@ Tue, Feb 13
 Thu, Feb 15
 : [Lecture-11: Storage Layer](#)
 
+Tue, Feb 20
+: **February Break**{: .label .label-yellow}
+
+Thu, Feb 22
+: **February Break**{: .label .label-yellow}
+
 Tue, Feb 27
 : [Lecture-12: Tree Indexing](#)
 
-Thu, Mar 1
+Thu, Feb 29
 : [Lecture-13: Hashing](#)
 
-Tue, Mar 6
+Tue, Mar 05
 : [Lecture-14: External Sorting](#)
 
-Thu, Mar 8
+Thu, Mar 08
 : **MidTerm Exam**{: .label .label-purple} (Tentative)
 
-Tue, Mar 13
+Tue, Mar 12
 : [Lecture-15: LSM](#)
 
-Thu, Mar 15
+Thu, Mar 14
 : [Lecture-16: Query Processing with Relational Operators](#)
 
-Tue, Mar 20
+Tue, Mar 19
 : [Lecture-17: Joins I](#)
 
-Thu, Mar 22
+Thu, Mar 21
 : [Lecture-18: Joins II](#)
 
-Tue, Mar 27
+Tue, Mar 26
 : [Lecture-19: Relational Query Optimization](#)
 
-Tue, Apr 3
+Thu, Mar 28
+: **March Break**{: .label .label-yellow}
+
+Tue, Apr 02
 : [Lecture-20: Transaction Management](#)
 
-Thu, Apr 5
+Thu, Apr 04
 : [Lecture-21: Concurrency Control](#)
 
-Tue, Apr 10
+Tue, Apr 09
 : [Lecture-22: Recovery](#)
 
-Thu, Apr 12
+Thu, Apr 11
 : [Lecture-23: Advanced Topics/NoSQL & Review](#)
 
-Tue, Apr 17
+Tue, Apr 16
 : [Lecture-24: Guest Lecture](#)
 
-Thu, Apr 19
+Thu, Apr 18
+: **Review**{: .label .label-yellow}
+
+Tue, May 07
 : **Final Exam**{: .label .label-purple} (Tentative)
