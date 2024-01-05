@@ -62,20 +62,20 @@ Thu, Mar 22
 Tue, Mar 27
 : [Lecture-19: Relational Query Optimization](#)
 
-Tue, Apr-3
+Tue, Apr 3
 : [Lecture-20: Transaction Management](#)
 
-Thu, Apr-5
+Thu, Apr 5
 : [Lecture-21: Concurrency Control](#)
 
-Tue, Apr-10
+Tue, Apr 10
 : [Lecture-22: Recovery](#)
 
-Thu, Apr-12
+Thu, Apr 12
 : [Lecture-23: Advanced Topics/NoSQL & Review](#)
 
-Tue, Apr-17
+Tue, Apr 17
 : [Lecture-24: Guest Lecture](#)
 
-Thu, Apr-19
+Thu, Apr 19
 : **Final Exam**{: .label .label-purple} (Tentative)
