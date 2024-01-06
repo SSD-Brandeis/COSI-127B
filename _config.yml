@@ -19,8 +19,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ssd-brandeis.github.io"
 repository: ""
 
-favicon_ico: "/favicon.png"
-
 permalink: pretty
 
 exclude:
@@ -125,8 +123,8 @@ nav_external_links:
   #   url: /resources/
   # - title: Policies
   #   url: /policies/
-  - title: Homework
-    url: /homework/
+  - title: Assignments
+    url: /assignments/
   # - title: Syllabus
   #   url: /assets/pdf/Syllabus-COSI-127B.pdf
   # - title: Gradescope

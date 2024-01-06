@@ -7,5 +7,3 @@ photo: subhadeep.jpg
 meta:
   Office Hours: TBD
 ---
-
-[Schedule an appointment](#){: .btn .btn-outline }

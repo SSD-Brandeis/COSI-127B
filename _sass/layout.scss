@@ -60,13 +60,20 @@
   display: flex;
   background-color: $body-background-color;
   position: relative;
-  width: 100%;
+  width: auto;
   justify-content: space-between;
 
   @include mq(sm) {
     display: flex;
+    margin-left: 6.5rem;
+    margin-right: 6.5rem;
     // height: $header-height;
     border-bottom: $border $border-color;
+  }
+
+  @include mq(md) {
+    margin-left: 9.5rem;
+    margin-right: 9.5rem;
   }
 
   &.nav-open {
@@ -187,17 +194,11 @@
   display: flex;
   height: 100%;
   align-items: center;
-  padding-top: 0rem;
-  padding-bottom: 0rem;
+  padding: 0% !important;
   color: $body-heading-color;
   font-weight: 800;
   
   @include fs-6;
-
-  @include mq(md) {
-    padding-top: 0.1rem;
-    padding-bottom: 0.1rem;
-  }
 }
 
 @if variable-exists(logo) {
