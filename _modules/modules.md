@@ -2,6 +2,9 @@
 title: ""
 ---
 
+**Day**
+: **Lecture**
+
 Thu, Jan 11
 : [Lecture-1: Introduction](#)
 

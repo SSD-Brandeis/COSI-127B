@@ -6,7 +6,7 @@ description: >-
     Policies for the course.
 banner_image: /COSI-127B/assets/css/policy.jpg
 banner_heading: "Policies"
-banner_description: "Adherence Empowers Progress"
+banner_description: ""
 ---
 
 <div class="policies">

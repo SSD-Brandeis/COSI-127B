@@ -5,7 +5,7 @@ nav_order: 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 banner_image: /COSI-127B/assets/css/p2.jpg
 banner_heading: "Database Management Systems"
-banner_description: "COSI-127B"
+banner_description: "COSI 127B"
 permalink: /
 ---
 
@@ -15,7 +15,7 @@ permalink: /
 | __Class Location__{: .fs-4} | Abelson-Bass: 131|
 
 ## <u>Course Description</u>
-We live in a data-driven world! In fact, every two days, we create as much data as we created from the dawn of humanity up to 2003 [Eric Schmidt, Google]. We generate an unprecedented amount of data every day through our daily activities in every facet of life, including business, governance, management, research, and scientific activities. Storing, managing, and accessing this large volume of data is an enormous challenge in the face of ever-changing application requirements and performance goals. Database systems are the backbone of any large-scale data management infrastructure. This class presents a comprehensive introduction to the fundamental concepts of database systems. We will start by discussing the classical approaches to database design and the fundamental building blocks and operating principles of database systems. The primary focus of the course will be on the core concepts of the internals of database systems, covering entity-relationship and relational data models, commercial relational query languages (SQL and relational algebra), file organization, storage and memory management, indexing and hashing, query optimization, query processing, transaction processing, concurrency control, and recovery. Finally, we will cover the new trends in data management in the era of big data and data management in the cloud to highlight the evolution of database systems over the years.
+We live in a data-driven world! In fact, every two days, we create as much data as we created from the dawn of humanity up to 2003. We generate an unprecedented amount of data every day through our daily activities in every facet of life, including business, governance, management, research, and scientific activities. Storing, managing, and accessing this large volume of data is an enormous challenge in the face of ever-changing application requirements and performance goals. Database systems are the backbone of any large-scale data management infrastructure. This class presents a comprehensive introduction to the fundamental concepts of database systems. We will start by discussing the classical approaches to database design and the fundamental building blocks and operating principles of database systems. The primary focus of the course will be on the core concepts of the internals of database systems, covering entity-relationship and relational data models, commercial relational query languages (SQL and relational algebra), file organization, storage and memory management, indexing and hashing, query optimization, query processing, transaction processing, concurrency control, and recovery. Finally, we will cover the new trends in data management in the era of big data and data management in the cloud to highlight the evolution of database systems over the years.
 
 ## <u>Prerequisites</u>
 __COSI 21a__ and __COSI 12b__. A working knowledge of C/C++, Java, or Python programming and a fundamental understanding of data structures and algorithms is required. 
