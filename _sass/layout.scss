@@ -78,6 +78,7 @@
 
   &.nav-open {
     display: block;
+    position: inherit;
 
     @include mq(md) {
       display: inline;
@@ -225,7 +226,7 @@
 .site-button {
   display: flex;
   height: 100%;
-  width: 100%;
+  width: auto;
   font-size: small;
   font-weight: bold;
   text-transform: uppercase;

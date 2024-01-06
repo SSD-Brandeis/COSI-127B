@@ -65,6 +65,25 @@ p {
   font-size: medium;
 }
 
+.logo {
+  width: fit-content;
+  position: relative;
+  height: 100%;
+}
+
+.logo-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+
+  @include mq(sm) {
+    width: auto;
+  }
+}
+
+
 // .policies
 .policies {
   display: block;

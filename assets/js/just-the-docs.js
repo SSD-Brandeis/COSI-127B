@@ -576,15 +576,6 @@ jtd.onReady(function(){
       }
     });
   });
-
-  const auxNavToggle = document.querySelector('.aux-nav-toggle');
-  const navBarLinks = document.querySelector('.aux-nav-list');
-
-    auxNavToggle.addEventListener('click', () => {
-      console.log('clicked');
-      navBarLinks.classList.toggle('active');
-    });
-
 });
 
 {%- endif %}
