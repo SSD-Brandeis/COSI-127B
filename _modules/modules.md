@@ -61,7 +61,7 @@ Tue, Mar 05
 : [Lecture-14: External Sorting](#)
 
 Thu, Mar 08
-: **MidTerm Exam**{: .label .label-purple} (Tentative)
+: **MidTerm I Exam**{: .label .label-purple} (Tentative)
 
 Tue, Mar 12
 : [Lecture-15: LSM](#)
@@ -97,4 +97,4 @@ Tue, Apr 16
 : **Review**{: .label .label-yellow}
 
 Thu, Apr 18
-: **Final Exam**{: .label .label-purple}
+: **Midterm II Exam**{: .label .label-purple}
