@@ -24,6 +24,10 @@
       @include fs-3;
     }
 
+    @include mq(sm) {
+      margin-left: 2rem;
+    }
+
     .nav-list-link {
       display: block;
       min-height: $nav-list-item-height-sm;

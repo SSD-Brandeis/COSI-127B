@@ -29,7 +29,7 @@
     }
 
     @include mq(lg) {
-      grid-template-columns: 2fr 9fr;
+      grid-template-columns: 1fr 10fr;
     }
 
     %module-item {
@@ -84,7 +84,8 @@
         }
 
         dt {
-          flex: 0 0 62.5%;
+          // flex: 0 0 62.5%;
+          flex: 0 0 50%;
           margin: 0;
         }
 
