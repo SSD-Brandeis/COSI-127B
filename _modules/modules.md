@@ -12,8 +12,8 @@ Thu, Jan 11
 
 Tue, Jan 16
 : [Lecture-2: DBMS Architecture](#)
-    : - ["The Design and Implementation of Modern Column-Oriented Database Systems"](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf), Chapters 1, 2, 3
-- ["Architecture of a Database System"](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf), Chapter 1
+    : - ["The Design and Implementation of Modern Column-Oriented Database Systems"](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf){:target="_blank"}, Chapters 1, 2, 3
+- ["Architecture of a Database System"](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf){:target="_blank"}, Chapter 1
 
 Thu, Jan 18
 : [Lecture-3: ER Diagrams](#)
