@@ -4,21 +4,28 @@ title: ""
 
 **Day**
 : **Lecture**
+    : **Readings**
 
 Thu, Jan 11
 : [Lecture-1: Introduction](#)
+    : - Textbook, Chapter 1
 
 Tue, Jan 16
 : [Lecture-2: DBMS Architecture](#)
+    : - ["The Design and Implementation of Modern Column-Oriented Database Systems"](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf), Chapters 1, 2, 3
+- ["Architecture of a Database System"](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf), Chapter 1
 
 Thu, Jan 18
 : [Lecture-3: ER Diagrams](#)
+    : - Textbook, Chapter 2
 
 Tue, Jan 23
 : [Lecture-4: Relational Model](#)
+    : - Textbook, Chapter 3
 
 Thu, Jan 25
 : [Lecture-5: Relational Algebra](#)
+    : - Textbook, Chapter 4.1, 4.2
 
 Tue, Jan 30
 : [Lecture-6: Functional Dependencies](#)
@@ -87,10 +94,7 @@ Thu, Apr 11
 : [Lecture-23: Advanced Topics/NoSQL & Review](#)
 
 Tue, Apr 16
-: [Lecture-24: Guest Lecture](#)
-
-Thu, Apr 18
 : **Review**{: .label .label-yellow}
 
-TBD
+Thu, Apr 18
 : **Final Exam**{: .label .label-purple}
