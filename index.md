@@ -9,6 +9,11 @@ banner_description: "COSI 127B"
 permalink: /
 ---
 
+{: .highlight }
+> 
+> **Project 1.1** has been _released_. Please check the [**assignments**](/COSI-127B/assignments) page for more details. **Released on Jan 16th, 2024**{: .label .label-green}**Due on Feb 8th, 2024**{: .label .label-red}
+
+
 |----------|----------|
 | __Instructors__{: .fs-4} | [<u>Subhadeep Sarkar</u>](https://subhadeep.net){:target="_blank"}, Han Yue, and Shubham Kaushik |
 | __Class Timings__{: .fs-4} | Tue & Thu 5:30 PM – 6:50 PM|

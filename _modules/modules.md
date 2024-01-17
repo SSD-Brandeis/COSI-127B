@@ -11,7 +11,7 @@ Thu, Jan 11
     : - Textbook, Chapter 1
 
 Tue, Jan 16
-: [Lecture-2: DBMS Architecture](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrguzgmnmx76df){:target="_blank"}
+: [Lecture-2: DBMS Architecture](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrguzgmnmx76df){:target="_blank"} <br><br> [**Released Project 1.1**{: .label .label-green}](/COSI-127B/assignments)
     : - ["The Design and Implementation of Modern Column-Oriented Database Systems"](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf){:target="_blank"}, Chapters 1, 2, 3
 - ["Architecture of a Database System"](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf){:target="_blank"}, Chapter 1
 
@@ -37,7 +37,7 @@ Tue, Feb 06
 : Lecture-8: SQL I
 
 Thu, Feb 08
-: Lecture-9: SQL II
+: Lecture-9: SQL II <br><br> [**Due Project 1.1**{: .label .label-red}](/COSI-127B/assignments)
 
 Tue, Feb 13
 : Lecture-10: File Organization & Indexing
