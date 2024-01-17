@@ -25,7 +25,7 @@ banner_description: ""
         </thead>
         <tbody>
             <tr>
-            <td><a href="#">Project 1.1</a></td>
+            <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Project 1.1</a></td>
             <td>Feb 8, 2024 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrhbcp33naz1tr" target="_blank">Project doc</a></td>
             </tr>
