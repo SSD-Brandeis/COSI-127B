@@ -16,7 +16,7 @@ Tue, Jan 16
 - ["Architecture of a Database System"](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf){:target="_blank"}, Chapter 1
 
 Thu, Jan 18
-: Lecture-3: ER Diagrams
+: [Lecture-3: ER Diagrams](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrjphqr0th13r8){:target="_blank"}
     : - Textbook, Chapter 2
 
 Tue, Jan 23
