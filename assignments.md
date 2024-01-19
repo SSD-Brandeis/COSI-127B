@@ -11,7 +11,22 @@ banner_description: ""
 <div class="assignments">
     <div class="written">
         <h4><strong>Written Assignments</strong></h4>
-        <p style="text-align: center">Hold on tight! Written assignments are coming soon!</p>
+        <table>
+        <thead>
+            <tr>
+            <th>Title</th>
+            <th>Due Date</th>
+            <th>Material</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+            <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Assignment 1</a></td>
+            <td>Jan 27, 2024 @ 23:59</td>
+            <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrjzy4hzhur20h" target="_blank">ER-Model</a></td>
+            </tr>
+        </tbody>
+        </table>
     </div>
     <div class="programming">
         <h4><strong>Project Assignments</strong></h4>

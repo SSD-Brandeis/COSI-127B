@@ -16,7 +16,7 @@ Tue, Jan 16
 - ["Architecture of a Database System"](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf){:target="_blank"}, Chapter 1
 
 Thu, Jan 18
-: [Lecture-3: ER Diagrams](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrjphqr0th13r8){:target="_blank"}
+: [Lecture-3: ER Diagrams](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrjphqr0th13r8){:target="_blank"} <br><br> [**Released Written Assignment 1**{: .label .label-green}](/COSI-127B/assignments)
     : - Textbook, Chapter 2
 
 Tue, Jan 23
@@ -26,6 +26,9 @@ Tue, Jan 23
 Thu, Jan 25
 : Lecture-5: Relational Algebra
     : - Textbook, Chapter 4.1, 4.2
+
+Sat, Jan 27
+: [**Due Written Assignment 1**{: .label .label-red}](/COSI-127B/assignments)
 
 Tue, Jan 30
 : Lecture-6: Functional Dependencies
