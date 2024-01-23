@@ -20,7 +20,7 @@ Thu, Jan 18
     : - Textbook, Chapter 2
 
 Tue, Jan 23
-: Lecture-4: Relational Model
+: [Lecture-4: Relational Model](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrqwav2x89z654)
     : - Textbook, Chapter 3
 
 Thu, Jan 25
