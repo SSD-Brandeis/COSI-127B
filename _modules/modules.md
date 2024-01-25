@@ -24,7 +24,7 @@ Tue, Jan 23
     : - Textbook, Chapter 3
 
 Thu, Jan 25
-: Lecture-5: Relational Algebra
+: [Lecture-5: Relational Algebra](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrtrsr1pqp04ig){:target="_blank"}
     : - Textbook, Chapter 4.1, 4.2
 
 Sat, Jan 27
