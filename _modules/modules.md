@@ -24,7 +24,7 @@ Tue, Jan 23
     : - Textbook, Chapter 3
 
 Thu, Jan 25
-: [Lecture-5: Relational Algebra](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrtrsr1pqp04ig){:target="_blank"}
+: [Lecture-5: Relational Algebra](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrtrsr1pqp04ig){:target="_blank"} <br><br> [**Released Written Assignment 2**{: .label .label-green}](/COSI-127B/assignments)
     : - Textbook, Chapter 4.1, 4.2
 
 Sat, Jan 27
@@ -35,6 +35,9 @@ Tue, Jan 30
 
 Thu, Feb 01
 : Lecture-7: Normalization
+
+Sat, Feb 03
+: [**Due Written Assignment 2**{: .label .label-red}](/COSI-127B/assignments)
 
 Tue, Feb 06
 : Lecture-8: SQL I
