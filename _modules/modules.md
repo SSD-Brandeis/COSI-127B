@@ -31,7 +31,7 @@ Sat, Jan 27
 : [**Due Written Assignment 1**{: .label .label-grey}](/COSI-127B/assignments)
 
 Tue, Jan 30
-: **Lecture-6:** SQL I
+: [**Lecture-6:** SQL I](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ls0x7aahga01b3){:target="_blank"}
     : - Textbook, Chapter 5.1-5.5
 
 Thu, Feb 01
