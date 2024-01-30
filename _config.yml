@@ -159,6 +159,8 @@ callouts:
   warning:
     title: Warning
     color: red
+  passed:
+    color: grey-dk
 
 plugins:
   - jekyll-seo-tag

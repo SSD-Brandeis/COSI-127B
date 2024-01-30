@@ -16,7 +16,7 @@ Tue, Jan 16
 - ["Architecture of a Database System"](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf){:target="_blank"}, Chapter 1
 
 Thu, Jan 18
-: [**Lecture-3:** ER Diagrams](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrjphqr0th13r8){:target="_blank"} <br><br> [**Released Written Assignment 1**{: .label .label-green}](/COSI-127B/assignments)
+: [**Lecture-3:** ER Diagrams](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrjphqr0th13r8){:target="_blank"} <br><br> [**Released Written Assignment 1**{: .label .label-grey}](/COSI-127B/assignments)
     : - Textbook, Chapter 2
 
 Tue, Jan 23
@@ -28,26 +28,26 @@ Thu, Jan 25
     : - Textbook, Chapter 4.1, 4.2
 
 Sat, Jan 27
-: [**Due Written Assignment 1**{: .label .label-red}](/COSI-127B/assignments)
+: [**Due Written Assignment 1**{: .label .label-grey}](/COSI-127B/assignments)
 
 Tue, Jan 30
-: **Lecture-6:** Functional Dependencies
-    : - Textbook, Chapter 19.1-19.3
+: **Lecture-6:** SQL I
+    : - Textbook, Chapter 5.1-5.5
 
 Thu, Feb 01
-: **Lecture-7:** Normalization
-    : - Textbook, Chapter 19.4-19.7
+: **Lecture-7:** SQL II
+    : - Textbook, Chapter 5.1-5.5
 
 Sat, Feb 03
 : [**Due Written Assignment 2**{: .label .label-red}](/COSI-127B/assignments)
 
 Tue, Feb 06
-: **Lecture-8:** SQL I
-    : - Textbook, Chapter 5.1-5.5
+: **Lecture-8:** Functional Dependencies
+    : - Textbook, Chapter 19.1-19.3
 
 Thu, Feb 08
-: **Lecture-9:** SQL II <br><br> [**Due Project 1.1**{: .label .label-red}](/COSI-127B/assignments)
-    : - Textbook, Chapter 5.1-5.5
+: **Lecture-9:** Normalization <br><br> [**Due Project 1.1**{: .label .label-red}](/COSI-127B/assignments)
+    : - Textbook, Chapter 19.4-19.7
 
 Tue, Feb 13
 : **Lecture-10:** File Organization & Indexing
