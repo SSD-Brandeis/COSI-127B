@@ -35,7 +35,7 @@ Tue, Jan 30
     : - Textbook, Chapter 5.1-5.5
 
 Thu, Feb 01
-: **Lecture-7:** SQL II
+: [**Lecture-7:** SQL II](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ls3s3andoj36el){:target="_blank"}
     : - Textbook, Chapter 5.1-5.5
 
 Sat, Feb 03
