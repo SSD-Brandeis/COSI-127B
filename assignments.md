@@ -30,6 +30,11 @@ banner_description: ""
             <td>Feb 03, 2024 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lru2pfqy96f6u7" target="_blank">Relational Algebra</a></td>
             </tr>
+            <tr>
+            <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Assignment 3</a></td>
+            <td>Feb 10, 2024 @ 23:59</td>
+            <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ls3z6yajwkn6en" target="_blank">SQL</a></td>
+            </tr>
         </tbody>
         </table>
     </div>

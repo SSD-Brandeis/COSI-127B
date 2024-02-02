@@ -35,7 +35,7 @@ Tue, Jan 30
     : - Textbook, Chapter 5.1-5.5
 
 Thu, Feb 01
-: [**Lecture-7:** SQL II](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ls3s3andoj36el){:target="_blank"}
+: [**Lecture-7:** SQL II](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ls3s3andoj36el){:target="_blank"} <br><br> [**Released Written Assignment 3**{: .label .label-green}](/COSI-127B/assignments)
     : - Textbook, Chapter 5.1-5.5
 
 Sat, Feb 03
@@ -48,6 +48,9 @@ Tue, Feb 06
 Thu, Feb 08
 : **Lecture-9:** Normalization <br><br> [**Due Project 1.1**{: .label .label-red}](/COSI-127B/assignments)
     : - Textbook, Chapter 19.4-19.7
+
+Sat, Feb 10
+: [**Due Written Assignment 3**{: .label .label-red}](/COSI-127B/assignments)
 
 Tue, Feb 13
 : **Lecture-10:** File Organization & Indexing
