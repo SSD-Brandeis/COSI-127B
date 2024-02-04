@@ -24,7 +24,7 @@ Tue, Jan 23
     : - Textbook, Chapter 3
 
 Thu, Jan 25
-: [**Lecture-5:** Relational Algebra](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrtrsr1pqp04ig){:target="_blank"} <br><br> [**Released Written Assignment 2**{: .label .label-green}](/COSI-127B/assignments)
+: [**Lecture-5:** Relational Algebra](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrtrsr1pqp04ig){:target="_blank"} <br><br> [**Released Written Assignment 2**{: .label .label-grey}](/COSI-127B/assignments)
     : - Textbook, Chapter 4.1, 4.2
 
 Sat, Jan 27
@@ -39,7 +39,7 @@ Thu, Feb 01
     : - Textbook, Chapter 5.1-5.5
 
 Sat, Feb 03
-: [**Due Written Assignment 2**{: .label .label-red}](/COSI-127B/assignments)
+: [**Due Written Assignment 2**{: .label .label-grey}](/COSI-127B/assignments)
 
 Tue, Feb 06
 : **Lecture-8:** Functional Dependencies
