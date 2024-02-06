@@ -42,7 +42,7 @@ Sat, Feb 03
 : [**Due Written Assignment 2**{: .label .label-grey}](/COSI-127B/assignments)
 
 Tue, Feb 06
-: **Lecture-8:** Functional Dependencies
+: [**Lecture-8:** Functional Dependencies](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lsaxcj1u7vw5wc){:target="_blank"}
     : - Textbook, Chapter 19.1-19.3
 
 Thu, Feb 08
