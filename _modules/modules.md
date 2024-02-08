@@ -46,7 +46,7 @@ Tue, Feb 06
     : - Textbook, Chapter 19.1-19.3
 
 Thu, Feb 08
-: **Lecture-9:** Normalization <br><br> [**Due Project 1.1**{: .label .label-red}](/COSI-127B/assignments)
+: [**Lecture-9:** Normalization](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lsdsb0e2j8n6w8){:target="_blank"} <br><br> [**Due Project 1.1**{: .label .label-red}](/COSI-127B/assignments)
     : - Textbook, Chapter 19.4-19.7
 
 Sat, Feb 10
