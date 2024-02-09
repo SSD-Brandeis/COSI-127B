@@ -11,7 +11,7 @@ Thu, Jan 11
     : - Textbook, Chapter 1
 
 Tue, Jan 16
-: [**Lecture-2:** DBMS Architecture](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrguzgmnmx76df){:target="_blank"} <br><br> [**Released Project 1.1**{: .label .label-green}](/COSI-127B/assignments)
+: [**Lecture-2:** DBMS Architecture](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrguzgmnmx76df){:target="_blank"} <br><br> [**Released Project 1.1**{: .label .label-grey}](/COSI-127B/assignments)
     : - ["The Design and Implementation of Modern Column-Oriented Database Systems"](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf){:target="_blank"}, Chapters 1, 2, 3
 - ["Architecture of a Database System"](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf){:target="_blank"}, Chapter 1
 
@@ -46,7 +46,7 @@ Tue, Feb 06
     : - Textbook, Chapter 19.1-19.3
 
 Thu, Feb 08
-: [**Lecture-9:** Normalization](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lsdsb0e2j8n6w8){:target="_blank"} <br><br> [**Due Project 1.1**{: .label .label-red}](/COSI-127B/assignments)
+: [**Lecture-9:** Normalization](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lsdsb0e2j8n6w8){:target="_blank"} <br><br> [**Due Project 1.1**{: .label .label-grey}](/COSI-127B/assignments) [**Released Written Assignment 4**{: .label .label-green}](/COSI-127B/assignments)
     : - Textbook, Chapter 19.4-19.7
 
 Sat, Feb 10
@@ -59,6 +59,9 @@ Tue, Feb 13
 
 Thu, Feb 15
 : **Lecture-11:** Storage Layer
+
+Fri, Feb 16
+: [**Due Written Assignment 4**{: .label .label-red}](/COSI-127B/assignments)
 
 Tue, Feb 20
 : **February Break**{: .label .label-yellow}

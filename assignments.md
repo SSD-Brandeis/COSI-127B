@@ -35,6 +35,11 @@ banner_description: ""
             <td>Feb 10, 2024 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ls3z6yajwkn6en" target="_blank">SQL</a></td>
             </tr>
+            <tr>
+            <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Assignment 4</a></td>
+            <td>Feb 16, 2024 @ 23:59</td>
+            <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lse5z0qpyve1l" target="_blank">Normalization</a></td>
+            </tr>
         </tbody>
         </table>
     </div>

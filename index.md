@@ -11,16 +11,15 @@ permalink: /
 
 {: .highlight }
 > 
-> **Written Assignment 3** has been _released_. Please check the [**assignments**](/COSI-127B/assignments) page for more details. **Released on Feb 1, 2024**{: .label .label-green}**Due on Feb 10, 2024**{: .label .label-red}
-
-
-{: .passed }
-> 
-> **Written Assignment 2** has been _released_. Please check the [**assignments**](/COSI-127B/assignments) page for more details. **Released on Jan 25, 2024**{: .label .label-grey}**Due on Feb 3, 2024**{: .label .label-grey}
+> **Written Assignment 4** has been _released_. Please check the [**assignments**](/COSI-127B/assignments) page for more details. **Released on Feb 08, 2024**{: .label .label-green}**Due on Feb 16, 2024**{: .label .label-red}
 
 {: .highlight }
+> 
+> **Written Assignment 3** has been _released_. Please check the [**assignments**](/COSI-127B/assignments) page for more details. **Released on Feb 1, 2024**{: .label .label-green}**Due on Feb 10, 2024**{: .label .label-red}
+
+{: .passed }
 >
-> **Project 1.1** has been _released_. Please check the [**assignments**](/COSI-127B/assignments) page for more details. **Released on Jan 16, 2024**{: .label .label-green}**Due on Feb 8, 2024**{: .label .label-red}
+> **Project 1.1** has been _released_. Please check the [**assignments**](/COSI-127B/assignments) page for more details. **Released on Jan 16, 2024**{: .label .label-grey}**Due on Feb 8, 2024**{: .label .label-grey}
 
 
 |----------|----------|
