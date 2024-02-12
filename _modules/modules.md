@@ -35,7 +35,7 @@ Tue, Jan 30
     : - Textbook, Chapter 5.1-5.5
 
 Thu, Feb 01
-: [**Lecture-7:** SQL II](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ls3s3andoj36el){:target="_blank"} <br><br> [**Released Written Assignment 3**{: .label .label-green}](/COSI-127B/assignments)
+: [**Lecture-7:** SQL II](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ls3s3andoj36el){:target="_blank"} <br><br> [**Released Written Assignment 3**{: .label .label-grey}](/COSI-127B/assignments)
     : - Textbook, Chapter 5.1-5.5
 
 Sat, Feb 03
@@ -50,7 +50,7 @@ Thu, Feb 08
     : - Textbook, Chapter 19.4-19.7
 
 Sat, Feb 10
-: [**Due Written Assignment 3**{: .label .label-red}](/COSI-127B/assignments)
+: [**Due Written Assignment 3**{: .label .label-grey}](/COSI-127B/assignments)
 
 Tue, Feb 13
 : **Lecture-10:** File Organization & Indexing
@@ -59,6 +59,9 @@ Tue, Feb 13
 
 Thu, Feb 15
 : **Lecture-11:** Storage Layer
+    : - Textbook, Chapter 9.1-9.4
+- ["On Multidimensional Data and Modern Disks"](https://www.usenix.org/legacy/events/fast05/tech/schlosser/schlosser.pdf), FAST 2005 (Sections 1, 2, 3, 4)
+- ["Design Tradeoffs for SSD Performance"](https://www.usenix.org/legacy/events/usenix08/tech/full_papers/agrawal/agrawal_html/index.html), USENIX ATC 2008 (Sections 1, 2, 3)
 
 Fri, Feb 16
 : [**Due Written Assignment 4**{: .label .label-red}](/COSI-127B/assignments)
@@ -70,49 +73,49 @@ Thu, Feb 22
 : **February Break**{: .label .label-yellow}
 
 Tue, Feb 27
-: **Lecture-12:** Tree Indexing
+: **Lecture-12:** Indexing
 
 Thu, Feb 29
-: **Lecture-13:** Hashing
+: **Lecture-13:** Tree Indexing
 
 Tue, Mar 05
-: **Lecture-14:** External Sorting
+: **Lecture-14:** Hashing
 
-Thu, Mar 08
+Thu, Mar 07
 : **MidTerm I Exam**{: .label .label-purple} (Tentative)
 
 Tue, Mar 12
-: **Lecture-15:** LSM
+: **Lecture-15:** External Sorting
 
 Thu, Mar 14
-: **Lecture-16:** Query Processing with Relational Operators
+: **Lecture-16:** LSM
 
 Tue, Mar 19
-: **Lecture-17:** Joins I
+: **Lecture-17:** Query Processing with Relational Operators
 
 Thu, Mar 21
-: **Lecture-18:** Joins II
+: **Lecture-18:** Joins I
 
 Tue, Mar 26
-: **Lecture-19:** Relational Query Optimization
+: **Lecture-19:** Joins II
 
 Thu, Mar 28
 : **March Break**{: .label .label-yellow}
 
 Tue, Apr 02
-: **Lecture-20:** Transaction Management
+: **Lecture-20:** Relational Query Optimization
 
 Thu, Apr 04
-: **Lecture-21:** Concurrency Control
+: **Lecture-21:** Transaction Management
 
 Tue, Apr 09
-: **Lecture-22:** Recovery
+: **Lecture-22:** Concurrency Control
 
 Thu, Apr 11
-: **Lecture-23:** Advanced Topics/NoSQL & Review
+: **Lecture-23:** Recovery
 
 Tue, Apr 16
-: **Review**{: .label .label-yellow}
+: **Review**{: .label .label-yellow} / Advanced Topics / NoSQL
 
 Thu, Apr 18
 : **Midterm II Exam**{: .label .label-purple}
