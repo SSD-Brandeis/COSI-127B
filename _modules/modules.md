@@ -130,7 +130,7 @@ Thu, Apr 11
     : - Textbook, Chapter 17.1-17.5
 
 Tue, Apr 16
-: **Lecture-23** Recovery
+: **Lecture-23:** Recovery
     : - Textbook, Chapter 18
 
 Thu, Apr 18
