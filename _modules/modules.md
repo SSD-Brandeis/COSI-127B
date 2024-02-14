@@ -53,18 +53,12 @@ Sat, Feb 10
 : [**Due Written Assignment 3**{: .label .label-grey}](/COSI-127B/assignments)
 
 Tue, Feb 13
+: **Snow Day**{: .label .label-white} <br><br> [**Released Project 1.2**{: .label .label-green}](/COSI-127B/assignments)
+
+Thu, Feb 15
 : **Lecture-10:** File Organization & Indexing
     : - Textbook, Chapter 8 & 9.1, 9.5-9.7
 - ["Data page layouts for relational databases on deep memory hierarchies"](https://link.springer.com/article/10.1007%2Fs00778-002-0074-9), The VLDB Journal, 2002 (Sections 1, 2, 3, 4)
-
-Thu, Feb 15
-: **Lecture-11:** Storage Layer
-    : - Textbook, Chapter 9.1-9.4
-- ["On Multidimensional Data and Modern Disks"](https://www.usenix.org/legacy/events/fast05/tech/schlosser/schlosser.pdf), FAST 2005 (Sections 1, 2, 3, 4)
-- ["Design Tradeoffs for SSD Performance"](https://www.usenix.org/legacy/events/usenix08/tech/full_papers/agrawal/agrawal_html/index.html), USENIX ATC 2008 (Sections 1, 2, 3)
-
-Fri, Feb 16
-: [**Due Written Assignment 4**{: .label .label-red}](/COSI-127B/assignments)
 
 Tue, Feb 20
 : **February Break**{: .label .label-yellow}
@@ -72,50 +66,72 @@ Tue, Feb 20
 Thu, Feb 22
 : **February Break**{: .label .label-yellow}
 
+Mon, Feb 26
+: [**Due Written Assignment 4**{: .label .label-red}](/COSI-127B/assignments)
+
 Tue, Feb 27
-: **Lecture-12:** Indexing
+: **Lecture-11:** Storage Layer
+    : - Textbook, Chapter 9.1-9.4
+- ["On Multidimensional Data and Modern Disks"](https://www.usenix.org/legacy/events/fast05/tech/schlosser/schlosser.pdf), FAST 2005 (Sections 1, 2, 3, 4)
+- ["Design Tradeoffs for SSD Performance"](https://www.usenix.org/legacy/events/usenix08/tech/full_papers/agrawal/agrawal_html/index.html), USENIX ATC 2008 (Sections 1, 2, 3)
 
 Thu, Feb 29
-: **Lecture-13:** Tree Indexing
+: **Lecture-12:** Indexing
+    : - Textbook, Chapter 8.4 & 8.5
+
+Fri, Mar 01
+: [**Due Project 1.2**{: .label .label-red}](/COSI-127B/assignments)
 
 Tue, Mar 05
-: **Lecture-14:** Hashing
+: **Lecture-13:** Tree Indexing
+    : - Textbook, Chapter 10.1, 10.3-10.8
 
 Thu, Mar 07
 : **MidTerm I Exam**{: .label .label-purple} (Tentative)
 
 Tue, Mar 12
-: **Lecture-15:** External Sorting
+: **Lecture-14:** Hashing
+    : - Textbook, Chapter 11
 
 Thu, Mar 14
-: **Lecture-16:** LSM
+: **Lecture-15:** External Sorting
+    : - Textbook, Chapter 13
 
 Tue, Mar 19
-: **Lecture-17:** Query Processing with Relational Operators
+: **Lecture-16:** LSM
+    : - ["Optimal Bloom Filters and Adaptive Merging for LSM-Trees"](https://dl.acm.org/citation.cfm?id=3276980), ACM TODS 2018 (Sections 1, 2, 3)
 
 Thu, Mar 21
-: **Lecture-18:** Joins I
+: **Lecture-17:** Query Processing with Relational Operators
+    : - ["More on the Halloween Problem"](https://web.archive.org/web/20070718223542/http://www.noncombatant.org/trove/fitzpatrick-anecdotes.pdf)
+- Textbook, Chapter 12 & 14.1-14.3
 
 Tue, Mar 26
-: **Lecture-19:** Joins II
+: **Lecture-18:** Joins I
+    : - Textbook, Chapter 14.4.1-14.4.2
 
 Thu, Mar 28
 : **March Break**{: .label .label-yellow}
 
 Tue, Apr 02
-: **Lecture-20:** Relational Query Optimization
+: **Lecture-19:** Joins II
+    : - Textbook, Chapter 14.4.3-14.4.4, 14.6-14.7
 
 Thu, Apr 04
-: **Lecture-21:** Transaction Management
+: **Lecture-20:** Relational Query Optimization
+    : - Textbook, Chapter 15
 
 Tue, Apr 09
-: **Lecture-22:** Concurrency Control
+: **Lecture-21:** Transaction Management
+    : - Textbook, Chapter 16
 
 Thu, Apr 11
-: **Lecture-23:** Recovery
+: **Lecture-22:** Concurrency Control
+    : - Textbook, Chapter 17.1-17.5
 
 Tue, Apr 16
-: **Review**{: .label .label-yellow} / Advanced Topics / NoSQL
+: **Lecture-23** Recovery
+    : - Textbook, Chapter 18
 
 Thu, Apr 18
 : **Midterm II Exam**{: .label .label-purple}
