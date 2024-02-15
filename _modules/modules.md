@@ -56,7 +56,7 @@ Tue, Feb 13
 : **Snow Day**{: .label .label-white} <br><br> [**Released Project 1.2**{: .label .label-green}](/COSI-127B/assignments)
 
 Thu, Feb 15
-: **Lecture-10:** [File Organization & Indexing](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lsnse106nl05y4){:target="_blank"}
+: [**Lecture-10:** File Organization & Indexing](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lsnse106nl05y4){:target="_blank"}
     : - Textbook, Chapter 8 & 9.1, 9.5-9.7
 - ["Data page layouts for relational databases on deep memory hierarchies"](https://link.springer.com/article/10.1007%2Fs00778-002-0074-9), The VLDB Journal, 2002 (Sections 1, 2, 3, 4)
 
