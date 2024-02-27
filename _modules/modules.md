@@ -70,7 +70,7 @@ Mon, Feb 26
 : [**Due Written Assignment 4**{: .label .label-red}](/COSI-127B/assignments)
 
 Tue, Feb 27
-: **Lecture 11:** Storage Layer
+: [**Lecture-11:** Storage Layer](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lt4xzryggap5ld){:target="_blank"}
     : - Textbook, Chapter 9.1-9.4
 - ["On Multidimensional Data and Modern Disks"](https://www.usenix.org/legacy/events/fast05/tech/schlosser/schlosser.pdf), FAST 2005 (Sections 1, 2, 3, 4)
 - ["Design Tradeoffs for SSD Performance"](https://www.usenix.org/legacy/events/usenix08/tech/full_papers/agrawal/agrawal_html/index.html), USENIX ATC 2008 (Sections 1, 2, 3)
