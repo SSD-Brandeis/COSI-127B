@@ -40,6 +40,11 @@ banner_description: ""
             <td>Feb 26, 2024 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lse5z0qpyve1l" target="_blank">Normalization</a></td>
             </tr>
+            <tr>
+            <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Assignment 5A</a></td>
+            <td>Mar 05, 2024 @ 23:59</td>
+            <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lt60ian4fmw3en" target="_blank">File Organization</a></td>
+            </tr>
         </tbody>
         </table>
     </div>

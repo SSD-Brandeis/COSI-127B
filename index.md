@@ -10,12 +10,12 @@ permalink: /
 ---
 
 {: .highlight }
->
-> **Project 1.2** has been _released_. Please check the [**assignments**](/COSI-127B/assignments) page for more details. **Released on Feb 13, 2024**{: .label .label-green}**Due on Mar 1, 2024**{: .label .label-red}
+> 
+> **Written Assignment 5A** has been _released_. Please check the [**assignments**](/COSI-127B/assignments) page for more details. **Released on Feb 28, 2024**{: .label .label-green}**Due on Mar 05, 2024**{: .label .label-red}
 
 {: .highlight }
-> 
-> **Written Assignment 4** has been _released_. Please check the [**assignments**](/COSI-127B/assignments) page for more details. **Released on Feb 08, 2024**{: .label .label-green}**Due on Feb 26, 2024**{: .label .label-red}
+>
+> **Project 1.2** has been _released_. Please check the [**assignments**](/COSI-127B/assignments) page for more details. **Released on Feb 13, 2024**{: .label .label-green}**Due on Mar 1, 2024**{: .label .label-red}
 
 |----------|----------|
 | __Instructors__{: .fs-4} | [<u>Subhadeep Sarkar</u>](https://subhadeep.net){:target="_blank"}, Han Yue, and Shubham Kaushik |

@@ -46,7 +46,7 @@ Tue, Feb 06
     : - Textbook, Chapter 19.1-19.3
 
 Thu, Feb 08
-: [**Lecture 9:** Normalization](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lsdsb0e2j8n6w8){:target="_blank"} <br><br> [**Due Project 1.1**{: .label .label-grey}](/COSI-127B/assignments) [**Released Written Assignment 4**{: .label .label-green}](/COSI-127B/assignments)
+: [**Lecture 9:** Normalization](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lsdsb0e2j8n6w8){:target="_blank"} <br><br> [**Due Project 1.1**{: .label .label-grey}](/COSI-127B/assignments) [**Released Written Assignment 4**{: .label .label-grey}](/COSI-127B/assignments)
     : - Textbook, Chapter 19.4-19.7
 
 Sat, Feb 10
@@ -67,13 +67,16 @@ Thu, Feb 22
 : **February Break**{: .label .label-yellow}
 
 Mon, Feb 26
-: [**Due Written Assignment 4**{: .label .label-red}](/COSI-127B/assignments)
+: [**Due Written Assignment 4**{: .label .label-grey}](/COSI-127B/assignments)
 
 Tue, Feb 27
 : [**Lecture-11:** Storage Layer](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lt4xzryggap5ld){:target="_blank"}
     : - Textbook, Chapter 9.1-9.4
 - ["On Multidimensional Data and Modern Disks"](https://www.usenix.org/legacy/events/fast05/tech/schlosser/schlosser.pdf), FAST 2005 (Sections 1, 2, 3, 4)
 - ["Design Tradeoffs for SSD Performance"](https://www.usenix.org/legacy/events/usenix08/tech/full_papers/agrawal/agrawal_html/index.html), USENIX ATC 2008 (Sections 1, 2, 3)
+
+Wed, Feb 28
+: [**Released Written Assignment 5A**{: .label .label-green}](/COSI-127B/assignments)
 
 Thu, Feb 29
 : **Lecture 12:** Indexing
@@ -85,6 +88,7 @@ Fri, Mar 01
 Tue, Mar 05
 : **Lecture 13:** Tree Indexing
     : - Textbook, Chapter 10.1, 10.3-10.8
+: [**Due Written Assignment 5A**{: .label .label-red}](/COSI-127B/assignments)
 
 Thu, Mar 07
 : **MidTerm I Exam**{: .label .label-purple} (Tentative)
