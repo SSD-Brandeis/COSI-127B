@@ -79,7 +79,7 @@ Wed, Feb 28
 : [**Released Written Assignment 5A**{: .label .label-green}](/COSI-127B/assignments)
 
 Thu, Feb 29
-: **Lecture 12:** Indexing
+: [**Lecture 12:** Indexing](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lt7sp85b8go4xc){:target="_blank"}
     : - Textbook, Chapter 8.4 & 8.5
 
 Fri, Mar 01
