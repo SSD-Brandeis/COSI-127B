@@ -91,10 +91,10 @@ Tue, Mar 05
 : [**Due Written Assignment 5A**{: .label .label-red}](/COSI-127B/assignments)
 
 Thu, Mar 07
-: **MidTerm I Exam**{: .label .label-purple} (Tentative)
+: **MidTerm I Exam**{: .label .label-purple}
 
 Tue, Mar 12
-: **Lecture 14:** Hashing
+: **Lecture 14:** Hash Indexing
     : - Textbook, Chapter 11
 
 Thu, Mar 14
