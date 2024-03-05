@@ -53,7 +53,7 @@ Sat, Feb 10
 : [**Due Written Assignment 3**{: .label .label-grey}](/COSI-127B/assignments)
 
 Tue, Feb 13
-: **Snow Day**{: .label .label-white} <br><br> [**Released Project 1.2**{: .label .label-green}](/COSI-127B/assignments)
+: **Snow Day**{: .label .label-white} <br><br> [**Released Project 1.2**{: .label .label-grey}](/COSI-127B/assignments)
 
 Thu, Feb 15
 : [**Lecture 10:** File Organization & Indexing](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lsnse106nl05y4){:target="_blank"}
@@ -76,19 +76,19 @@ Tue, Feb 27
 - ["Design Tradeoffs for SSD Performance"](https://www.usenix.org/legacy/events/usenix08/tech/full_papers/agrawal/agrawal_html/index.html), USENIX ATC 2008 (Sections 1, 2, 3)
 
 Wed, Feb 28
-: [**Released Written Assignment 5A**{: .label .label-green}](/COSI-127B/assignments)
+: [**Released Written Assignment 5A**{: .label .label-grey}](/COSI-127B/assignments)
 
 Thu, Feb 29
 : [**Lecture 12:** Indexing](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lt7sp85b8go4xc){:target="_blank"}
     : - Textbook, Chapter 8.4 & 8.5
 
 Fri, Mar 01
-: [**Due Project 1.2**{: .label .label-red}](/COSI-127B/assignments)
+: [**Due Project 1.2**{: .label .label-grey}](/COSI-127B/assignments)
 
 Tue, Mar 05
-: **Lecture 13:** Tree Indexing
+: [**Lecture 13:** Tree Indexing](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ltexx1jfvj31rk){:target="_blank"}
     : - Textbook, Chapter 10.1, 10.3-10.8
-: [**Due Written Assignment 5A**{: .label .label-red}](/COSI-127B/assignments)
+: [**Due Written Assignment 5A**{: .label .label-grey}](/COSI-127B/assignments) [**Released Project 1.3**{: .label .label-green}](/COSI-127B/assignments)
 
 Thu, Mar 07
 : **MidTerm I Exam**{: .label .label-purple}
@@ -109,6 +109,7 @@ Thu, Mar 21
 : **Lecture 17:** Query Processing with Relational Operators
     : - ["More on the Halloween Problem"](https://web.archive.org/web/20070718223542/http://www.noncombatant.org/trove/fitzpatrick-anecdotes.pdf)
 - Textbook, Chapter 12 & 14.1-14.3
+: [**Due Project 1.3**{: .label .label-red}](/COSI-127B/assignments)
 
 Tue, Mar 26
 : **Lecture 18:** Joins I
