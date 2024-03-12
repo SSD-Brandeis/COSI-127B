@@ -94,7 +94,7 @@ Thu, Mar 07
 : **MidTerm I Exam**{: .label .label-purple}
 
 Tue, Mar 12
-: **Lecture 14:** Hash Indexing
+: [**Lecture 14:** Hash Indexing](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ltowgvycq1i11){:target="_blank"}
     : - Textbook, Chapter 11
 
 Thu, Mar 14
