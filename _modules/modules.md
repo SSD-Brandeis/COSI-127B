@@ -98,7 +98,7 @@ Tue, Mar 12
     : - Textbook, Chapter 11
 
 Thu, Mar 14
-: **Lecture 15:** External Sorting
+: [**Lecture 15:** External Sorting](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ltrqjkpsn9e4bd){:target="_blank"}
     : - Textbook, Chapter 13
 
 Tue, Mar 19
