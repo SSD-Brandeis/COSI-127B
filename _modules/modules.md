@@ -100,6 +100,7 @@ Tue, Mar 12
 Thu, Mar 14
 : [**Lecture 15:** External Sorting](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ltrqjkpsn9e4bd){:target="_blank"}
     : - Textbook, Chapter 13
+: [**Released Written Assignment 5B**{: .label .label-green}](/COSI-127B/assignments)
 
 Tue, Mar 19
 : **Lecture 16:** LSM
@@ -110,6 +111,9 @@ Thu, Mar 21
     : - ["More on the Halloween Problem"](https://web.archive.org/web/20070718223542/http://www.noncombatant.org/trove/fitzpatrick-anecdotes.pdf)
 - Textbook, Chapter 12 & 14.1-14.3
 : [**Due Project 1.3**{: .label .label-red}](/COSI-127B/assignments)
+
+Sat, Mar 23
+: [**Due Written Assignment 5B**{: .label .label-red}](/COSI-127B/assignments)
 
 Tue, Mar 26
 : **Lecture 18:** Joins I
