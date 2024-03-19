@@ -103,7 +103,7 @@ Thu, Mar 14
 : [**Released Written Assignment 5B**{: .label .label-green}](/COSI-127B/assignments)
 
 Tue, Mar 19
-: **Lecture 16:** Query Processing - I
+: [**Lecture 16:** Query Processing - I](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ltyvtfo72a91tm){:target="_blank"}
     : - ["More on the Halloween Problem"](https://web.archive.org/web/20070718223542/http://www.noncombatant.org/trove/fitzpatrick-anecdotes.pdf)
 - Textbook, Chapter 12 & 14.1-14.3
 : [**Due Project 1.3**{: .label .label-red}](/COSI-127B/assignments)
