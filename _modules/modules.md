@@ -103,44 +103,43 @@ Thu, Mar 14
 : [**Released Written Assignment 5B**{: .label .label-green}](/COSI-127B/assignments)
 
 Tue, Mar 19
-: **Lecture 16:** LSM
-    : - ["Optimal Bloom Filters and Adaptive Merging for LSM-Trees"](https://dl.acm.org/citation.cfm?id=3276980), ACM TODS 2018 (Sections 1, 2, 3)
-
-Thu, Mar 21
-: **Lecture 17:** Query Processing with Relational Operators
+: **Lecture 16:** Query Processing - I
     : - ["More on the Halloween Problem"](https://web.archive.org/web/20070718223542/http://www.noncombatant.org/trove/fitzpatrick-anecdotes.pdf)
 - Textbook, Chapter 12 & 14.1-14.3
 : [**Due Project 1.3**{: .label .label-red}](/COSI-127B/assignments)
+
+Thu, Mar 21
+: **Lecture 17:** Query Processing - II
+    : - Textbook, Chapter 14.4.1-14.4.2
 
 Sat, Mar 23
 : [**Due Written Assignment 5B**{: .label .label-red}](/COSI-127B/assignments)
 
 Tue, Mar 26
-: **Lecture 18:** Joins I
-    : - Textbook, Chapter 14.4.1-14.4.2
+: **Lecture 18:** Query Processing - III
+    : - Textbook, Chapter 14.4.3-14.4.4, 14.6-14.7, Chapter 15
 
 Thu, Mar 28
 : **March Break**{: .label .label-yellow}
 
 Tue, Apr 02
-: **Lecture 19:** Joins II
-    : - Textbook, Chapter 14.4.3-14.4.4, 14.6-14.7
-
-Thu, Apr 04
-: **Lecture 20:** Relational Query Optimization
-    : - Textbook, Chapter 15
-
-Tue, Apr 09
-: **Lecture 21:** Transaction Management
+: **Lecture 19:** Transaction Management
     : - Textbook, Chapter 16
 
-Thu, Apr 11
-: **Lecture 22:** Concurrency Control
+Thu, Apr 04
+: **Lecture 20:** Concurrency Control
     : - Textbook, Chapter 17.1-17.5
 
-Tue, Apr 16
-: **Lecture 23:** Recovery
+Tue, Apr 09
+: **Lecture 21:** Recovery
     : - Textbook, Chapter 18
+
+Thu, Apr 11
+: **Lecture 22:** Advanced Topics/NoSQL/LSM
+    : - ["Optimal Bloom Filters and Adaptive Merging for LSM-Trees"](https://dl.acm.org/citation.cfm?id=3276980), ACM TODS 2018 (Sections 1, 2, 3)
+
+Tue, Apr 16
+: **Lecture 23:** Review
 
 Thu, Apr 18
 : **Midterm II Exam**{: .label .label-purple}
