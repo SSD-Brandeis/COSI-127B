@@ -88,7 +88,7 @@ Fri, Mar 01
 Tue, Mar 05
 : [**Lecture 13:** Tree Indexing](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ltexx1jfvj31rk){:target="_blank"}
     : - Textbook, Chapter 10.1, 10.3-10.8
-: [**Due Written Assignment 5A**{: .label .label-grey}](/COSI-127B/assignments) [**Released Project 1.3**{: .label .label-green}](/COSI-127B/assignments)
+: [**Due Written Assignment 5A**{: .label .label-grey}](/COSI-127B/assignments) [**Released Project 1.3**{: .label .label-grey}](/COSI-127B/assignments)
 
 Thu, Mar 07
 : **MidTerm I Exam**{: .label .label-purple}
@@ -106,11 +106,12 @@ Tue, Mar 19
 : [**Lecture 16:** Query Processing - I](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ltyvtfo72a91tm){:target="_blank"}
     : - ["More on the Halloween Problem"](https://web.archive.org/web/20070718223542/http://www.noncombatant.org/trove/fitzpatrick-anecdotes.pdf)
 - Textbook, Chapter 12 & 14.1-14.3
-: [**Due Project 1.3**{: .label .label-red}](/COSI-127B/assignments)
+: [**Due Project 1.3**{: .label .label-grey}](/COSI-127B/assignments)
 
 Thu, Mar 21
 : [**Lecture 17:** Query Processing - II](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lu1qp47byv33pz){:target="_blank"}
     : - Textbook, Chapter 14.4.1-14.4.2
+: [**Released Project 2**{: .label .label-green}](/COSI-127B/assignments)
 
 Sat, Mar 23
 : [**Due Written Assignment 5B**{: .label .label-red}](/COSI-127B/assignments)
@@ -129,6 +130,7 @@ Tue, Apr 02
 Thu, Apr 04
 : **Lecture 20:** Concurrency Control
     : - Textbook, Chapter 17.1-17.5
+: [**Due Project 2**{: .label .label-red}](/COSI-127B/assignments)
 
 Tue, Apr 09
 : **Lecture 21:** Recovery
