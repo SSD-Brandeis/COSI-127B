@@ -109,7 +109,7 @@ Tue, Mar 19
 : [**Due Project 1.3**{: .label .label-red}](/COSI-127B/assignments)
 
 Thu, Mar 21
-: **Lecture 17:** Query Processing - II
+: [**Lecture 17:** Query Processing - II](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lu1qp47byv33pz){:target="_blank"}
     : - Textbook, Chapter 14.4.1-14.4.2
 
 Sat, Mar 23
