@@ -100,7 +100,7 @@ Tue, Mar 12
 Thu, Mar 14
 : [**Lecture 15:** External Sorting](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ltrqjkpsn9e4bd){:target="_blank"}
     : - Textbook, Chapter 13
-: [**Released Written Assignment 5B**{: .label .label-green}](/COSI-127B/assignments)
+: [**Released Written Assignment 5B**{: .label .label-grey}](/COSI-127B/assignments)
 
 Tue, Mar 19
 : [**Lecture 16:** Query Processing - I](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ltyvtfo72a91tm){:target="_blank"}
@@ -114,10 +114,10 @@ Thu, Mar 21
 : [**Released Project 2**{: .label .label-green}](/COSI-127B/assignments)
 
 Sat, Mar 23
-: [**Due Written Assignment 5B**{: .label .label-red}](/COSI-127B/assignments)
+: [**Due Written Assignment 5B**{: .label .label-grey}](/COSI-127B/assignments)
 
 Tue, Mar 26
-: **Lecture 18:** Query Processing - III
+: [**Lecture 18:** Query Processing - III](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lu8vs1b4day61n){:target="_blank"}
     : - Textbook, Chapter 14.4.3-14.4.4, 14.6-14.7, Chapter 15
 
 Thu, Mar 28

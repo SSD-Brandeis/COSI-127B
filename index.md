@@ -13,9 +13,9 @@ permalink: /
 >
 > **Project 2** has been _released_. Please check the [**assignments**](/COSI-127B/assignments) page for more details. **Released on Mar 21, 2024**{: .label .label-green}**Due on Apr 4, 2024**{: .label .label-red}
 
-{: .highlight }
+{: .passed }
 > 
-> **Written Assignment 5B** has been _released_. Please check the [**assignments**](/COSI-127B/assignments) page for more details. **Released on Mar 14, 2024**{: .label .label-green}**Due on Mar 23, 2024**{: .label .label-red}
+> **Written Assignment 5B** has been _released_. Please check the [**assignments**](/COSI-127B/assignments) page for more details. **Released on Mar 14, 2024**{: .label .label-grey}**Due on Mar 23, 2024**{: .label .label-grey}
 
 
 |----------|----------|
