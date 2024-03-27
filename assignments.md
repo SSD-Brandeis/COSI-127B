@@ -50,6 +50,11 @@ banner_description: ""
             <td>Mar 23, 2024 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ltrynfsz9cd6k" target="_blank">Indexing And Sorting</a></td>
             </tr>
+            <tr>
+            <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Assignment 6</a></td>
+            <td>Apr 05, 2024 @ 23:59</td>
+            <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lu944ja3hs378h" target="_blank">Query Optimization</a></td>
+            </tr>
         </tbody>
         </table>
     </div>

@@ -119,6 +119,7 @@ Sat, Mar 23
 Tue, Mar 26
 : [**Lecture 18:** Query Processing - III](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lu8vs1b4day61n){:target="_blank"}
     : - Textbook, Chapter 14.4.3-14.4.4, 14.6-14.7, Chapter 15
+: [**Released Written Assignment 6**{: .label .label-green}](/COSI-127B/assignments)
 
 Thu, Mar 28
 : **March Break**{: .label .label-yellow}
@@ -131,6 +132,9 @@ Thu, Apr 04
 : **Lecture 20:** Concurrency Control
     : - Textbook, Chapter 17.1-17.5
 : [**Due Project 2**{: .label .label-red}](/COSI-127B/assignments)
+
+Fri, Apr 05
+: [**Due Written Assignment 6**{: .label .label-red}](/COSI-127B/assignments)
 
 Tue, Apr 09
 : **Lecture 21:** Recovery
