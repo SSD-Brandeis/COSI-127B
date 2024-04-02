@@ -125,7 +125,7 @@ Thu, Mar 28
 : **March Break**{: .label .label-yellow}
 
 Tue, Apr 02
-: **Lecture 19:** Transaction Management
+: [**Lecture 19:** Transaction Management](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/luiw2jkqrsg5dc){:target="_blank"}
     : - Textbook, Chapter 16
 
 Thu, Apr 04
