@@ -129,7 +129,7 @@ Tue, Apr 02
     : - Textbook, Chapter 16
 
 Thu, Apr 04
-: **Lecture 20:** Concurrency Control
+: [**Lecture 20:** Concurrency Control](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lulqzczfudx73k){:target="_blank"}
     : - Textbook, Chapter 17.1-17.5
 : [**Due Project 2**{: .label .label-red}](/COSI-127B/assignments)
 
