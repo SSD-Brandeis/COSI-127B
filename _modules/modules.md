@@ -111,7 +111,7 @@ Tue, Mar 19
 Thu, Mar 21
 : [**Lecture 17:** Query Processing - II](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lu1qp47byv33pz){:target="_blank"}
     : - Textbook, Chapter 14.4.1-14.4.2
-: [**Released Project 2**{: .label .label-green}](/COSI-127B/assignments)
+: [**Released Project 2**{: .label .label-grey}](/COSI-127B/assignments)
 
 Sat, Mar 23
 : [**Due Written Assignment 5B**{: .label .label-grey}](/COSI-127B/assignments)
@@ -119,7 +119,7 @@ Sat, Mar 23
 Tue, Mar 26
 : [**Lecture 18:** Query Processing - III](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lu8vs1b4day61n){:target="_blank"}
     : - Textbook, Chapter 14.4.3-14.4.4, 14.6-14.7, Chapter 15
-: [**Released Written Assignment 6**{: .label .label-green}](/COSI-127B/assignments)
+: [**Released Written Assignment 6**{: .label .label-grey}](/COSI-127B/assignments)
 
 Thu, Mar 28
 : **March Break**{: .label .label-yellow}
@@ -131,13 +131,13 @@ Tue, Apr 02
 Thu, Apr 04
 : [**Lecture 20:** Concurrency Control](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lulqzczfudx73k){:target="_blank"}
     : - Textbook, Chapter 17.1-17.5
-: [**Due Project 2**{: .label .label-red}](/COSI-127B/assignments)
+: [**Due Project 2**{: .label .label-grey}](/COSI-127B/assignments)
 
 Fri, Apr 05
-: [**Due Written Assignment 6**{: .label .label-red}](/COSI-127B/assignments)
+: [**Due Written Assignment 6**{: .label .label-grey}](/COSI-127B/assignments)
 
 Tue, Apr 09
-: **Lecture 21:** Recovery
+: [**Lecture 21:** Recovery](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lusvxz375xmav){:target="_blank"}
     : - Textbook, Chapter 18
 
 Thu, Apr 11
