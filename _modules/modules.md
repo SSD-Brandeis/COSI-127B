@@ -141,7 +141,7 @@ Tue, Apr 09
     : - Textbook, Chapter 18
 
 Thu, Apr 11
-: **Lecture 22:** Advanced Topics/NoSQL/LSM
+: [**Lecture 22:** Advanced Topics/NoSQL/LSM](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/luvqmu4jpbm6xq){:target="_blank"}
     : - ["Optimal Bloom Filters and Adaptive Merging for LSM-Trees"](https://dl.acm.org/citation.cfm?id=3276980), ACM TODS 2018 (Sections 1, 2, 3)
 
 Tue, Apr 16
