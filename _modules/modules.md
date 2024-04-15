@@ -125,11 +125,11 @@ Thu, Mar 28
 : **March Break**{: .label .label-yellow}
 
 Tue, Apr 02
-: [**Lecture 19:** Transaction Management](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/luiw2jkqrsg5dc){:target="_blank"}
+: [**Lecture 19:** Concurrency Control](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/luiw2jkqrsg5dc){:target="_blank"}
     : - Textbook, Chapter 16
 
 Thu, Apr 04
-: [**Lecture 20:** Concurrency Control](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lulqzczfudx73k){:target="_blank"}
+: [**Lecture 20:** Locking](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lulqzczfudx73k){:target="_blank"}
     : - Textbook, Chapter 17.1-17.5
 : [**Due Project 2**{: .label .label-grey}](/COSI-127B/assignments)
 
@@ -137,12 +137,14 @@ Fri, Apr 05
 : [**Due Written Assignment 6**{: .label .label-grey}](/COSI-127B/assignments)
 
 Tue, Apr 09
-: [**Lecture 21:** Recovery](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lusvxz375xmav){:target="_blank"}
+: [**Lecture 21:** Logging and Recovery](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lusvxz375xmav){:target="_blank"}
     : - Textbook, Chapter 18
 
 Thu, Apr 11
-: [**Lecture 22:** Advanced Topics/NoSQL/LSM](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/luvqmu4jpbm6xq){:target="_blank"}
-    : - ["Optimal Bloom Filters and Adaptive Merging for LSM-Trees"](https://dl.acm.org/citation.cfm?id=3276980), ACM TODS 2018 (Sections 1, 2, 3)
+: [**Lecture 22:** NoSQL & Introduction to CS 167A](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/luvqmu4jpbm6xq){:target="_blank"}
+    : - [Constructing and Analyzing the LSM Compaction Design Space](https://arxiv.org/abs/2202.04522){:target="_blank"}
+    : - [Dissecting, Designing, and Optimizing LSM-based Data Stores](https://dl.acm.org/doi/10.1145/3514221.3522563){:target="_blank"}
+    : - ["LSM-based Storage Techniques: A Survey"](https://arxiv.org/abs/1812.07527), VLDB Journal, 2019
 
 Tue, Apr 16
 : **Lecture 23:** Review
