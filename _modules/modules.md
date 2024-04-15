@@ -142,8 +142,8 @@ Tue, Apr 09
 
 Thu, Apr 11
 : [**Lecture 22:** NoSQL & Introduction to CS 167A](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/luvqmu4jpbm6xq){:target="_blank"}
-    : - [Constructing and Analyzing the LSM Compaction Design Space](https://arxiv.org/abs/2202.04522){:target="_blank"}
-- [Dissecting, Designing, and Optimizing LSM-based Data Stores](https://dl.acm.org/doi/10.1145/3514221.3522563){:target="_blank"}
+    : - ["Constructing and Analyzing the LSM Compaction Design Space"](https://arxiv.org/abs/2202.04522){:target="_blank"}, VLDB Endowment, 2021
+- ["Dissecting, Designing, and Optimizing LSM-based Data Stores"](https://dl.acm.org/doi/10.1145/3514221.3522563){:target="_blank"} SIGMOD, 2022
 - ["LSM-based Storage Techniques: A Survey"](https://arxiv.org/abs/1812.07527), VLDB Journal, 2019
 
 Tue, Apr 16
