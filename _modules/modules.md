@@ -147,7 +147,7 @@ Thu, Apr 11
 - ["LSM-based Storage Techniques: A Survey"](https://arxiv.org/abs/1812.07527), VLDB Journal, 2019
 
 Tue, Apr 16
-: **Lecture 23:** Review
+: [**Lecture 23:** Final Thoughts](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lv2web5ga46r7){:target="_blank"}
 
 Thu, Apr 18
 : **Midterm II Exam**{: .label .label-purple}
