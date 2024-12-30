@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: COSI 127B
 description: Database Management Systems
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/2024" # the subpath of your site, e.g. /blog
 url: "https://ssd-brandeis.github.io"
 repository: ""
 
