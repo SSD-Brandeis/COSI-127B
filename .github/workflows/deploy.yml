@@ -46,7 +46,7 @@ jobs:
         uses: actions/configure-pages@v3
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
-        run: bundle exec jekyll build --source "${{ matrix.site }}" --destination "./_site/${{ matrix.site }}"
+        run: bundle exec jekyll build --source "${{ matrix.site }}" --destination "./_site/${{ matrix.site }}" --baseurl "/COSI-127B/${{ matrix.site }}
         # run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
