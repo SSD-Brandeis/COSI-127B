@@ -3,7 +3,7 @@ layout: default
 title: Home
 nav_order: 1
 description: "Database Management Systems (COSI 127B)"
-banner_image: /COSI-127B/assets/css/p2.jpg
+banner_image: /assets/css/p2.jpg
 banner_heading: "Database Management Systems"
 banner_description: "COSI 127B"
 permalink: /
