@@ -194,6 +194,8 @@ defaults:
     values:
       layout: module
 
+include:
+  - assets
 
 compress_html:
   clippings: all
