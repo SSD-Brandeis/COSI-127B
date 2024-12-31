@@ -45,10 +45,23 @@ jobs:
         env:
           JEKYLL_ENV: production
 
+      - name: Add Root Redirect File
+        run: |
+          echo '<!DOCTYPE html>
+          <html lang="en">
+          <head>
+            <meta http-equiv="refresh" content="0; url=/COSI-127B/2025/" />
+            <title>Redirecting...</title>
+          </head>
+          <body>
+            <p>If you are not redirected automatically, follow this <a href="/COSI-127B/2025/">link</a>.</p>
+          </body>
+          </html>' > ./_site/index.html
+
       - name: Upload Site Artifacts
         uses: actions/upload-pages-artifact@v2
         with:
-          path: "./_site" # Upload the entire _site directory, including subdirectories (2024, 2025)
+          path: "./_site"
 
   # Deployment job
   deploy:
