@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-
   workflow_dispatch:
 
 permissions:
@@ -12,12 +11,7 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
-
 jobs:
-  # Build job
   build:
     runs-on: ubuntu-latest
     strategy:
@@ -44,8 +38,8 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      - name: Add Root Redirect File
-        if: matrix.site == '2025'
+      - name: Add Root Redirect
+        if: ${{ matrix.site == '2025' }}
         run: |
           echo '<!DOCTYPE html>
           <html lang="en">
@@ -59,40 +53,20 @@ jobs:
           </html>' > ./_site/index.html
 
       - name: List Deployed Files
-        run: ls -R _site
+        run: ls -R _site || echo "No files in _site"
 
-      - name: Upload Site Artifacts
+      - name: Upload Artifact for ${{ matrix.site }}
         uses: actions/upload-pages-artifact@v2
         with:
           path: "./_site"
-          name: "github-pages-${{ matrix.site }}"
 
-  # Deployment job
   deploy:
-    runs-on: ubuntu-latest
     needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
     steps:
-      - name: Download Artifact for 2024
-        uses: actions/download-artifact@v3
-        with:
-          name: "github-pages-2024"
-        continue-on-error: true
-
-      - name: Download Artifact for 2025
-        uses: actions/download-artifact@v3
-        with:
-          name: "github-pages-2025"
-        continue-on-error: true
-
-      - name: Merge Artifacts
-        run: |
-          mkdir -p _site/2024
-          mkdir -p _site/2025
-          mv github-pages-2024/* _site/2024/ || echo "2024 site not found"
-          mv github-pages-2025/* _site/2025/ || echo "2025 site not found"
-
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
-        with:
-          path: "./_site"
