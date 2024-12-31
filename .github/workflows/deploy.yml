@@ -74,16 +74,14 @@ jobs:
     needs: build
     steps:
       - name: Download Artifacts for 2024
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
         with:
           name: "github-pages-2024"
-          path: "./_site/2024"
 
       - name: Download Artifacts for 2025
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
         with:
           name: "github-pages-2025"
-          path: "./_site/2025"
 
       - name: Deploy to GitHub Pages
         id: deployment
