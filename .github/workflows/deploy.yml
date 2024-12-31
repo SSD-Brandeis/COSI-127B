@@ -1,4 +1,4 @@
-name: Deploy Jekyll Sites to GitHub Pages (Docs Folder)
+name: Deploy Jekyll Sites to GitHub Pages
 
 on:
   push:
@@ -38,14 +38,17 @@ jobs:
 
       - name: Build Jekyll Site
         run: |
-          bundle exec jekyll build --source "${{ matrix.site }}" --destination "./docs/${{ matrix.site }}" --baseurl "/${{ matrix.site }}"
+          bundle exec jekyll build \
+            --source "${{ matrix.site }}" \
+            --destination "./_site/${{ matrix.site }}" \
+            --baseurl "/COSI-127B/${{ matrix.site }}"
         env:
           JEKYLL_ENV: production
 
       - name: Upload Site Artifacts
         uses: actions/upload-pages-artifact@v2
         with:
-          path: "./docs"
+          path: "./_site" # Upload the entire _site directory, including subdirectories (2024, 2025)
 
   # Deployment job
   deploy:
