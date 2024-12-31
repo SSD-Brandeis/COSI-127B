@@ -14,11 +14,6 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        site:
-          - "2024"
-          - "2025"
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
@@ -29,17 +24,25 @@ jobs:
           ruby-version: "3.2"
           bundler-cache: true
 
-      - name: Build Jekyll Site
+      - name: Build 2024 Site
         run: |
           bundle exec jekyll build \
-            --source "${{ matrix.site }}" \
-            --destination "./_site/${{ matrix.site }}" \
-            --baseurl "/COSI-127B/${{ matrix.site }}"
+            --source "2024" \
+            --destination "./_site/2024" \
+            --baseurl "/COSI-127B/2024"
+        env:
+          JEKYLL_ENV: production
+
+      - name: Build 2025 Site
+        run: |
+          bundle exec jekyll build \
+            --source "2025" \
+            --destination "./_site/2025" \
+            --baseurl "/COSI-127B/2025"
         env:
           JEKYLL_ENV: production
 
       - name: Add Root Redirect
-        if: ${{ matrix.site == '2025' }}
         run: |
           echo '<!DOCTYPE html>
           <html lang="en">
@@ -52,10 +55,10 @@ jobs:
           </body>
           </html>' > ./_site/index.html
 
-      - name: List Deployed Files
-        run: ls -R _site || echo "No files in _site"
+      - name: List Combined Deployed Files
+        run: ls -R _site
 
-      - name: Upload Artifact for ${{ matrix.site }}
+      - name: Upload Combined Site Artifacts
         uses: actions/upload-pages-artifact@v2
         with:
           path: "./_site"
