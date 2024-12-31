@@ -24,8 +24,8 @@ jobs:
     strategy:
       matrix:
         site:
-          - "2024"
           - "2025"
+          - "2024"
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
