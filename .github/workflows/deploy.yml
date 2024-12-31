@@ -58,6 +58,9 @@ jobs:
           </body>
           </html>' > ./_site/index.html
 
+      - name: List Deployed Files
+        run: ls -R _site
+
       - name: Upload Site Artifacts
         uses: actions/upload-pages-artifact@v2
         with:
