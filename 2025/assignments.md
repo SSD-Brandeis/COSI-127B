@@ -91,13 +91,13 @@ banner_description: ""
             </tr>
         </tbody>
         </table>
-        <h3><strong>Project 1.1</strong></h3>
+        <!-- <h3><strong>Project 1.1</strong></h3>
         <p>In the first project, you have to design an Entity-Relationship Diagram (ER Diagram) for a movie like application. This application will have a simple user interface that is connected to a MySQL database. More information on the project can be found <a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrhbcp33naz1tr" target="_blank">here</a>. Please go through the document carefully and start it as soon as possible.</p>
         <h3><strong>Project 1.2</strong></h3>
         <p>In the first deliverable, you have already submitted an Entity-Relationship Diagram (ER Diagram) for the application, along with a relational schema. For this next deliverable, you will create a simple UI that connects to the back-end (i.e., database). More information on the project can be found  <a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lsl5sjlhgns3h4" target="_blank">here</a>. Again, please read the document carefully and start working on it as soon as possible.</p>
         <h3><strong>Project 1.3</strong></h3>
         <p>For your final task of Project 1, update your application to execute a series of queries from the front end to the database, displaying the query results in the UI. Use the <a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lteyll8wewt200" target="_blank">PA_1_3_data.zip</a> file from the Piazza resource page for database setup. A helpful video demonstrating how to load your tables using PhpMyAdmin is also available on Piazza. For comprehensive project details, refer to the project information document <a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ltezc4ifrw5sn" target="_blank">here</a>. Please read the document carefully and begin your work as soon as possible.</p>
         <h3><strong>Project 2</strong></h3>
-        <p>In this task, you will carry out several exercises involving the optimization of relational queries using the PostgreSQL query optimizer and the visualization command EXPLAIN. You need to read parts of the PostgreSQL documentation to be able to complete this task. Use the <a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lu1knjuhkq35e" target="_blank">Azure Support Manual</a> file from the Piazza resource page for Azure Virtual Machine setup. Please read the document carefully and begin your work as soon as possible.</p>
+        <p>In this task, you will carry out several exercises involving the optimization of relational queries using the PostgreSQL query optimizer and the visualization command EXPLAIN. You need to read parts of the PostgreSQL documentation to be able to complete this task. Use the <a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lu1knjuhkq35e" target="_blank">Azure Support Manual</a> file from the Piazza resource page for Azure Virtual Machine setup. Please read the document carefully and begin your work as soon as possible.</p> -->
     </div>
 </div>
