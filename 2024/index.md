@@ -11,7 +11,7 @@ permalink: /
 
 |----------|----------|
 | __Instructors__{: .fs-4} | [<u>Subhadeep Sarkar</u>](https://subhadeep.net){:target="_blank"}, Han Yue, and Shubham Kaushik |
-| __Class Timings__{: .fs-4} | Tue & Thu 5:30 PM – 6:50 PM|
+| __Class Timings__{: .fs-4} | Tue & Fri 12:45 PM – 2:05 PM|
 | __Class Location__{: .fs-4} | Abelson-Bass: 131|
 
 ## <u>Course Description</u>
