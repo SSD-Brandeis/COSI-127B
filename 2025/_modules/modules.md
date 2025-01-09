@@ -6,56 +6,56 @@ title: ""
 : **Lecture**
     : **Readings**
 
-Thu, Jan 11
+Tue, Jan 14
 : [**Lecture 1:** Introduction](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrctzbztt4m3yk){:target="_blank"}
     : - Textbook, Chapter 1
 
-Tue, Jan 16
+Fri, Jan 17
 : [**Lecture 2:** DBMS Architecture](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrguzgmnmx76df){:target="_blank"} <br><br> [**Released Project 1.1**{: .label .label-grey}](/COSI-127B/assignments)
     : - ["The Design and Implementation of Modern Column-Oriented Database Systems"](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf){:target="_blank"}, Chapters 1, 2, 3
 - ["Architecture of a Database System"](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf){:target="_blank"}, Chapter 1
 
-Thu, Jan 18
+Tue, Jan 21
 : [**Lecture 3:** ER Model](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrjphqr0th13r8){:target="_blank"} <br><br> [**Released Written Assignment 1**{: .label .label-grey}](/COSI-127B/assignments)
     : - Textbook, Chapter 2
 
-Tue, Jan 23
+Fri, Jan 24
 : [**Lecture 4:** Relational Model](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrqwav2x89z654){:target="_blank"}
     : - Textbook, Chapter 3
 
-Thu, Jan 25
+Tue, Jan 28
 : [**Lecture 5:** Relational Algebra](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrtrsr1pqp04ig){:target="_blank"} <br><br> [**Released Written Assignment 2**{: .label .label-grey}](/COSI-127B/assignments)
     : - Textbook, Chapter 4.1, 4.2
 
-Sat, Jan 27
+Fri, Jan 31
 : [**Due Written Assignment 1**{: .label .label-grey}](/COSI-127B/assignments)
 
-Tue, Jan 30
+Tue, Feb 04
 : [**Lecture 6:** SQL I](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ls0x7aahga01b3){:target="_blank"}
     : - Textbook, Chapter 5.1-5.5
 
-Thu, Feb 01
+Fri, Feb 07
 : [**Lecture 7:** SQL II](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ls3s3andoj36el){:target="_blank"} <br><br> [**Released Written Assignment 3**{: .label .label-grey}](/COSI-127B/assignments)
     : - Textbook, Chapter 5.1-5.5
 
-Sat, Feb 03
+Tue, Feb 11
 : [**Due Written Assignment 2**{: .label .label-grey}](/COSI-127B/assignments)
 
-Tue, Feb 06
+Fri, Feb 14
 : [**Lecture 8:** Functional Dependencies](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lsaxcj1u7vw5wc){:target="_blank"}
     : - Textbook, Chapter 19.1-19.3
 
-Thu, Feb 08
+Tue, Feb 18
 : [**Lecture 9:** Normalization](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lsdsb0e2j8n6w8){:target="_blank"} <br><br> [**Due Project 1.1**{: .label .label-grey}](/COSI-127B/assignments) [**Released Written Assignment 4**{: .label .label-grey}](/COSI-127B/assignments)
     : - Textbook, Chapter 19.4-19.7
 
-Sat, Feb 10
+Fri, Feb 21
 : [**Due Written Assignment 3**{: .label .label-grey}](/COSI-127B/assignments)
 
-Tue, Feb 13
+Tue, Feb 25
 : **Snow Day**{: .label .label-white} <br><br> [**Released Project 1.2**{: .label .label-grey}](/COSI-127B/assignments)
 
-Thu, Feb 15
+Fri, Feb 28
 : [**Lecture 10:** File Organization & Indexing](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lsnse106nl05y4){:target="_blank"}
     : - Textbook, Chapter 8 & 9.1, 9.5-9.7
 - ["Data page layouts for relational databases on deep memory hierarchies"](https://link.springer.com/article/10.1007%2Fs00778-002-0074-9), The VLDB Journal, 2002 (Sections 1, 2, 3, 4)
