@@ -11,8 +11,8 @@ permalink: /
 
 |----------|----------|
 | __Instructors__{: .fs-4} | [<u>Subhadeep Sarkar</u>](https://subhadeep.net){:target="_blank"}, Shubham Kaushik, and James Chen |
-| __Class Timings__{: .fs-4} | Tue & Fri 12:45 PM – 2:05 PM|
-| __Class Location__{: .fs-4} | Abelson-Bass: 131|
+| __Class Timings & Location__{: .fs-4} | Tue & Fri 12:45 PM – 2:05 PM| Olin-Sang: 101|
+| __Recitation Timings & Location__{: .fs-4} | Fri 3:20 PM – 4:20 PM| Abelson-Bass: 131|
 
 ## <u>Course Description</u>
 We live in a data-driven world! In fact, every two days, we create as much data as we created from the dawn of humanity up to 2003. We generate an unprecedented amount of data every day through our daily activities in every facet of life, including business, governance, management, research, and scientific activities. Storing, managing, and accessing this large volume of data is an enormous challenge in the face of ever-changing application requirements and performance goals. Database systems are the backbone of any large-scale data management infrastructure. This class presents a comprehensive introduction to the fundamental concepts of database systems. We will start by discussing the classical approaches to database design and the fundamental building blocks and operating principles of database systems. The primary focus of the course will be on the core concepts of the internals of database systems, covering entity-relationship and relational data models, commercial relational query languages (SQL and relational algebra), file organization, storage and memory management, indexing and hashing, query optimization, query processing, transaction processing, concurrency control, and recovery. Finally, we will cover the new trends in data management in the era of big data and data management in the cloud to highlight the evolution of database systems over the years.
