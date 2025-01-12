@@ -1,9 +1,9 @@
 ---
-name: James Chen
+name: Shubham Kaushik
 role: Teaching Assistant
-email: boaochen@brandeis.edu
-website: 
-photo: james_chen.jpeg
+email: kaushiks@brandeis.edu
+website: https://www.shubhamkaushik.com/
+photo: shubham.jpg
 meta:
-  Office Hours: Volen 111 (Mon/Wed 3:00 PM - 4:00 PM)
+  Office Hours: :Wed/Thu 4:00 PM - 5:00 PM @ Vertica Lounge (Volen 104)
 ---
