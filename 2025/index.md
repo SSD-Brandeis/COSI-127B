@@ -10,7 +10,7 @@ permalink: /
 ---
 
 |----------|----------|
-| __Instructors__{: .fs-4} | [<u>Subhadeep Sarkar</u>](https://subhadeep.net){:target="_blank"}, James Chen, and Shubham Kaushik |
+| __Instructors__{: .fs-4} | [<u>Subhadeep Sarkar</u>](https://subhadeep.net){:target="_blank"}, Shubham Kaushik, and James Chen |
 | __Class Timings__{: .fs-4} | Tue & Fri 12:45 PM – 2:05 PM|
 | __Class Location__{: .fs-4} | Abelson-Bass: 131|
 
