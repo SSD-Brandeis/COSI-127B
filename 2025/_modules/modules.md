@@ -49,6 +49,7 @@ Tue, Feb 04
 Fri, Feb 07
 : **Lecture 7:** SQL II
     : - Textbook, Chapter 5.1-5.5
+    
 <!-- Sat, Feb 08
 : **Due Project 1.1**{: .label .label-grey}
 : **Released Project 1.2**{: .label .label-grey} -->
@@ -113,6 +114,7 @@ Tue, Mar 18
 
 Fri, Mar 21
 : **Lecture 16:** Joins II: Hash Joins & Remaining Relational Operators
+
 <!-- : **Released Project 2**{: .label .label-grey}
 : **Due Project 1.3**{: .label .label-grey} -->
 
