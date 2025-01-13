@@ -206,6 +206,11 @@
 }
 
 @if variable-exists(logo) {
+  .site-logo-container {
+    display: flex; 
+    align-items: center;
+    gap: 1rem;
+  }
   .site-logo {
     width: 9rem;
     height: 4rem;
