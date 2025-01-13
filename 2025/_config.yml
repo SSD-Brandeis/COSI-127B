@@ -54,7 +54,7 @@ exclude:
 
 logos:
   - "assets/images/brandeis-logo.png"
-  - "assets/images/ssd-logo.pdf"
+  - "assets/images/ssd-logo.png"
 
 
 # Enable or disable the site search
