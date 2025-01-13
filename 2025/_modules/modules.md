@@ -33,18 +33,18 @@ Fri, Jan 31
 Tue, Feb 04
 : **Lecture 6:** SQL I
     : - Textbook, Chapter 5.1-5.5
-    
+
 Fri, Feb 07
 : **Lecture 7:** SQL II
     : - Textbook, Chapter 5.1-5.5
 
 Tue, Feb 11
-: **Lecture-8:** File Organization & Indexing
+: **Lecture 8:** File Organization & Indexing
     : - Textbook, Chapter 8 & 9.1, 9.5-9.7
 - ["Data page layouts for relational databases on deep memory hierarchies"](https://link.springer.com/article/10.1007%2Fs00778-002-0074-9), The VLDB Journal, 2002 (Sections 1, 2, 3, 4)
 
 Fri, Feb 14
-: **Lecture-9:** Storage Layer
+: **Lecture 9:** Storage Layer
     : - Textbook, Chapter 9.1-9.4
 - ["On Multidimensional Data and Modern Disks"](https://www.usenix.org/legacy/events/fast05/tech/schlosser/schlosser.pdf), FAST 2005 (Sections 1, 2, 3, 4)
 - ["Design Tradeoffs for SSD Performance"](https://www.usenix.org/legacy/events/usenix08/tech/full_papers/agrawal/agrawal_html/index.html), USENIX ATC 2008 (Sections 1, 2, 3)
@@ -56,7 +56,7 @@ Fri, Feb 21
 : **February Break**{: .label .label-yellow}
 
 Tue, Feb 25
-: **Lecture-10:** Tree Indexing
+: **Lecture 10:** Tree Indexing
 
 Fri, Feb 28
 : **Lecture 11:** Hashing
