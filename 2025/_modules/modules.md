@@ -33,6 +33,7 @@ Fri, Jan 31
 Tue, Feb 04
 : **Lecture 6:** SQL I
     : - Textbook, Chapter 5.1-5.5
+    
 Fri, Feb 07
 : **Lecture 7:** SQL II
     : - Textbook, Chapter 5.1-5.5
