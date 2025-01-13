@@ -212,8 +212,8 @@
     gap: 1rem;
   }
   .site-logo {
-    width: 9rem;
-    height: 4rem;
+    width: 3rem;
+    height: 2rem;
     background-image: url($logo);
     background-repeat: no-repeat;
     background-position: left center;
@@ -222,8 +222,8 @@
 
   @include mq(sm) {
     .site-logo {
-      width: 9rem;
-      height: 3rem;
+      width: 3rem;
+      height: 2rem;
     }
   }
 }
