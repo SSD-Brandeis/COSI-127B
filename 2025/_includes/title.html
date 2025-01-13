@@ -1,7 +1,7 @@
 {% if site.logos %}
   <div class="site-logo" role="img" aria-label="{{ site.title }}">
-    {% for logo_path in site.logos %}
-      <img class="logo" src="{{ logo_path }}" alt="{{ site.title }} Logo">
+    {% for logo in site.logos %}
+      <img class="logo" src="{{ logo }}" alt="{{ site.title }} Logo">
     {% endfor %}
   </div>
 {% else %}
