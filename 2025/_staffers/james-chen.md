@@ -5,5 +5,5 @@ email: kaushiks@brandeis.edu
 website: https://www.shubhamkaushik.com/
 photo: shubham.jpg
 meta:
-  OH: "Office Hours: Wed/Thu 4:00 PM - 5:00 PM @ Vertica Lounge (Volen 104)"
+  Info: "Office Hours: Wed/Thu 4:00 PM - 5:00 PM @ Vertica Lounge (Volen 104)"
 ---

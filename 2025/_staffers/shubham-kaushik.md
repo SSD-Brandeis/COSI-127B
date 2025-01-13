@@ -5,5 +5,5 @@ email: boaochen@brandeis.edu
 website: 
 photo: james_chen.jpeg
 meta:
-  OH: "Office Hours: Mon/Wed 3:00 PM - 4:00 PM @ Vertica Lounge (Volen 104)"
+  Info: "Office Hours: Mon/Wed 3:00 PM - 4:00 PM @ Vertica Lounge (Volen 104)"
 ---
