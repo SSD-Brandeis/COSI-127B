@@ -17,13 +17,16 @@
     <p><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
     {%- endif -%}
     {%- if page.meta -%}
+    <p>{{ page.meta }}</p>
+    {%- endif -%}
+    <!-- {%- if page.meta -%}
     <dl class="staffer-meta">
       {%- for meta in page.meta -%}
       <dt>{{ meta[0] }}</dt>
       <dd>{{ meta[1] | markdownify }}</dd>
       {%- endfor -%}
     </dl>
-    {%- endif -%}
+    {%- endif -%} -->
     {{ content }}
   </div>
 </div>
