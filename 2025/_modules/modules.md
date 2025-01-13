@@ -6,7 +6,7 @@ title: ""
 : **Lecture**
     : **Readings**
 
-Tue, Jan 14
+<!-- Tue, Jan 14
 : [**Lecture 1:** Introduction](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrctzbztt4m3yk){:target="_blank"}
     : - Textbook, Chapter 1
 
@@ -150,4 +150,4 @@ Tue, Apr 16
 : [**Lecture 23:** Final Thoughts](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lv2web5ga46r7){:target="_blank"}
 
 Thu, Apr 18
-: **Midterm II Exam**{: .label .label-purple}
+: **Midterm II Exam**{: .label .label-purple} -->
