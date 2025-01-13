@@ -1,5 +1,6 @@
-{% if site.logo %}
-$logo: "{{ site.logo | relative_url }}";
+{% if site.logos %}
+$brandeislogo: "{{ site.logos[0] | relative_url }}";
+$ssdlogo: "{{ site.logos[1] | relative_url }}";
 {% endif %}
 @import "./support/support";
 @import "./custom/setup";
