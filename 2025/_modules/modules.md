@@ -11,7 +11,8 @@ Tue, Jan 14
     : - Textbook, Chapter 1
 
 Fri, Jan 17
-: **Lecture 2:** DBMS Architecture
+
+: [**Lecture 2:** DBMS Architecture](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m611ntewxxe1ke){:target="_blank"}
     : - ["The Design and Implementation of Modern Column-Oriented Database Systems"](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf){:target="_blank"}, Chapters 1, 2, 3
 - ["Architecture of a Database System"](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf){:target="_blank"}, Chapter 1
 
