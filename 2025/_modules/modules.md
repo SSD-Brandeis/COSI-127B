@@ -20,7 +20,7 @@ Tue, Jan 21
 : **Brandeis Monday**{: .label .label-yellow}
 
 Fri, Jan 24
-: **Lecture 3:** ER Diagrams
+: [**Lecture 3:** ER Diagrams](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6b1ng0l74e22u){:target="_blank"}
     : - Textbook, Chapter 2
 
 Tue, Jan 28
