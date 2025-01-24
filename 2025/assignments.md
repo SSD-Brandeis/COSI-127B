@@ -7,7 +7,7 @@ banner_image: /assets/css/assignment.jpg
 banner_heading: "Assignments"
 banner_description: ""
 ---
-<!-- 
+
 <div class="assignments">
     <div class="written">
         <h4><strong>Written Assignments</strong></h4>
@@ -21,11 +21,11 @@ banner_description: ""
         </thead>
         <tbody>
             <tr>
-            <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Assignment 1</a></td>
-            <td>Jan 27, 2024 @ 23:59</td>
-            <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrjzy4hzhur20h" target="_blank">ER-Model</a></td>
+            <td><a href="https://www.gradescope.com/courses/935039" target="_blank">Assignment 1</a></td>
+            <td>Feb 5, 2025 @ 23:59</td>
+            <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6azk0rbx9l2c3" target="_blank">ER-Model</a></td>
             </tr>
-            <tr>
+            <!-- <tr>
             <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Assignment 2</a></td>
             <td>Feb 03, 2024 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lru2pfqy96f6u7" target="_blank">Relational Algebra</a></td>
@@ -98,6 +98,6 @@ banner_description: ""
         <h3><strong>Project 1.3</strong></h3>
         <p>For your final task of Project 1, update your application to execute a series of queries from the front end to the database, displaying the query results in the UI. Use the <a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lteyll8wewt200" target="_blank">PA_1_3_data.zip</a> file from the Piazza resource page for database setup. A helpful video demonstrating how to load your tables using PhpMyAdmin is also available on Piazza. For comprehensive project details, refer to the project information document <a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ltezc4ifrw5sn" target="_blank">here</a>. Please read the document carefully and begin your work as soon as possible.</p>
         <h3><strong>Project 2</strong></h3>
-        <p>In this task, you will carry out several exercises involving the optimization of relational queries using the PostgreSQL query optimizer and the visualization command EXPLAIN. You need to read parts of the PostgreSQL documentation to be able to complete this task. Use the <a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lu1knjuhkq35e" target="_blank">Azure Support Manual</a> file from the Piazza resource page for Azure Virtual Machine setup. Please read the document carefully and begin your work as soon as possible.</p>
+        <p>In this task, you will carry out several exercises involving the optimization of relational queries using the PostgreSQL query optimizer and the visualization command EXPLAIN. You need to read parts of the PostgreSQL documentation to be able to complete this task. Use the <a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lu1knjuhkq35e" target="_blank">Azure Support Manual</a> file from the Piazza resource page for Azure Virtual Machine setup. Please read the document carefully and begin your work as soon as possible.</p> -->
     </div>
-</div> -->
+</div>
