@@ -7,13 +7,13 @@ title: ""
     : **Readings**
 
 Tue, Jan 14
-: [**Lecture 1:** Introduction](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m5wrfi0b3affc){:target="_blank"}
+: [**Lecture 1:** Introduction](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m5wrfi0b3affc){:target="_blank"} <br><a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6bpprpal2j54q" target="_blank"><span class="slides-icon"></span></a>
     : - Textbook, Chapter 1
 
 Fri, Jan 17
 
 : [**Lecture 2:** DBMS Architecture](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m611ntewxxe1ke){:target="_blank"}
-    : - ["The Design and Implementation of Modern Column-Oriented Database Systems"](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf){:target="_blank"}, Chapters 1, 2, 3
+    : - ["The Design and Implementation of Modern Column-Oriented Database Systems"](https://stratos.seas.harvard.edu/sites/g/files/omnuum4611/files/stratos/files/columnstoresfntdbs.pdf){:target="_blank"}, Chapters 1, 2, 3
 - ["Architecture of a Database System"](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf){:target="_blank"}, Chapter 1
 
 Tue, Jan 21
@@ -42,13 +42,13 @@ Fri, Feb 07
 Tue, Feb 11
 : **Lecture 8:** File Organization & Indexing
     : - Textbook, Chapter 8 & 9.1, 9.5-9.7
-- ["Data page layouts for relational databases on deep memory hierarchies"](https://link.springer.com/article/10.1007%2Fs00778-002-0074-9), The VLDB Journal, 2002 (Sections 1, 2, 3, 4)
+- ["Data page layouts for relational databases on deep memory hierarchies"](https://research.cs.wisc.edu/multifacet/papers/vldbj02_pax.pdf){:target="_blank"}, The VLDB Journal, 2002 (Sections 1, 2, 3, 4)
 
 Fri, Feb 14
 : **Lecture 9:** Storage Layer
     : - Textbook, Chapter 9.1-9.4
-- ["On Multidimensional Data and Modern Disks"](https://www.usenix.org/legacy/events/fast05/tech/schlosser/schlosser.pdf), FAST 2005 (Sections 1, 2, 3, 4)
-- ["Design Tradeoffs for SSD Performance"](https://www.usenix.org/legacy/events/usenix08/tech/full_papers/agrawal/agrawal_html/index.html), USENIX ATC 2008 (Sections 1, 2, 3)
+- ["On Multidimensional Data and Modern Disks"](https://www.usenix.org/legacy/events/fast05/tech/schlosser/schlosser.pdf){:target="_blank"}, FAST 2005 (Sections 1, 2, 3, 4)
+- ["Design Tradeoffs for SSD Performance"](https://www.usenix.org/legacy/events/usenix08/tech/full_papers/agrawal/agrawal_html/index.html){:target="_blank"}, USENIX ATC 2008 (Sections 1, 2, 3)
 
 Tue, Feb 18
 : **February Break**{: .label .label-yellow}
