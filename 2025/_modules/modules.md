@@ -7,7 +7,7 @@ title: ""
     : **Readings**
 
 Tue, Jan 14
-: [**Lecture 1:** Introduction](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m5wrfi0b3affc){:target="_blank"} <br><a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6bpprpal2j54q" target="_blank"><span class="slides-icon"></span></a>
+: [**Lecture 1:** Introduction](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m5wrfi0b3affc){:target="_blank"}
     : - Textbook, Chapter 1
 
 Fri, Jan 17
@@ -20,7 +20,7 @@ Tue, Jan 21
 : **Brandeis Monday**{: .label .label-yellow}
 
 Fri, Jan 24
-: [**Lecture 3:** ER Diagrams](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6b1ng0l74e22u){:target="_blank"}
+: [**Lecture 3:** ER Diagrams](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6b1ng0l74e22u){:target="_blank"} <br> **Recitation 1:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6bpprpal2j54q" target="_blank"><span class="slides-icon"></span></a>
     : - Textbook, Chapter 2
 
 Tue, Jan 28
