@@ -6,6 +6,7 @@ description: "Database Management Systems (COSI 127B)"
 banner_image: /assets/css/p2.jpg
 banner_heading: "Database Management Systems"
 banner_description: "COSI 127B"
+season_year: "Spring 2025"
 permalink: /
 ---
 
