@@ -112,3 +112,29 @@ blockquote {
   padding-left: 1rem;
   border-left: 3px solid $border-color;
 }
+
+.season-year {
+  border-right: 2px solid #FFC107;
+  color: #FFC107;
+  font-weight: bold;
+  font-size: 0.7em;
+  white-space: nowrap;
+  overflow: hidden;
+  display: inline-block;
+  width: 0;
+  animation: typing 3s steps(12, end), blink-caret 0.75s step-end infinite;
+  animation-delay: 0s, 3s;
+  animation-iteration-count: 1, infinite;
+  animation-fill-mode: forwards;
+}
+
+@keyframes typing {
+  0% { width: 0; }
+  90% { width: 12ch; }
+  100% { width: 12ch; }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent; }
+  50% { border-color: #383737; }
+}

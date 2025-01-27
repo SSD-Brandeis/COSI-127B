@@ -124,7 +124,7 @@ blockquote {
   width: 0;
   animation: typing 3s steps(12, end), blink-caret 0.75s step-end infinite;
   animation-delay: 0s, 3s;
-  animation-iteration-count: 2, infinite;
+  animation-iteration-count: 1, infinite;
   animation-fill-mode: forwards;
 }
 
