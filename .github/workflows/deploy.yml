@@ -24,6 +24,9 @@ jobs:
           ruby-version: "3.2"
           bundler-cache: true
 
+      - name: Clean Build Directory
+        run: rm -rf _site && mkdir -p _site
+
       - name: Build 2024 Site
         run: |
           bundle exec jekyll build \
