@@ -62,7 +62,7 @@ jobs:
         run: ls -R _site
 
       - name: Upload Combined Site Artifacts
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v1
         with:
           path: "./_site"
           name: github-pages
