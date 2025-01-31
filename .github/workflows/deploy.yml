@@ -22,7 +22,7 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.2"
-          # bundler-cache: true
+          bundler-cache: true
 
       - name: Clean Build Directory
         run: rm -rf _site && mkdir -p _site
