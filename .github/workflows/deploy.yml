@@ -76,6 +76,8 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
+        # Note that since acitons/upload(download)-artifact@v3 has been deprecated and will be automatically triggered and error if used, we must 
+        # use actions/deploy-pages@v4 with upload-pages-artifact@v3 instead.
         uses: actions/deploy-pages@v4
         with: 
           artifact_name: github-pages
