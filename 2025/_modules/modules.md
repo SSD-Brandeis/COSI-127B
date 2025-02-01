@@ -28,7 +28,7 @@ Tue, Jan 28
     : - Textbook, Chapter 3
     
 Fri, Jan 31
-: [**Lecture 5:** Relational Algebra](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6l1lucc783330){:target="_blank"}
+: [**Lecture 5:** Relational Algebra](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6l1lucc783330){:target="_blank"} <br> **Recitation 2:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6lgbkslkx44ed" target="_blank"><span class="slides-icon"></span></a>
     : - Textbook, Chapter 4.1, 4.2
 
 Tue, Feb 04
