@@ -25,12 +25,12 @@ banner_description: ""
             <td>Feb 5, 2025 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6azk0rbx9l2c3" target="_blank">ER-Model</a></td>
             </tr>
-            <!-- <tr>
-            <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Assignment 2</a></td>
-            <td>Feb 03, 2024 @ 23:59</td>
-            <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lru2pfqy96f6u7" target="_blank">Relational Algebra</a></td>
-            </tr>
             <tr>
+            <td><a href="https://www.gradescope.com/courses/935039" target="_blank">Assignment 2</a></td>
+            <td>Feb 12, 2025 @ 23:59</td>
+            <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6qoro3f2vy6nj" target="_blank">Relational Algebra</a></td>
+            </tr>
+            <!--<tr>
             <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Assignment 3</a></td>
             <td>Feb 10, 2024 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ls3z6yajwkn6en" target="_blank">SQL</a></td>
