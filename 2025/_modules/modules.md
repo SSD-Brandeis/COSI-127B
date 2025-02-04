@@ -32,7 +32,7 @@ Fri, Jan 31
     : - Textbook, Chapter 4.1, 4.2
 
 Tue, Feb 04
-: **Lecture 6:** SQL I
+: [**Lecture 6:** SQL I](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6qripbn9gg3af){:target="_blank"}
     : - Textbook, Chapter 5.1-5.5
 
 Fri, Feb 07
