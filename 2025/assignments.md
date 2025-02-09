@@ -70,9 +70,9 @@ banner_description: ""
         </thead>
         <tbody>
             <tr>
-            <td><a href="https://www.gradescope.com/courses/935039" target="_blank">Project 1.1</a></td>
+            <td><a href="https://www.gradescope.com/courses/935039" target="_blank">Programming Assignment 1.1</a></td>
             <td>Mar 1, 2025 @ 23:59</td>
-            <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6xnr2xl6ic6wr" target="_blank">Project doc</a></td>
+            <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6xnr2xl6ic6wr" target="_blank">Programming Assignment doc</a></td>
             </tr>
             <!-- <tr>
             <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Project 1.2</a></td>
@@ -91,7 +91,7 @@ banner_description: ""
             </tr> -->
         </tbody>
         </table>
-        <h3><strong>Project 1.1</strong></h3>
+        <h3><strong>Programming Assignment 1.1</strong></h3>
         <p>In this project, you will extend your work from <strong>Problem 4 of Written Assignment 1</strong>, where you designed an <strong>Entity-Relationship Diagram (ER Diagram)</strong> for an <em>IMDb-like movie database</em>. Now, you will focus on implementing the database and building a functional website that connects to a <strong>MySQL database</strong>. More details on the project, including guidelines and requirements, can be found 
         <a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6xnr2xl6ic6wr" target="_blank">here</a>. 
         Please review the document carefully and <strong>start early</strong> to ensure smooth progress.</p>
