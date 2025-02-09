@@ -92,7 +92,7 @@ banner_description: ""
         </tbody>
         </table>
         <h3><strong>Programming Assignment 1.1</strong></h3>
-        <p>In this project, you will extend your work from <strong>Problem 4 of Written Assignment 1</strong>, where you designed an <strong>Entity-Relationship Diagram (ER Diagram)</strong> for an <em>IMDb-like movie database</em>. Now, you will focus on implementing the database and building a functional website that connects to a <strong>MySQL database</strong>. More details on the project, including guidelines and requirements, can be found 
+        <p>In this assignment, you will extend your work from <strong>Problem 3 of Written Assignment 1</strong>, where you designed an <strong>Entity-Relationship Diagram (ER Diagram)</strong> for an <em>IMDb-like movie database</em>. Now, you will focus on implementing the database and building a functional website that connects to a <strong>MySQL database</strong>. More details on the project, including guidelines and requirements, can be found 
         <a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6xnr2xl6ic6wr" target="_blank">here</a>. 
         Please review the document carefully and <strong>start early</strong> to ensure smooth progress.</p>
         <!-- <h3><strong>Project 1.2</strong></h3>
