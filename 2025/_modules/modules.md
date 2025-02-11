@@ -40,7 +40,7 @@ Fri, Feb 07
     : - Textbook, Chapter 5.1-5.5
 
 Tue, Feb 11
-: **Lecture 8:** File Organization & Indexing
+: [**Lecture 8:** File Organization & Indexing](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m70rrfsiyx32u4){:target="_blank"}
     : - Textbook, Chapter 8 & 9.1, 9.5-9.7
 - ["Data page layouts for relational databases on deep memory hierarchies"](https://research.cs.wisc.edu/multifacet/papers/vldbj02_pax.pdf){:target="_blank"}, The VLDB Journal, 2002 (Sections 1, 2, 3, 4)
 
