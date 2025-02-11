@@ -54,7 +54,7 @@ banner_description: ""
             <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Assignment 6</a></td>
             <td>Apr 05, 2024 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lu944ja3hs378h" target="_blank">Query Optimization</a></td>
-            </tr>
+            </tr>-->
         </tbody>
         </table>
     </div>
@@ -70,11 +70,11 @@ banner_description: ""
         </thead>
         <tbody>
             <tr>
-            <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Project 1.1</a></td>
-            <td>Feb 8, 2024 @ 23:59</td>
-            <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrhbcp33naz1tr" target="_blank">Project doc</a></td>
+            <td><a href="https://www.gradescope.com/courses/935039" target="_blank">Programming Assignment 1.1</a></td>
+            <td>Mar 1, 2025 @ 23:59</td>
+            <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6xnr2xl6ic6wr" target="_blank">Programming Assignment doc</a></td>
             </tr>
-            <tr>
+            <!-- <tr>
             <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Project 1.2</a></td>
             <td>Mar 1, 2024 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lsl5sjlhgns3h4" target="_blank">Project doc</a></td>
@@ -88,12 +88,14 @@ banner_description: ""
             <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Project 2</a></td>
             <td>Apr 4, 2024 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lu1r397jqbg2zz" target="_blank">Project doc</a></td>
-            </tr>
+            </tr> -->
         </tbody>
         </table>
-        <h3><strong>Project 1.1</strong></h3>
-        <p>In the first project, you have to design an Entity-Relationship Diagram (ER Diagram) for a movie like application. This application will have a simple user interface that is connected to a MySQL database. More information on the project can be found <a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrhbcp33naz1tr" target="_blank">here</a>. Please go through the document carefully and start it as soon as possible.</p>
-        <h3><strong>Project 1.2</strong></h3>
+        <h3><strong>Programming Assignment 1.1</strong></h3>
+        <p>In this assignment, you will extend your work from <strong>Problem 3 of Written Assignment 1</strong>, where you designed an <strong>Entity-Relationship Diagram (ER Diagram)</strong> for an <em>IMDb-like movie database</em>. Now, you will focus on implementing the database and building a functional website that connects to a <strong>MySQL database</strong>. More details on the project, including guidelines and requirements, can be found 
+        <a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6xnr2xl6ic6wr" target="_blank">here</a>. 
+        Please review the document carefully and <strong>start early</strong> to ensure smooth progress.</p>
+        <!-- <h3><strong>Project 1.2</strong></h3>
         <p>In the first deliverable, you have already submitted an Entity-Relationship Diagram (ER Diagram) for the application, along with a relational schema. For this next deliverable, you will create a simple UI that connects to the back-end (i.e., database). More information on the project can be found  <a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lsl5sjlhgns3h4" target="_blank">here</a>. Again, please read the document carefully and start working on it as soon as possible.</p>
         <h3><strong>Project 1.3</strong></h3>
         <p>For your final task of Project 1, update your application to execute a series of queries from the front end to the database, displaying the query results in the UI. Use the <a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lteyll8wewt200" target="_blank">PA_1_3_data.zip</a> file from the Piazza resource page for database setup. A helpful video demonstrating how to load your tables using PhpMyAdmin is also available on Piazza. For comprehensive project details, refer to the project information document <a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ltezc4ifrw5sn" target="_blank">here</a>. Please read the document carefully and begin your work as soon as possible.</p>
