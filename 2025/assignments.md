@@ -30,6 +30,11 @@ banner_description: ""
             <td>Feb 12, 2025 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6s2n3y1lvp1f3" target="_blank">Relational Algebra & SQL</a></td>
             </tr>
+            <tr>
+            <td><a href="https://www.gradescope.com/courses/935039" target="_blank">Assignment 3</a></td>
+            <td>Feb 26, 2025 @ 23:59</td>
+            <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m71bt1oxv6yr" target="_blank">File Organization</a></td>
+            </tr>
             <!--<tr>
             <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Assignment 3</a></td>
             <td>Feb 10, 2024 @ 23:59</td>
