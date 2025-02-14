@@ -45,7 +45,7 @@ Tue, Feb 11
 - ["Data page layouts for relational databases on deep memory hierarchies"](https://research.cs.wisc.edu/multifacet/papers/vldbj02_pax.pdf){:target="_blank"}, The VLDB Journal, 2002 (Sections 1, 2, 3, 4)
 
 Fri, Feb 14
-: **Lecture 9:** Storage Layer
+: [**Lecture 9:** Storage Layer](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7520vdta3424e){:target="_blank"}
     : - Textbook, Chapter 9.1-9.4
 - ["On Multidimensional Data and Modern Disks"](https://www.usenix.org/legacy/events/fast05/tech/schlosser/schlosser.pdf){:target="_blank"}, FAST 2005 (Sections 1, 2, 3, 4)
 - ["Design Tradeoffs for SSD Performance"](https://www.usenix.org/legacy/events/usenix08/tech/full_papers/agrawal/agrawal_html/index.html){:target="_blank"}, USENIX ATC 2008 (Sections 1, 2, 3)
