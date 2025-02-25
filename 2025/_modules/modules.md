@@ -57,16 +57,18 @@ Fri, Feb 21
 : **February Break**{: .label .label-yellow}
 
 Tue, Feb 25
-: **Lecture 10:** Tree Indexing
+: [**Lecture 10:** Indexing](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7krr4mbamu64m){:target="_blank"} 
+: **Lecture 10:** Indexing
+
 
 Fri, Feb 28
-: **Lecture 11:** Hashing
+: **Lecture 11:** Tree Indexing
 
 Tue, Mar 04
-: **Lecture 12:** External Sorting
+: **Lecture 12:** Hashing
 
 Fri, Mar 07
-: **Lecture 13:** Review / LSM
+: **Lecture 13:** External Sorting
 
 Tue, Mar 11
 : **MidTerm I Exam**{: .label .label-purple}
