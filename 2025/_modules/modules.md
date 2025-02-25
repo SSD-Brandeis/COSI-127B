@@ -58,7 +58,7 @@ Fri, Feb 21
 
 Tue, Feb 25
 : [**Lecture 10:** Indexing](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7krr4mbamu64m){:target="_blank"} 
-: **Lecture 10:** Indexing
+
 
 
 Fri, Feb 28
