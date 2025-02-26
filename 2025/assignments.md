@@ -35,7 +35,7 @@ banner_description: ""
             <td>Feb 26, 2025 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m71bt1oxv6yr" target="_blank">File Organization</a></td>
             </tr>
-            <<tr>
+            <tr>
             <td><a href="https://www.gradescope.com/courses/93503" target="_blank">Assignment 4</a></td>
             <td>Mar 05, 2025 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7ladjsspjb7y" target="_blank">Indexing</a></td>
