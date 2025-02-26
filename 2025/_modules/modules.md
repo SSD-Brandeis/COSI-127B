@@ -35,6 +35,9 @@ Tue, Feb 04
 : [**Lecture 6:** SQL I](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6qripbn9gg3af){:target="_blank"}
     : - Textbook, Chapter 5.1-5.5
 
+Wed, Feb 05
+: [**Due Written Assignment 1**{: .label .label-grey}](/COSI-127B/assignments)
+
 Fri, Feb 07
 : [**Lecture 7:** SQL II](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6v1wy2aqg029d){:target="_blank"} <br> **Recitation 3:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6vmbasnvb321w" target="_blank"><span class="slides-icon"></span></a>
     : - Textbook, Chapter 5.1-5.5
@@ -43,6 +46,9 @@ Tue, Feb 11
 : [**Lecture 8:** File Organization & Indexing](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m70rrfsiyx32u4){:target="_blank"}
     : - Textbook, Chapter 8 & 9.1, 9.5-9.7
 - ["Data page layouts for relational databases on deep memory hierarchies"](https://research.cs.wisc.edu/multifacet/papers/vldbj02_pax.pdf){:target="_blank"}, The VLDB Journal, 2002 (Sections 1, 2, 3, 4)
+
+Wed, Feb 12
+: [**Due Written Assignment 2**{: .label .label-grey}](/COSI-127B/assignments)
 
 Fri, Feb 14
 : [**Lecture 9:** Storage Layer](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7520vdta3424e){:target="_blank"} <br> **Recitation 4:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m75828t5dt75lv" target="_blank"><span class="slides-icon"></span></a>
@@ -59,13 +65,17 @@ Fri, Feb 21
 Tue, Feb 25
 : [**Lecture 10:** Indexing](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7krr4mbamu64m){:target="_blank"} 
 
-
+Wed, Feb 26
+: [**Due Written Assignment 3**{: .label .label-grey}](/COSI-127B/assignments)
 
 Fri, Feb 28
 : **Lecture 11:** Tree Indexing
 
 Tue, Mar 04
 : **Lecture 12:** Hashing
+
+Wed, Mar 05
+: [**Due Written Assignment 4**{: .label .label-red}](/COSI-127B/assignments)
 
 Fri, Mar 07
 : **Lecture 13:** External Sorting
