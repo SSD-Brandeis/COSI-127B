@@ -71,6 +71,9 @@ Wed, Feb 26
 Fri, Feb 28
 : **Lecture 11:** Tree Indexing
 
+Wed, Mar 01
+: [**Due Project Assignment 1.1**{: .label .label-red}](/COSI-127B/assignments)
+
 Tue, Mar 04
 : **Lecture 12:** Hashing
 
