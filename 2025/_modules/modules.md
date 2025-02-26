@@ -64,25 +64,26 @@ Fri, Feb 21
 
 Tue, Feb 25
 : [**Lecture 10:** Indexing](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7krr4mbamu64m){:target="_blank"} 
-
+    : - Textbook, Chapter 8.4 & 8.5
 Wed, Feb 26
 : [**Due Written Assignment 3**{: .label .label-grey}](/COSI-127B/assignments)
 
 Fri, Feb 28
 : **Lecture 11:** Tree Indexing
+    : - Textbook, Chapter 10.1, 10.3-10.8
 
 Wed, Mar 01
 : [**Due Project Assignment 1.1**{: .label .label-red}](/COSI-127B/assignments)
 
 Tue, Mar 04
 : **Lecture 12:** Hashing
-
+    : - Textbook, Chapter 11
 Wed, Mar 05
 : [**Due Written Assignment 4**{: .label .label-red}](/COSI-127B/assignments)
 
 Fri, Mar 07
 : **Lecture 13:** External Sorting
-
+    : - Textbook, Chapter 13
 Tue, Mar 11
 : **MidTerm I Exam**{: .label .label-purple}
 
