@@ -84,6 +84,7 @@ Wed, Mar 05
 Fri, Mar 07
 : **Lecture 13:** External Sorting
     : - Textbook, Chapter 13
+    
 Tue, Mar 11
 : **MidTerm I Exam**{: .label .label-purple}
 
