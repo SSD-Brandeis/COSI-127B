@@ -63,7 +63,7 @@ Fri, Feb 21
 : **February Break**{: .label .label-yellow}
 
 Tue, Feb 25
-: [**Lecture 10:** Indexing](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7krr4mbamu64m){:target="_blank"} 
+: [**Lecture 10:** Indexing](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7p2fmqs1qm3kl){:target="_blank"} 
     : - Textbook, Chapter 8.4 & 8.5
 Wed, Feb 26
 : [**Due Written Assignment 3**{: .label .label-grey}](/COSI-127B/assignments)
