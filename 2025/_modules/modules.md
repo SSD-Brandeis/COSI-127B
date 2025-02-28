@@ -69,7 +69,7 @@ Wed, Feb 26
 : [**Due Written Assignment 3**{: .label .label-grey}](/COSI-127B/assignments)
 
 Fri, Feb 28
-: **Lecture 11:** Tree Indexing
+: [**Lecture 11:** Tree Indexing](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7p27cwkdfr1n5){:target="_blank"} 
     : - Textbook, Chapter 10.1, 10.3-10.8
 
 Wed, Mar 01
@@ -84,7 +84,7 @@ Wed, Mar 05
 Fri, Mar 07
 : **Lecture 13:** External Sorting
     : - Textbook, Chapter 13
-    
+
 Tue, Mar 11
 : **MidTerm I Exam**{: .label .label-purple}
 
