@@ -63,13 +63,13 @@ Fri, Feb 21
 : **February Break**{: .label .label-yellow}
 
 Tue, Feb 25
-: [**Lecture 10:** Indexing](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7p2fmqs1qm3kl){:target="_blank"}  <br> **Recitation 5:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7p80n41wzq2b" target="_blank"><span class="slides-icon"></span></a>
+: [**Lecture 10:** Indexing](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7p2fmqs1qm3kl){:target="_blank"}
     : - Textbook, Chapter 8.4 & 8.5
 Wed, Feb 26
 : [**Due Written Assignment 3**{: .label .label-grey}](/COSI-127B/assignments)
 
 Fri, Feb 28
-: [**Lecture 11:** Tree Indexing](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7p27cwkdfr1n5){:target="_blank"} 
+: [**Lecture 11:** Tree Indexing](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7p27cwkdfr1n5){:target="_blank"}  <br> **Recitation 5:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7p80n41wzq2b" target="_blank"><span class="slides-icon"></span></a>
     : - Textbook, Chapter 10.1, 10.3-10.8
 
 Wed, Mar 01
