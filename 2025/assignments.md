@@ -79,7 +79,7 @@ banner_description: ""
             <td>Mar 1, 2025 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6xnr2xl6ic6wr" target="_blank">Programming Assignment doc</a></td>
             </tr>
-            <<tr>
+            <tr>
             <td><a href="https://www.gradescope.com/courses/935039" target="_blank">Programming Assignment 1.2</a></td>
             <td>Mar 21, 2025 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7tlkmb37n961o" target="_blank">Programming Assignment doc</a></td>
