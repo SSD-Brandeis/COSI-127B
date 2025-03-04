@@ -76,8 +76,9 @@ Wed, Mar 01
 : [**Due Project Assignment 1.1**{: .label .label-red}](/COSI-127B/assignments)
 
 Tue, Mar 04
-: **Lecture 12:** Hashing
+: [**Lecture 12:** Hash Indexing](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7urt8ckgv2os){:target="_blank"}
     : - Textbook, Chapter 11
+    
 Wed, Mar 05
 : [**Due Written Assignment 4**{: .label .label-red}](/COSI-127B/assignments)
 
