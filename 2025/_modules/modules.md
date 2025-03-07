@@ -73,14 +73,14 @@ Fri, Feb 28
     : - Textbook, Chapter 10.1, 10.3-10.8
 
 Wed, Mar 01
-: [**Due Project Assignment 1.1**{: .label .label-red}](/COSI-127B/assignments)
+: [**Due Project Assignment 1.1**{: .label .label-grey}](/COSI-127B/assignments)
 
 Tue, Mar 04
 : [**Lecture 12:** Hash Indexing](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7urt8ckgv2os){:target="_blank"}
     : - Textbook, Chapter 11
 
 Wed, Mar 05
-: [**Due Written Assignment 4**{: .label .label-red}](/COSI-127B/assignments)
+: [**Due Written Assignment 4**{: .label .label-grey}](/COSI-127B/assignments)
 
 Fri, Mar 07
 : [**Lecture 13:** Sorting](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7z2cnnsey4675){:target="_blank"}   <br> **Recitation 6:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7yzqhzq6rd574" target="_blank"><span class="slides-icon"></span></a>
