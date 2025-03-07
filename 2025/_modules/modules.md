@@ -83,7 +83,7 @@ Wed, Mar 05
 : [**Due Written Assignment 4**{: .label .label-red}](/COSI-127B/assignments)
 
 Fri, Mar 07
-: **Lecture 13:** External Sorting
+: **Lecture 13:** External Sorting   <br> **Recitation 6:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7yzqhzq6rd574" target="_blank"><span class="slides-icon"></span></a>
     : - Textbook, Chapter 13
 
 Tue, Mar 11
