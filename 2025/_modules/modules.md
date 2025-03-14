@@ -90,7 +90,8 @@ Tue, Mar 11
 : **MidTerm I Exam**{: .label .label-purple}
 
 Fri, Mar 14
-: **Lecture 14:** Query Processing with Relational Operators
+: [**Lecture 14:** Query Processing - I](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8908nxqehc2hq){:target="_blank"} 
+
 
 Tue, Mar 18
 : **Lecture 15:**Joins I: Nested-loop & Sort-Merge Joins
