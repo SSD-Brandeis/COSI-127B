@@ -90,7 +90,7 @@ Tue, Mar 11
 : **MidTerm I Exam**{: .label .label-purple}
 
 Fri, Mar 14
-: [**Lecture 14:** Query Processing - I](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8908nxqehc2hq){:target="_blank"} 
+: [**Lecture 14:** Query Processing - I](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8908nxqehc2hq){:target="_blank"}   <br> **Recitation 7:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m890mkhxokr72u" target="_blank"><span class="slides-icon"></span></a> 
 
 
 Tue, Mar 18
