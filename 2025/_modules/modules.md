@@ -99,6 +99,9 @@ Tue, Mar 18
 Fri, Mar 21
 : **Lecture 16:** Joins II: Hash Joins & Remaining Relational Operators
 
+Sat, Mar 22
+: [**Due Written Assignment 5**{: .label .label-red}](/COSI-127B/assignments)
+
 Tue, Mar 25
 : **Lecture 17:** Relational Query Optimization
 
