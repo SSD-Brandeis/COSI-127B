@@ -94,7 +94,7 @@ Fri, Mar 14
 
 
 Tue, Mar 18
-: **Lecture 15:**Joins I: Nested-loop & Sort-Merge Joins
+: [**Lecture 15:** Query Processing - II](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8epzdiy4vzcz){:target="_blank"} 
 
 Fri, Mar 21
 : **Lecture 16:** Joins II: Hash Joins & Remaining Relational Operators
