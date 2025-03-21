@@ -45,6 +45,11 @@ banner_description: ""
             <td>Mar 22, 2025 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m86kmq7n3gq78" target="_blank">Hash Index & Sorting</a></td>
             </tr>
+            <tr>
+            <td><a href="https://www.gradescope.com/courses/93503" target="_blank">Assignment 6</a></td>
+            <td>Apr 03, 2025 @ 23:59</td>
+            <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8j0mpa9cmb144" target="_blank">Query Optimization</a></td>
+            </tr>
             <!--tr>
             <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Assignment 4</a></td>
             <td>Feb 26, 2024 @ 23:59</td>
