@@ -110,6 +110,9 @@ Fri, Mar 28
 Tue, Apr 01
 : **Lecture 19:** Concurrency Control
 
+Thu, Apr 03
+: [**Due Written Assignment 6**{: .label .label-red}](/COSI-127B/assignments)
+
 Fri, Apr 04
 : **Lecture 20:** Recovery
 
