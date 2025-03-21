@@ -92,12 +92,11 @@ Tue, Mar 11
 Fri, Mar 14
 : [**Lecture 14:** Query Processing - I](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8908nxqehc2hq){:target="_blank"}   <br> **Recitation 7:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m890mkhxokr72u" target="_blank"><span class="slides-icon"></span></a> 
 
-
 Tue, Mar 18
 : [**Lecture 15:** Query Processing - II](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8epzdiy4vzcz){:target="_blank"} 
 
 Fri, Mar 21
-: **Lecture 16:** Joins II: Hash Joins & Remaining Relational Operators
+: [**Lecture 16:** Query Processing - III](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8j0d7xnrvi1cf){:target="_blank"} 
 
 Sat, Mar 22
 : [**Due Written Assignment 5**{: .label .label-red}](/COSI-127B/assignments)
