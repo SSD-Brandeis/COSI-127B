@@ -119,7 +119,7 @@ banner_description: ""
             possible. </p>
         <!-- h3><strong>Project 1.3</strong></h3>
         <p>For your final task of Project 1, update your application to execute a series of queries from the front end to the database, displaying the query results in the UI. Use the <a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lteyll8wewt200" target="_blank">PA_1_3_data.zip</a> file from the Piazza resource page for database setup. A helpful video demonstrating how to load your tables using PhpMyAdmin is also available on Piazza. For comprehensive project details, refer to the project information document <a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ltezc4ifrw5sn" target="_blank">here</a>. Please read the document carefully and begin your work as soon as possible.</p> -->
-        <h3><strong>Project 2</strong></h3>
+        <h3><strong>Programming Assignment 2</strong></h3>
         <p>In this task, you will carry out several exercises involving the optimization of relational queries using the PostgreSQL query optimizer and the visualization command EXPLAIN. You need to read parts of the PostgreSQL documentation to be able to complete this task. Use the <a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8m1qaa9ssj62z" target="_blank">Azure Support Manual</a> file from the Piazza resource page for Azure Virtual Machine setup. Please read the document carefully and begin your work as soon as possible.</p>
     <!-- </div>
 </div> -->
