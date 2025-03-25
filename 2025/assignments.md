@@ -101,7 +101,7 @@ banner_description: ""
             </tr> -->
             <tr>
             <td><a href="https://www.gradescope.com/courses/935039" target="_blank">Project 2</a></td>
-            <td>Apr 4, 2024 @ 23:59</td>
+            <td>Apr 22, 2025 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8olj4qn2l83qm" target="_blank">Project doc</a></td>
             </tr>
         </tbody>
