@@ -37,7 +37,7 @@ banner_description: ""
             </tr>
             <tr>
             <td><a href="https://www.gradescope.com/courses/93503" target="_blank">Assignment 4</a></td>
-            <td>Mar 05, 2025 @ 23:59</td>
+            <td>Mar 5, 2025 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7ladjsspjb7y" target="_blank">Indexing</a></td>
             </tr>
             <tr>
@@ -47,7 +47,7 @@ banner_description: ""
             </tr>
             <tr>
             <td><a href="https://www.gradescope.com/courses/93503" target="_blank">Assignment 6</a></td>
-            <td>Apr 03, 2025 @ 23:59</td>
+            <td>Apr 3, 2025 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8j0mpa9cmb144" target="_blank">Query Optimization</a></td>
             </tr>
             <!--tr>
@@ -102,7 +102,7 @@ banner_description: ""
             <tr>
             <td><a href="https://www.gradescope.com/courses/935039" target="_blank">Programming Assignment 2</a></td>
             <td>Apr 22, 2025 @ 23:59</td>
-            <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8olj4qn2l83qm" target="_blank">Project doc</a></td>
+            <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8olj4qn2l83qm" target="_blank">Programming Assignment doc</a></td>
             </tr>
         </tbody>
         </table>
