@@ -102,7 +102,7 @@ Sat, Mar 22
 : [**Due Written Assignment 5**{: .label .label-red}](/COSI-127B/assignments)
 
 Tue, Mar 25
-: **Lecture 17:** Relational Query Optimization
+: [**Lecture 17:** Query Processing - IV](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8oqw3kpjww6ta){:target="_blank"}  
 
 Fri, Mar 28
 : **Lecture 18:** Transaction Management
