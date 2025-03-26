@@ -91,6 +91,7 @@ Tue, Mar 11
 
 Fri, Mar 14
 : [**Lecture 14:** Query Processing - I](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8908nxqehc2hq){:target="_blank"}   <br> **Recitation 7:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m890mkhxokr72u" target="_blank"><span class="slides-icon"></span></a> 
+
 - Textbook, Chapter 12 & 14.1-14.3
 
 Tue, Mar 18
@@ -113,19 +114,23 @@ Fri, Mar 28
 
 Tue, Apr 01
 : **Lecture 19:** Concurrency Control
+ : - Textbook, Chapter 16
 
 Thu, Apr 03
 : [**Due Written Assignment 6**{: .label .label-red}](/COSI-127B/assignments)
 
 Fri, Apr 04
 : **Lecture 20:** Recovery
+  : - Textbook, Chapter 18
 
 Tue, Apr 08
 : **Lecture 21:** Functional Dependencies
+    : - Textbook, Chapter 19.1-19.3
 
 Fri, Apr 11
 : **Lecture 22:** Normalization
-
+    : - Textbook, Chapter 19.4-19.7
+    
 Tue, Apr 15
 : **Passover Break**{: .label .label-yellow}
 
@@ -134,6 +139,9 @@ Fri, Apr 18
 
 Tue, Apr 22
 : **Lecture 23:** Advanced Topics/NoSQL/LSM
+    : - ["Constructing and Analyzing the LSM Compaction Design Space"](https://arxiv.org/abs/2202.04522){:target="_blank"}, VLDB Endowment, 2021
+- ["Dissecting, Designing, and Optimizing LSM-based Data Stores"](https://dl.acm.org/doi/10.1145/3514221.3522563){:target="_blank"} SIGMOD, 2022
+- ["LSM-based Storage Techniques: A Survey"](https://arxiv.org/abs/1812.07527), VLDB Journal, 2019
 : [**Due Programming Assignment 2**{: .label .label-red}](/COSI-127B/assignments)
 
 Fri, Apr 25
