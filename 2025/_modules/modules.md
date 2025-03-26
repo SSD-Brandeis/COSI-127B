@@ -91,18 +91,22 @@ Tue, Mar 11
 
 Fri, Mar 14
 : [**Lecture 14:** Query Processing - I](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8908nxqehc2hq){:target="_blank"}   <br> **Recitation 7:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m890mkhxokr72u" target="_blank"><span class="slides-icon"></span></a> 
+- Textbook, Chapter 12 & 14.1-14.3
 
 Tue, Mar 18
 : [**Lecture 15:** Query Processing - II](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8epzdiy4vzcz){:target="_blank"} 
+    : - Textbook, Chapter 14.4.1-14.4.2
 
 Fri, Mar 21
 : [**Lecture 16:** Query Processing - III](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8j0d7xnrvi1cf){:target="_blank"}    <br> **Recitation 8:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8j54p5gppr1sw" target="_blank"><span class="slides-icon"></span></a> 
+    : - Textbook, Chapter 14.4.3-14.4.4, 14.6-14.7, Chapter 15
 
 Sat, Mar 22
-: [**Due Written Assignment 5**{: .label .label-red}](/COSI-127B/assignments)
+: [**Due Written Assignment 5**{: .label .label-grey}](/COSI-127B/assignments)
 
 Tue, Mar 25
 : [**Lecture 17:** Query Processing - IV](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8oqw3kpjww6ta){:target="_blank"}  
+    : - Textbook, Chapter 14.4.3-14.4.4, 14.6-14.7, Chapter 15
 
 Fri, Mar 28
 : **Lecture 18:** Transaction Management
@@ -130,6 +134,7 @@ Fri, Apr 18
 
 Tue, Apr 22
 : **Lecture 23:** Advanced Topics/NoSQL/LSM
+: [**Due Programming Assignment 2**{: .label .label-red}](/COSI-127B/assignments)
 
 Fri, Apr 25
 : **Lecture 24:** Guest Lecture/Review
