@@ -91,8 +91,7 @@ Tue, Mar 11
 
 Fri, Mar 14
 : [**Lecture 14:** Query Processing - I](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8908nxqehc2hq){:target="_blank"}   <br> **Recitation 7:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m890mkhxokr72u" target="_blank"><span class="slides-icon"></span></a> 
-
-- Textbook, Chapter 12 & 14.1-14.3
+    : - Textbook, Chapter 12 & 14.1-14.3
 
 Tue, Mar 18
 : [**Lecture 15:** Query Processing - II](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8epzdiy4vzcz){:target="_blank"} 
@@ -114,7 +113,7 @@ Fri, Mar 28
 
 Tue, Apr 01
 : **Lecture 19:** Concurrency Control
- : - Textbook, Chapter 16
+  : - Textbook, Chapter 16
 
 Thu, Apr 03
 : [**Due Written Assignment 6**{: .label .label-red}](/COSI-127B/assignments)
@@ -130,7 +129,7 @@ Tue, Apr 08
 Fri, Apr 11
 : **Lecture 22:** Normalization
     : - Textbook, Chapter 19.4-19.7
-    
+
 Tue, Apr 15
 : **Passover Break**{: .label .label-yellow}
 
