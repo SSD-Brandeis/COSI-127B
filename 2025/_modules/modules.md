@@ -109,12 +109,11 @@ Tue, Mar 25
     : - Textbook, Chapter 14.4.3-14.4.4, 14.6-14.7, Chapter 15
 
 Fri, Mar 28
-: **Lecture 18:** Transaction Management
+: [**Lecture 18:** Concurrency Control](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8t086wun5cs6){:target="_blank"}  
 
 Tue, Apr 01
-: **Lecture 19:** Concurrency Control
+: **Lecture 19:** Transaction Management
   : - Textbook, Chapter 16
-
 
 Fri, Apr 04
 : **Lecture 20:** Recovery
