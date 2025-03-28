@@ -115,12 +115,11 @@ Tue, Apr 01
 : **Lecture 19:** Concurrency Control
   : - Textbook, Chapter 16
 
-Thu, Apr 03
-: [**Due Written Assignment 6**{: .label .label-red}](/COSI-127B/assignments)
 
 Fri, Apr 04
 : **Lecture 20:** Recovery
   : - Textbook, Chapter 18
+: [**Due Written Assignment 6**{: .label .label-red}](/COSI-127B/assignments)
 
 Tue, Apr 08
 : **Lecture 21:** Functional Dependencies
