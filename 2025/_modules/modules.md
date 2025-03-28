@@ -109,7 +109,7 @@ Tue, Mar 25
     : - Textbook, Chapter 14.4.3-14.4.4, 14.6-14.7, Chapter 15
 
 Fri, Mar 28
-: [**Lecture 18:** Concurrency Control](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8t086wun5cs6){:target="_blank"}  
+: [**Lecture 18:** Concurrency Control](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8t086wun5cs6){:target="_blank"}  <br> **Recitation 9:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8t2388yy7b5ww" target="_blank"><span class="slides-icon"></span></a>
 
 Tue, Apr 01
 : **Lecture 19:** Transaction Management
