@@ -112,8 +112,7 @@ Fri, Mar 28
 : [**Lecture 18:** Concurrency Control](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8t086wun5cs6){:target="_blank"}  <br> **Recitation 9:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8t2388yy7b5ww" target="_blank"><span class="slides-icon"></span></a>
 
 Tue, Apr 01
-: **Lecture 19:** Transaction Management
-  : - Textbook, Chapter 16
+: [**Lecture 19:** Locking](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8yq5wewvny5hm){:target="_blank"}
 
 Fri, Apr 04
 : **Lecture 20:** Recovery
