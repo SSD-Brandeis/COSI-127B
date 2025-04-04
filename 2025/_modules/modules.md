@@ -115,7 +115,7 @@ Tue, Apr 01
 : [**Lecture 19:** Locking](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8yq5wewvny5hm){:target="_blank"}
 
 Fri, Apr 04
-: **Lecture 20:** Recovery
+: **Lecture 20:** Recovery   <br> **Recitation 9:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m92xyr2hvgu3km" target="_blank"><span class="slides-icon"></span></a>
   : - Textbook, Chapter 18
 : [**Due Written Assignment 6**{: .label .label-red}](/COSI-127B/assignments)
 
