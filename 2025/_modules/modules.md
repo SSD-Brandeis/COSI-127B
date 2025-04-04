@@ -117,7 +117,7 @@ Tue, Apr 01
 Fri, Apr 04
 : [**Lecture w0:** Logging and Recovery](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m930lla4x135wx){:target="_blank"}   <br> **Recitation 10:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m92xyr2hvgu3km" target="_blank"><span class="slides-icon"></span></a>
   : - Textbook, Chapter 18
-: [**Due Written Assignment 6**{: .label .label-red}](/COSI-127B/assignments)
+: [**Due Written Assignment 6**{: .label .label-gray}](/COSI-127B/assignments)
 
 Tue, Apr 08
 : **Lecture 21:** Functional Dependencies
@@ -127,6 +127,8 @@ Fri, Apr 11
 : **Lecture 22:** Normalization
     : - Textbook, Chapter 19.4-19.7
 
+Sat, Apr 12
+: [**Due Written Assignment 7**{: .label .label-red}](/COSI-127B/assignments)
 Tue, Apr 15
 : **Passover Break**{: .label .label-yellow}
 
