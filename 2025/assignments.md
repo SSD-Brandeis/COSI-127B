@@ -50,6 +50,11 @@ banner_description: ""
             <td>Apr 4, 2025 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8j0mpa9cmb144" target="_blank">Query Optimization</a></td>
             </tr>
+            <tr>
+            <td><a href="https://www.gradescope.com/courses/93503" target="_blank">Assignment 7</a></td>
+            <td>Apr 12, 2025 @ 23:59</td>
+            <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m921c6vso9l4il" target="_blank">transaction & locks</a></td>
+            </tr>
             <!--tr>
             <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Assignment 4</a></td>
             <td>Feb 26, 2024 @ 23:59</td>
