@@ -120,7 +120,7 @@ Fri, Apr 04
 : [**Due Written Assignment 6**{: .label .label-gray}](/COSI-127B/assignments)
 
 Tue, Apr 08
-: **Lecture 21:** Functional Dependencies
+: [**Lecture 21:** Functional Dependencies](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m98mtqr9wud1pd){:target="_blank"}
     : - Textbook, Chapter 19.1-19.3
 
 Fri, Apr 11
