@@ -124,7 +124,7 @@ Tue, Apr 08
     : - Textbook, Chapter 19.1-19.3
 
 Fri, Apr 11
-: **Lecture 22:** Normalization
+: [**Lecture 22:** Normalization](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m9d41habf8a1ry){:target="_blank"}
     : - Textbook, Chapter 19.4-19.7
 
 Sat, Apr 12
