@@ -128,7 +128,7 @@ Fri, Apr 11
     : - Textbook, Chapter 19.4-19.7
 
 Sat, Apr 12
-: [**Due Written Assignment 7**{: .label .label-red}](/COSI-127B/assignments)
+: [**Due Written Assignment 7**{: .label .label-gray}](/COSI-127B/assignments)
 Tue, Apr 15
 : **Passover Break**{: .label .label-yellow}
 
