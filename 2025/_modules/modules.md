@@ -136,7 +136,9 @@ Fri, Apr 18
 : **Passover Break**{: .label .label-yellow}
 
 Tue, Apr 22
-: **Lecture 23:** Advanced Topics/NoSQL/LSM
+: [**Lecture 23:** NoSQL & Introduction LSM-Trees](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m9sqgsl74ls67d){:target="_blank"}
+    : - Textbook, Chapter 19.4-19.7
+
     : - ["Constructing and Analyzing the LSM Compaction Design Space"](https://arxiv.org/abs/2202.04522){:target="_blank"}, VLDB Endowment, 2021
 - ["Dissecting, Designing, and Optimizing LSM-based Data Stores"](https://dl.acm.org/doi/10.1145/3514221.3522563){:target="_blank"} SIGMOD, 2022
 - ["LSM-based Storage Techniques: A Survey"](https://arxiv.org/abs/1812.07527), VLDB Journal, 2019
