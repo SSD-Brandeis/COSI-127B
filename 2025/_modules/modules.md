@@ -117,7 +117,7 @@ Tue, Apr 01
 Fri, Apr 04
 : [**Lecture w0:** Logging and Recovery](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m930lla4x135wx){:target="_blank"}   <br> **Recitation 10:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m92xyr2hvgu3km" target="_blank"><span class="slides-icon"></span></a>
   : - Textbook, Chapter 18
-: [**Due Written Assignment 6**{: .label .label-gray}](/COSI-127B/assignments)
+: [**Due Written Assignment 6**{: .label .label-grey}](/COSI-127B/assignments)
 
 Tue, Apr 08
 : [**Lecture 21:** Functional Dependencies](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m98mtqr9wud1pd){:target="_blank"}
@@ -128,7 +128,7 @@ Fri, Apr 11
     : - Textbook, Chapter 19.4-19.7
 
 Sat, Apr 12
-: [**Due Written Assignment 7**{: .label .label-gray}](/COSI-127B/assignments)
+: [**Due Written Assignment 7**{: .label .label-grey}](/COSI-127B/assignments)
 Tue, Apr 15
 : **Passover Break**{: .label .label-yellow}
 
@@ -145,7 +145,7 @@ Tue, Apr 22
 : [**Due Programming Assignment 2**{: .label .label-red}](/COSI-127B/assignments)
 
 Fri, Apr 25
-: **Lecture 24:** Guest Lecture/Review
+: **Lecture 24:** Review
 
 Tue, Apr 29
 : **Midterm II Exam**{: .label .label-purple}
