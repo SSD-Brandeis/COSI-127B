@@ -145,7 +145,7 @@ Tue, Apr 22
 : [**Due Programming Assignment 2**{: .label .label-red}](/COSI-127B/assignments)
 
 Fri, Apr 25
-: **Lecture 24:** Review
+: [**Lecture 24:** Final Thoughts](https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m9x0mwea1dg5jw){:target="_blank"}
 
 Tue, Apr 29
 : **Midterm II Exam**{: .label .label-purple}
