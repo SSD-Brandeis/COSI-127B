@@ -45,16 +45,25 @@ jobs:
         env:
           JEKYLL_ENV: production
 
+      - name: Build 2026 Site
+        run: |
+          bundle exec jekyll build \
+            --source "2026" \
+            --destination "./_site/2026" \
+            --baseurl "/COSI-127B/2026"
+        env:
+          JEKYLL_ENV: production
+
       - name: Add Root Redirect
         run: |
           echo '<!DOCTYPE html>
           <html lang="en">
           <head>
-            <meta http-equiv="refresh" content="0; url=/COSI-127B/2025/" />
+            <meta http-equiv="refresh" content="0; url=/COSI-127B/2026/" />
             <title>Redirecting...</title>
           </head>
           <body>
-            <p>If you are not redirected automatically, follow this <a href="/COSI-127B/2025/">link</a>.</p>
+            <p>If you are not redirected automatically, follow this <a href="/COSI-127B/2026/">link</a>.</p>
           </body>
           </html>' > ./_site/index.html
 
