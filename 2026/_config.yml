@@ -176,9 +176,9 @@ kramdown:
       line_numbers: false
 
 syllabus: /assets/pdf/Syllabus-COSI127B-Sp26.pdf
-piazza: https://piazza.com/class/m5be2anlyef17z
-gradescope: https://www.gradescope.com/courses/935039
-moodle: https://moodle.brandeis.edu/course/view.php?id=1713
+piazza: https://piazza.com/class/mk3a0fm91tj44m
+gradescope: https://www.gradescope.com/courses/1213802
+moodle: https://moodle.brandeis.edu/course/view.php?id=4414
 
 # Collections for website data
 collections:
