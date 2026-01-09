@@ -12,7 +12,7 @@ permalink: /
 
 |----------|----------|
 | __Instructors__{: .fs-4} | [<u>Subhadeep Sarkar</u>](https://subhadeep.net){:target="_blank"} and Shubham Kaushik
-| __Class Timings & Location__{: .fs-4} | *Gerstenzang: 122* <br/> Tue & Thu 3:55 PM – 5:15 PM|
+| __Class Timings & Location__{: .fs-4} | *Abelson-Bass: 131* <br/> Tue & Thu 3:55 PM – 5:15 PM|
 | __Recitation Timings & Location__{: .fs-4} | *Gerstenzang: 122* <br/> Wed 12:20 PM – 1:10 PM |
 
 ## <u>Course Description</u>
