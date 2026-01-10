@@ -1,6 +1,6 @@
----
+<!-- ---
 title: "Course Schedule Spring 2026"
----
+--- -->
 
 **Day**
 : **Lecture**
