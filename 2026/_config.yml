@@ -175,7 +175,7 @@ kramdown:
     block:
       line_numbers: false
 
-syllabus: /assets/pdf/Syllabus-COSI127B-Sp26.pdf
+syllabus: /assets/pdf/COSI127B-Sp26-Syllabus.pdf
 piazza: https://piazza.com/class/mk3a0fm91tj44m
 gradescope: https://www.gradescope.com/courses/1213802
 moodle: https://moodle.brandeis.edu/course/view.php?id=4414
