@@ -7,7 +7,7 @@ title: ""
     : **Readings**
 
 Tue, Jan 13
-: [**Lecture 1:** Introduction]()
+: [**Lecture 1:** Introduction](https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkd2fp4fi5i2ea){:target="_blank"}
     : - Textbook, Chapter 1
 
 Thu, Jan 15
