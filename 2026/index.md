@@ -11,7 +11,8 @@ permalink: /
 ---
 
 |----------|----------|
-| __Instructors__{: .fs-4} | [<u>Subhadeep Sarkar</u>](https://subhadeep.net){:target="_blank"} and Shubham Kaushik
+| __Instructors__{: .fs-4} | [<u>Subhadeep Sarkar</u>](https://subhadeep.net){:target="_blank"}
+| __TAs__{: .fs-4} | Shubham Kaushik, Steven Yang, and Sarah Baskin
 | __Class Timings & Location__{: .fs-4} | *Abelson-Bass: 131* <br/> Tue & Thu 3:55 PM – 5:15 PM|
 | __Recitation Timings & Location__{: .fs-4} | *Gerstenzang: 122* <br/> Wed 12:20 PM – 1:10 PM |
 
@@ -37,7 +38,7 @@ Students who successfully complete all components of this course will be able to
 {{ staffer }}
 {% endfor %}
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
+{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' | sort: "order" %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
 
