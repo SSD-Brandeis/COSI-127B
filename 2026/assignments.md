@@ -20,12 +20,12 @@ banner_description: ""
             </tr>
         </thead>
         <tbody>
-            <!-- <tr>
-            <td><a href="https://www.gradescope.com/courses/935039" target="_blank">Assignment 1</a></td>
-            <td>Feb 5, 2025 @ 23:59</td>
-            <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6azk0rbx9l2c3" target="_blank">ER-Model</a></td>
+             <tr>
+            <td><a href="https://www.gradescope.com/courses/1213802" target="_blank">Assignment 1</a></td>
+            <td>Jan 28, 2026 @ 23:59</td>
+            <td><a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkng2rqyluf2iz" target="_blank">ER-Model</a></td>
             </tr>
-            <tr>
+            <!--<tr>
             <td><a href="https://www.gradescope.com/courses/935039" target="_blank">Assignment 2</a></td>
             <td>Feb 12, 2025 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6s2n3y1lvp1f3" target="_blank">Relational Algebra & SQL</a></td>
