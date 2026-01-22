@@ -20,7 +20,7 @@ Tue, Jan 20
     : - Textbook, Chapter 2
 
 Thu, Jan 22
-: **Lecture 4:** Relational Model
+: **Lecture 4:** Relational Model <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkpxdu51zp936l" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides" ></span> </a>
     : - Textbook, Chapter 3
 
 Tue, Jan 27
