@@ -24,31 +24,30 @@ Thu, Jan 22
     : - Textbook, Chapter 3
 
 Tue, Jan 27
+: **Cancelled Due To Snow**{: .label .label-grey}
+
+Thu, Jan 29
 : **Lecture 5:** Relational Algebra
     : - Textbook, Chapter 4.1, 4.2
 
-Thu, Jan 29
-: **Lecture 6:** SQL I
-    : - Textbook, Chapter 5.1-5.5
-
 Tue, Feb 03
-: **Lecture 7:** SQL II
+: **Lecture 6:** SQL I <br>  **Slides:**  &nbsp;&nbsp;&nbsp; <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkyi6c3qrgi1hq" target="_blank"><span class="slides-icon"></span></a>
     : - Textbook, Chapter 5.1-5.5
 
 Thu, Feb 05
+: **Lecture 7:** SQL II
+    : - Textbook, Chapter 5.1-5.5
+
+Tue, Feb 10
 : **Lecture 8:** File Organization & Indexing
     : - Textbook, Chapter 8 & 9.1, 9.5-9.7
 - ["Data page layouts for relational databases on deep memory hierarchies"](https://research.cs.wisc.edu/multifacet/papers/vldbj02_pax.pdf){:target="_blank"}, The VLDB Journal, 2002 (Sections 1, 2, 3, 4)
 
-Tue, Feb 10
+Thu, Feb 12
 : **Lecture 9:** Storage Layer
     : - Textbook, Chapter 9.1-9.4
 - ["On Multidimensional Data and Modern Disks"](https://www.usenix.org/legacy/events/fast05/tech/schlosser/schlosser.pdf){:target="_blank"}, FAST 2005 (Sections 1, 2, 3, 4)
 - ["Design Tradeoffs for SSD Performance"](https://www.usenix.org/legacy/events/usenix08/tech/full_papers/agrawal/agrawal_html/index.html){:target="_blank"}, USENIX ATC 2008 (Sections 1, 2, 3)
-
-Thu, Feb 12
-: **Lecture 10:** Tree Indexing
-    : - Textbook, Chapter Chapter 8.4, 8.5, 10.1, 10.3-10.8
 
 Tue, Feb 17
 : **February Break**{: .label .label-yellow}
@@ -57,50 +56,51 @@ Thu, Feb 19
 : **February Break**{: .label .label-yellow}
 
 Tue, Feb 24
-: **Lecture 11:** Hashing
-    : 
+: **Lecture 10:** Indexing
+    : - Textbook, Chapter Chapter 8.4, 8.5
 
 Thu, Feb 26
-: **Lecture 12:** External Sorting
-    : 
+: **Lecture 11:** Tree Indexing
+    : - Textbook, Chapter 10.1, 10.3-10.8
 
 Tue, Mar 03
-: **Lecture 13:** Review / Problem Solving
+: **Lecture 12:** Review / Problem Solving
     : 
 
 Thu, Mar 05
 : **Midterm I Exam**{: .label .label-purple}
-
-Tue, Mar 10
-: **Lecture 14:** Query Processing with Relational Operators
     : 
 
+Tue, Mar 10
+: **Lecture 13:** Hashing
+
 Thu, Mar 12
-: **Lecture 15:** Joins I: Nested-Loop & Sort-Merge Joins
+: **Lecture 14:** External Sorting
     : 
 
 Tue, Mar 17
-: **Lecture 16:** Joins II: Hash Joins & Remaining Relational Operators
+: **Lecture 15:** Query Processing I
     : 
 
 Thu, Mar 19
-: **Lecture 17:** Relational Query Optimization
+: **Lecture 16:** Query Processing II
     : 
 
 Tue, Mar 24
-: **Lecture 18:** Transaction Management
+: **Lecture 17:** Query Processing III
     : 
 
 Thu, Mar 26
-: **Lecture 19:** Concurrency Control
+: **Lecture 18:** Query Processing IV + Quiz
     : 
 
 Tue, Mar 31
-: **Lecture 20:** Recovery
+: **Lecture 19:** Transaction Management
     : 
 
 Thu, Apr 02
 : **Passover Break**{: .label .label-yellow}
+    : 
 
 Tue, Apr 07
 : **Passover Break**{: .label .label-yellow}
@@ -109,19 +109,21 @@ Thu, Apr 09
 : **Passover Break**{: .label .label-yellow}
 
 Tue, Apr 14
-: **Lecture 21:** 
-    : 
+: **Lecture 20:** Concurrency Control
+
+<!-- : **Lecture 21:** 
+    :  -->
 
 Thu, Apr 16
-: **Lecture 22:** 
+: **Lecture 21:** Recovery
     : 
 
 Tue, Apr 21
-: **Lecture 23:** Advanced Topics / NoSQL / LSM
+: **Lecture 22:** Advanced Topics / NoSQL / LSM
     : 
 
 Thu, Apr 23
-: **Lecture 24:** Guest Lecture / Review
+: **Lecture 23:** Guest Lecture / Review
     : 
 
 Tue, Apr 28
