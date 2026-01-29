@@ -27,7 +27,7 @@ Tue, Jan 27
 : **Cancelled Due To Snow**{: .label .label-grey}
 
 Thu, Jan 29
-: **Lecture 5:** Relational Algebra
+: **Lecture 5:** Relational Algebra <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkzxdrcfkqz3bb" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides"></span> </a>
     : - Textbook, Chapter 4.1, 4.2
 
 Tue, Feb 03
