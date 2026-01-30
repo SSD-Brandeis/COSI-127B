@@ -16,7 +16,7 @@ Thu, Jan 15
 - ["Architecture of a Database System"](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf){:target="_blank"}, Chapter 1
 
 Tue, Jan 20
-: **Lecture 3:** ER Diagrams <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkn2kyx7d7q24b" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides" ></span> </a> &nbsp;&nbsp;&nbsp; <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkoka0dyvi6em" target="_blank"><span class="slides-icon"></span></a>
+: **Lecture 3:** ER Diagrams <br> **Released Written Assignment 1**{: .label .label-yellow} <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkn2kyx7d7q24b" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides" ></span> </a> &nbsp;&nbsp;&nbsp; <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkoka0dyvi6em" target="_blank"><span class="slides-icon"></span></a>
     : - Textbook, Chapter 2
 
 Thu, Jan 22
@@ -26,8 +26,11 @@ Thu, Jan 22
 Tue, Jan 27
 : **Snow Day!**{: .label .label-grey}
 
+Wed, Jan 28
+: **Due Written Assignment 1**{: .label .label-red}
+
 Thu, Jan 29
-: **Lecture 5:** Relational Algebra <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkzxdrcfkqz3bb" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides"></span> </a>
+: **Lecture 5:** Relational Algebra <br> **Released Written Assignment 2**{: .label .label-yellow} <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkzxdrcfkqz3bb" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides"></span> </a>
     : - Textbook, Chapter 4.1, 4.2
 
 Tue, Feb 03
@@ -42,6 +45,9 @@ Tue, Feb 10
 : **Lecture 8:** File Organization & Indexing
     : - Textbook, Chapter 8 & 9.1, 9.5-9.7
 - ["Data page layouts for relational databases on deep memory hierarchies"](https://research.cs.wisc.edu/multifacet/papers/vldbj02_pax.pdf){:target="_blank"}, The VLDB Journal, 2002 (Sections 1, 2, 3, 4)
+
+Wed, Feb 11
+: **Due Written Assignment 2**{: .label .label-red}
 
 Thu, Feb 12
 : **Lecture 9:** Storage Layer

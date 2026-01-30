@@ -25,33 +25,33 @@ banner_description: ""
             <td>Jan 28, 2026 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkng2rqyluf2iz" target="_blank">ER-Model</a></td>
             </tr>
-            <!--<tr>
-            <td><a href="https://www.gradescope.com/courses/935039" target="_blank">Assignment 2</a></td>
-            <td>Feb 12, 2025 @ 23:59</td>
-            <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6s2n3y1lvp1f3" target="_blank">Relational Algebra & SQL</a></td>
+            <<tr>
+            <td><a href="https://www.gradescope.com/courses/1213802" target="_blank">Assignment 2</a></td>
+            <td>Feb 11, 2026 @ 23:59</td>
+            <td><a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/ml0cjnxe2ll34t" target="_blank">Relational Algebra & SQL</a></td>
             </tr>
-            <tr>
-            <td><a href="https://www.gradescope.com/courses/935039" target="_blank">Assignment 3</a></td>
+            <!--tr>
+            <td><a href="https://www.gradescope.com/courses/1213802" target="_blank">Assignment 3</a></td>
             <td>Feb 26, 2025 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m71bt1oxv6yr" target="_blank">File Organization</a></td>
             </tr>
             <tr>
-            <td><a href="https://www.gradescope.com/courses/93503" target="_blank">Assignment 4</a></td>
+            <td><a href="https://www.gradescope.com/courses/1213802" target="_blank">Assignment 4</a></td>
             <td>Mar 5, 2025 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7ladjsspjb7y" target="_blank">Indexing</a></td>
             </tr>
             <tr>
-            <td><a href="https://www.gradescope.com/courses/93503" target="_blank">Assignment 5</a></td>
+            <td><a href="https://www.gradescope.com/courses/1213802" target="_blank">Assignment 5</a></td>
             <td>Mar 22, 2025 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m86kmq7n3gq78" target="_blank">Hash Index & Sorting</a></td>
             </tr>
             <tr>
-            <td><a href="https://www.gradescope.com/courses/93503" target="_blank">Assignment 6</a></td>
+            <td><a href="https://www.gradescope.com/courses/1213802" target="_blank">Assignment 6</a></td>
             <td>Apr 4, 2025 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8j0mpa9cmb144" target="_blank">Query Optimization</a></td>
             </tr>
             <tr>
-            <td><a href="https://www.gradescope.com/courses/93503" target="_blank">Assignment 7</a></td>
+            <td><a href="https://www.gradescope.com/courses/1213802" target="_blank">Assignment 7</a></td>
             <td>Apr 12, 2025 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m921c6vso9l4il" target="_blank">Transaction & Locks</a></td>
             </tr>
@@ -90,12 +90,12 @@ banner_description: ""
         </thead>
         <tbody>
             <!-- <tr>
-            <td><a href="https://www.gradescope.com/courses/935039" target="_blank">Programming Assignment 1.1</a></td>
+            <td><a href="https://www.gradescope.com/courses/1213802" target="_blank">Programming Assignment 1.1</a></td>
             <td>Mar 1, 2025 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6xnr2xl6ic6wr" target="_blank">Programming Assignment doc</a></td>
             </tr>
             <tr>
-            <td><a href="https://www.gradescope.com/courses/935039" target="_blank">Programming Assignment 1.2</a></td>
+            <td><a href="https://www.gradescope.com/courses/1213802" target="_blank">Programming Assignment 1.2</a></td>
             <td>Mar 21, 2025 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7tlkmb37n961o" target="_blank">Programming Assignment doc</a></td>
             </tr> -->
@@ -105,7 +105,7 @@ banner_description: ""
             <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ltezc4ifrw5sn" target="_blank">Project doc</a></td>
             </tr> -->
             <!-- <tr>
-            <td><a href="https://www.gradescope.com/courses/935039" target="_blank">Programming Assignment 2</a></td>
+            <td><a href="https://www.gradescope.com/courses/1213802" target="_blank">Programming Assignment 2</a></td>
             <td>Apr 22, 2025 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8olj4qn2l83qm" target="_blank">Programming Assignment doc</a></td>
             </tr> -->
