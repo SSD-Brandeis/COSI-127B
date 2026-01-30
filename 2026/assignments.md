@@ -25,7 +25,7 @@ banner_description: ""
             <td>Jan 28, 2026 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkng2rqyluf2iz" target="_blank">ER-Model</a></td>
             </tr>
-            <<tr>
+            <tr>
             <td><a href="https://www.gradescope.com/courses/1213802" target="_blank">Assignment 2</a></td>
             <td>Feb 11, 2026 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/ml0cjnxe2ll34t" target="_blank">Relational Algebra & SQL</a></td>
