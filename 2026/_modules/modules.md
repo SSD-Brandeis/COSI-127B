@@ -34,7 +34,7 @@ Thu, Jan 29
     : - Textbook, Chapter 4.1, 4.2
 
 Tue, Feb 03
-: **Lecture 6:** SQL I <br>  **Slides:**  &nbsp;&nbsp;&nbsp; <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkyi6c3qrgi1hq" target="_blank"><span class="slides-icon"></span></a>
+: **Lecture 6:** SQL I <br>  **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/ml72qou1rrv5r4" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a> &nbsp;&nbsp;&nbsp; <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkyi6c3qrgi1hq" target="_blank"><span class="slides-icon"></span></a>
     : - Textbook, Chapter 5.1-5.5
 
 Thu, Feb 05
