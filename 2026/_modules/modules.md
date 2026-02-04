@@ -43,6 +43,10 @@ Tue, Feb 03
 : **Lecture 6:** SQL I <br>  **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/ml72qou1rrv5r4" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
     : - Textbook, Chapter 5.1-5.5
 
+Wed, Feb 04
+: **Recitation 3:** Relation Algebra <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/ml8ewig9twu1q2" target="_blank"><span class="slides-icon"></span></a> <br> **Due Written Assignment 1**{: .label .label-red}
+    : 
+
 Thu, Feb 05
 : **Lecture 7:** SQL II
     : - Textbook, Chapter 5.1-5.5
