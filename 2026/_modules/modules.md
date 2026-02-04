@@ -16,8 +16,12 @@ Thu, Jan 15
 - ["Architecture of a Database System"](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf){:target="_blank"}, Chapter 1
 
 Tue, Jan 20
-: **Lecture 3:** ER Diagrams <br> **Released Written Assignment 1**{: .label .label-yellow} <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkn2kyx7d7q24b" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides" ></span> </a> &nbsp;&nbsp;&nbsp; <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkoka0dyvi6em" target="_blank"><span class="slides-icon"></span></a>
+: **Lecture 3:** ER Diagrams <br> **Released Written Assignment 1**{: .label .label-yellow} <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkn2kyx7d7q24b" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides" ></span> </a>
     : - Textbook, Chapter 2
+
+Wed, Jan 21
+: **Recitation 1:** ER Model <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkoka0dyvi6em" target="_blank"><span class="slides-icon"></span></a>
+    : 
 
 Thu, Jan 22
 : **Lecture 4:** Relational Model <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkpxdu51zp936l" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides" ></span> </a>
@@ -25,16 +29,18 @@ Thu, Jan 22
 
 Tue, Jan 27
 : **Snow Day!**{: .label .label-grey}
+    : 
 
 Wed, Jan 28
-: **Due Written Assignment 1**{: .label .label-red}
+: **Recitation 2:** SQL Exercises <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkyi6c3qrgi1hq" target="_blank"><span class="slides-icon"></span></a> <br> **Due Written Assignment 1**{: .label .label-red}
+    : 
 
 Thu, Jan 29
 : **Lecture 5:** Relational Algebra <br> **Released Written Assignment 2**{: .label .label-yellow} <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkzxdrcfkqz3bb" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides"></span> </a>
     : - Textbook, Chapter 4.1, 4.2
 
 Tue, Feb 03
-: **Lecture 6:** SQL I <br>  **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/ml72qou1rrv5r4" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a> &nbsp;&nbsp;&nbsp; <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkyi6c3qrgi1hq" target="_blank"><span class="slides-icon"></span></a>
+: **Lecture 6:** SQL I <br>  **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/ml72qou1rrv5r4" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
     : - Textbook, Chapter 5.1-5.5
 
 Thu, Feb 05
@@ -47,7 +53,8 @@ Tue, Feb 10
 - ["Data page layouts for relational databases on deep memory hierarchies"](https://research.cs.wisc.edu/multifacet/papers/vldbj02_pax.pdf){:target="_blank"}, The VLDB Journal, 2002 (Sections 1, 2, 3, 4)
 
 Wed, Feb 11
-: **Due Written Assignment 2**{: .label .label-red}
+: **Recitation 4:** Indexing & Storage <br> **Due Written Assignment 2**{: .label .label-red}
+    : 
 
 Thu, Feb 12
 : **Lecture 9:** Storage Layer
@@ -57,9 +64,11 @@ Thu, Feb 12
 
 Tue, Feb 17
 : **February Break**{: .label .label-yellow}
+    : 
 
 Thu, Feb 19
 : **February Break**{: .label .label-yellow}
+    : 
 
 Tue, Feb 24
 : **Lecture 10:** Indexing
@@ -116,9 +125,7 @@ Thu, Apr 09
 
 Tue, Apr 14
 : **Lecture 20:** Concurrency Control
-
-<!-- : **Lecture 21:** 
-    :  -->
+    : 
 
 Thu, Apr 16
 : **Lecture 21:** Recovery
