@@ -89,12 +89,12 @@ banner_description: ""
             </tr>
         </thead>
         <tbody>
-            <!-- <tr>
-            <td><a href="https://www.gradescope.com/courses/1213802" target="_blank">Programming Assignment 1.1</a></td>
-            <td>Mar 1, 2025 @ 23:59</td>
-            <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6xnr2xl6ic6wr" target="_blank">Programming Assignment doc</a></td>
-            </tr>
             <tr>
+            <td><a href="https://www.gradescope.com/courses/1213802" target="_blank">Programming Assignment 1.1</a></td>
+            <td>Feb 26, 2026 @ 23:59</td>
+            <td><a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mlaalozs3zc4tx" target="_blank">Programming Assignment doc</a></td>
+            </tr>
+            <!--<tr>
             <td><a href="https://www.gradescope.com/courses/1213802" target="_blank">Programming Assignment 1.2</a></td>
             <td>Mar 21, 2025 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7tlkmb37n961o" target="_blank">Programming Assignment doc</a></td>

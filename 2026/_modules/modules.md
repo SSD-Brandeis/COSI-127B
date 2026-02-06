@@ -48,7 +48,7 @@ Wed, Feb 04
     : 
 
 Thu, Feb 05
-: **Lecture 7:** SQL II <br>  **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/ml9xo57h4jl6ki" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
+: **Lecture 7:** SQL II <br> **Released Programming Assignment 1.1**{: .label .label-yellow} <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/ml9xo57h4jl6ki" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
     : - Textbook, Chapter 5.1-5.5
 
 Tue, Feb 10
