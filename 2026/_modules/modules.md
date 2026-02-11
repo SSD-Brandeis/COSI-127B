@@ -57,7 +57,7 @@ Tue, Feb 10
 - ["Data page layouts for relational databases on deep memory hierarchies"](https://research.cs.wisc.edu/multifacet/papers/vldbj02_pax.pdf){:target="_blank"}, The VLDB Journal, 2002 (Sections 1, 2, 3, 4)
 
 Wed, Feb 11
-: **Recitation 4:** Indexing & Storage <br> **Due Written Assignment 2**{: .label .label-red}
+: **Recitation 4:** File Organization <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mlicg1tg7z754c" target="_blank"><span class="slides-icon"></span></a> <br> **Due Written Assignment 2**{: .label .label-red}
     : 
 
 Thu, Feb 12
