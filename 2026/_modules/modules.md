@@ -32,7 +32,7 @@ Tue, Jan 27
     : 
 
 Wed, Jan 28
-: **Recitation 2:** SQL Exercises <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkyi6c3qrgi1hq" target="_blank"><span class="slides-icon"></span></a> <br> **Due Written Assignment 1**{: .label .label-red}
+: **Recitation 2:** SQL Exercises <br> **Due Written Assignment 1**{: .label .label-red} <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkyi6c3qrgi1hq" target="_blank"><span class="slides-icon"></span></a>
     : 
 
 Thu, Jan 29
@@ -44,7 +44,7 @@ Tue, Feb 03
     : - Textbook, Chapter 5.1-5.5
 
 Wed, Feb 04
-: **Recitation 3:** Relation Algebra <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/ml8ewig9twu1q2" target="_blank"><span class="slides-icon"></span></a> <br> **Due Written Assignment 1**{: .label .label-red}
+: **Recitation 3:** Relation Algebra <br> **Due Written Assignment 1**{: .label .label-red} <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/ml8ewig9twu1q2" target="_blank"><span class="slides-icon"></span></a> 
     : 
 
 Thu, Feb 05
@@ -57,11 +57,11 @@ Tue, Feb 10
 - ["Data page layouts for relational databases on deep memory hierarchies"](https://research.cs.wisc.edu/multifacet/papers/vldbj02_pax.pdf){:target="_blank"}, The VLDB Journal, 2002 (Sections 1, 2, 3, 4)
 
 Wed, Feb 11
-: **Recitation 4:** File Organization <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mlicg1tg7z754c" target="_blank"><span class="slides-icon"></span></a> <br> **Due Written Assignment 2**{: .label .label-red}
+: **Recitation 4:** File Organization  <br> **Due Written Assignment 2**{: .label .label-red} <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mlicg1tg7z754c" target="_blank"><span class="slides-icon"></span></a>
     : 
 
 Thu, Feb 12
-: **Lecture 9:** Storage Layer <br> **Released Written Assignment 3**{: .label .label-yellow} **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mljxo8uhvkj18u" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
+: **Lecture 9:** Storage Layer <br> **Released Written Assignment 3**{: .label .label-yellow} <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mljxo8uhvkj18u" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
     : - Textbook, Chapter 9.1-9.4
 - ["On Multidimensional Data and Modern Disks"](https://www.usenix.org/legacy/events/fast05/tech/schlosser/schlosser.pdf){:target="_blank"}, FAST 2005 (Sections 1, 2, 3, 4)
 - ["Design Tradeoffs for SSD Performance"](https://www.usenix.org/legacy/events/usenix08/tech/full_papers/agrawal/agrawal_html/index.html){:target="_blank"}, USENIX ATC 2008 (Sections 1, 2, 3)
