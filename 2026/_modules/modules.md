@@ -75,7 +75,7 @@ Thu, Feb 19
     : 
 
 Tue, Feb 24
-: **Lecture 10:** Indexing <br> **Due Programming Assignment 1.1**{: .label .label-red} <br> **Due Written Assignment 2**{: .label .label-red}
+: **Lecture 10:** Indexing <br> **Due Programming Assignment 1.1**{: .label .label-red} <br> **Due Written Assignment 3**{: .label .label-red}
     : - Textbook, Chapter Chapter 8.4, 8.5
 
 Thu, Feb 26
