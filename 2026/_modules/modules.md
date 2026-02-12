@@ -61,7 +61,7 @@ Wed, Feb 11
     : 
 
 Thu, Feb 12
-: **Lecture 9:** Storage Layer <br> **Released Written Assignment 3**{: .label .label-yellow}
+: **Lecture 9:** Storage Layer <br> **Released Written Assignment 3**{: .label .label-yellow} **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mljxo8uhvkj18u" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
     : - Textbook, Chapter 9.1-9.4
 - ["On Multidimensional Data and Modern Disks"](https://www.usenix.org/legacy/events/fast05/tech/schlosser/schlosser.pdf){:target="_blank"}, FAST 2005 (Sections 1, 2, 3, 4)
 - ["Design Tradeoffs for SSD Performance"](https://www.usenix.org/legacy/events/usenix08/tech/full_papers/agrawal/agrawal_html/index.html){:target="_blank"}, USENIX ATC 2008 (Sections 1, 2, 3)
