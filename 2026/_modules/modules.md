@@ -75,16 +75,20 @@ Thu, Feb 19
     : 
 
 Tue, Feb 24
-: **Lecture 10:** Indexing <br> **Due Programming Assignment 1.1**{: .label .label-red} <br> **Due Written Assignment 3**{: .label .label-red}
-    : - Textbook, Chapter Chapter 8.4, 8.5
+: **Snow Day!**{: .label .label-grey} <br> **Due Programming Assignment 1.1**{: .label .label-red} <br> **Due Written Assignment 3**{: .label .label-red}
+    : 
+
+Wed, Feb 25
+: **Recitation 5:** File Organization & Storage Layer <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mm2e8ms985l2ac" target="_blank"><span class="slides-icon"></span></a>
+    :
 
 Thu, Feb 26
-: **Lecture 11:** Tree Indexing
-    : - Textbook, Chapter 10.1, 10.3-10.8
+: **Lecture 10:** Indexing
+    : - Textbook, Chapter Chapter 8.4, 8.5
 
 Tue, Mar 03
-: **Lecture 12:** Review / Problem Solving
-    : 
+: **Lecture 11:** Tree Indexing
+    : - Textbook, Chapter 10.1, 10.3-10.8
 
 Thu, Mar 05
 : **Midterm I Exam**{: .label .label-purple}
