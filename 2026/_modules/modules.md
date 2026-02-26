@@ -81,7 +81,7 @@ Wed, Feb 25
 : **Recitation 5:** File Organization & Storage Layer <br> **Due Written Assignment 3**{: .label .label-red} <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mm2e8ms985l2ac" target="_blank"><span class="slides-icon"></span></a>
 
 Thu, Feb 26
-: **Lecture 10:** Indexing <br> **Due Programming Assignment 1.1**{: .label .label-red}
+: **Lecture 10:** Indexing <br> **Due Programming Assignment 1.1**{: .label .label-red} <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mm3xyub9kg31jr" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
     : - Textbook, Chapter Chapter 8.4, 8.5
 
 Tue, Mar 03
