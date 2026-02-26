@@ -16,7 +16,7 @@ Thu, Jan 15
 - ["Architecture of a Database System"](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf){:target="_blank"}, Chapter 1
 
 Tue, Jan 20
-: **Lecture 3:** ER Diagrams <br> **Released Written Assignment 1**{: .label .label-yellow} <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkn2kyx7d7q24b" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides" ></span> </a>
+: **Lecture 3:** ER Diagrams <br> **Released Written Assignment 1**{: .label .label-green} <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkn2kyx7d7q24b" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides" ></span> </a>
     : - Textbook, Chapter 2
 
 Wed, Jan 21
@@ -28,7 +28,7 @@ Thu, Jan 22
     : - Textbook, Chapter 3
 
 Tue, Jan 27
-: **Snow Day!**{: .label .label-grey}
+: **❄️ Snow Day!**{: .label .label-grey}
     : 
 
 Wed, Jan 28
@@ -36,7 +36,7 @@ Wed, Jan 28
     : 
 
 Thu, Jan 29
-: **Lecture 5:** Relational Algebra <br> **Released Written Assignment 2**{: .label .label-yellow} <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkzxdrcfkqz3bb" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides"></span> </a>
+: **Lecture 5:** Relational Algebra <br> **Released Written Assignment 2**{: .label .label-green} <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mkzxdrcfkqz3bb" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides"></span> </a>
     : - Textbook, Chapter 4.1, 4.2
 
 Tue, Feb 03
@@ -44,11 +44,11 @@ Tue, Feb 03
     : - Textbook, Chapter 5.1-5.5
 
 Wed, Feb 04
-: **Recitation 3:** Relation Algebra <br> **Due Written Assignment 1**{: .label .label-red} <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/ml8ewig9twu1q2" target="_blank"><span class="slides-icon"></span></a> 
+: **Recitation 3:** Relation Algebra <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/ml8ewig9twu1q2" target="_blank"><span class="slides-icon"></span></a> 
     : 
 
 Thu, Feb 05
-: **Lecture 7:** SQL II <br> **Released Programming Assignment 1.1**{: .label .label-yellow} <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/ml9xo57h4jl6ki" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
+: **Lecture 7:** SQL II <br> **Released Programming Assignment 1.1**{: .label .label-green} <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/ml9xo57h4jl6ki" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
     : - Textbook, Chapter 5.1-5.5
 
 Tue, Feb 10
@@ -61,7 +61,7 @@ Wed, Feb 11
     : 
 
 Thu, Feb 12
-: **Lecture 9:** Storage Layer <br> **Released Written Assignment 3**{: .label .label-yellow} <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mljxo8uhvkj18u" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
+: **Lecture 9:** Storage Layer <br> **Released Written Assignment 3**{: .label .label-green} <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mljxo8uhvkj18u" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
     : - Textbook, Chapter 9.1-9.4
 - ["On Multidimensional Data and Modern Disks"](https://www.usenix.org/legacy/events/fast05/tech/schlosser/schlosser.pdf){:target="_blank"}, FAST 2005 (Sections 1, 2, 3, 4)
 - ["Design Tradeoffs for SSD Performance"](https://www.usenix.org/legacy/events/usenix08/tech/full_papers/agrawal/agrawal_html/index.html){:target="_blank"}, USENIX ATC 2008 (Sections 1, 2, 3)
@@ -75,15 +75,13 @@ Thu, Feb 19
     : 
 
 Tue, Feb 24
-: **Snow Day!**{: .label .label-grey} <br> **Due Programming Assignment 1.1**{: .label .label-red} <br> **Due Written Assignment 3**{: .label .label-red}
-    : 
+: **❄️ Snow Day!**{: .label .label-grey}
 
 Wed, Feb 25
-: **Recitation 5:** File Organization & Storage Layer <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mm2e8ms985l2ac" target="_blank"><span class="slides-icon"></span></a>
-    :
+: **Recitation 5:** File Organization & Storage Layer <br> **Due Written Assignment 3**{: .label .label-red} <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mm2e8ms985l2ac" target="_blank"><span class="slides-icon"></span></a>
 
 Thu, Feb 26
-: **Lecture 10:** Indexing
+: **Lecture 10:** Indexing <br> **Due Programming Assignment 1.1**{: .label .label-red}
     : - Textbook, Chapter Chapter 8.4, 8.5
 
 Tue, Mar 03
