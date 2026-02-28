@@ -94,11 +94,11 @@ banner_description: ""
             <td>Feb 26, 2026 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mlaalozs3zc4tx" target="_blank">Programming Assignment doc</a></td>
             </tr>
-            <!--<tr>
+            <tr>
             <td><a href="https://www.gradescope.com/courses/1213802" target="_blank">Programming Assignment 1.2</a></td>
-            <td>Mar 21, 2025 @ 23:59</td>
-            <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7tlkmb37n961o" target="_blank">Programming Assignment doc</a></td>
-            </tr> -->
+            <td>Mar 19, 2026 @ 23:59</td>
+            <td><a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mm6bm8mxozx7dc" target="_blank">Programming Assignment doc</a></td>
+            </tr>
             <!-- tr>
             <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Project 1.3</a></td>
             <td>Mar 21, 2024 @ 23:59</td>
@@ -111,17 +111,17 @@ banner_description: ""
             </tr> -->
         </tbody>
         </table>
-        <!-- <h3><strong>Programming Assignment 1.1</strong></h3>
+        <h3><strong>Programming Assignment 1.1</strong></h3>
         <p>In this assignment, you will extend your work from <strong>Problem 3 of Written Assignment 1</strong>, where you designed an <strong>Entity-Relationship Diagram (ER Diagram)</strong> for an <em>IMDb-like movie database</em>. Now, you will focus on implementing the database and building a functional website that connects to a <strong>MySQL database</strong>. More details on the project, including guidelines and requirements, can be found 
-        <a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m6xnr2xl6ic6wr" target="_blank">here</a>. 
+        <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mlaalozs3zc4tx" target="_blank">here</a>. 
         Please review the document carefully and <strong>start early</strong> to ensure smooth progress.</p>
         <h3><strong>Programming Assignment 1.2</strong></h3>
-        <p> For the final task of Project 1, update the <code>queries.py</code> file so that it executes a series of
+        <p> For the final task of Project 1, update the <code>queries.py</code> file for 18 queries so that it executes a series of
             queries from the front end to the database, displaying the results in the UI. To get started, read the
             project document file from the Piazza resource page by clicking <a
-                href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7tlkmb37n961o"
+                href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mm6bm8mxozx7dc"
                 target="_blank">here</a>. Please read the accompanying document carefully and begin your work as soon as
-            possible. </p> -->
+            possible. </p>
         <!-- h3><strong>Project 1.3</strong></h3>
         <p>For your final task of Project 1, update your application to execute a series of queries from the front end to the database, displaying the query results in the UI. Use the <a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lteyll8wewt200" target="_blank">PA_1_3_data.zip</a> file from the Piazza resource page for database setup. A helpful video demonstrating how to load your tables using PhpMyAdmin is also available on Piazza. For comprehensive project details, refer to the project information document <a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ltezc4ifrw5sn" target="_blank">here</a>. Please read the document carefully and begin your work as soon as possible.</p> -->
         <!-- <h3><strong>Programming Assignment 2</strong></h3>

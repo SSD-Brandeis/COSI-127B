@@ -84,6 +84,9 @@ Thu, Feb 26
 : **Lecture 10:** Indexing <br> **Due Programming Assignment 1.1**{: .label .label-red} <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mm3xyub9kg31jr" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
     : - Textbook, Chapter Chapter 8.4, 8.5
 
+Sat, Feb 28
+: **Programming Assignment 1.2 Released**{: .label .label-green}
+
 Tue, Mar 03
 : **Lecture 11:** Tree Indexing
     : - Textbook, Chapter 10.1, 10.3-10.8
@@ -104,7 +107,7 @@ Tue, Mar 17
     : 
 
 Thu, Mar 19
-: **Lecture 16:** Query Processing II
+: **Lecture 16:** Query Processing II <br> **Due Programming Assignment 1.2**{: .label .label-red}
     : 
 
 Tue, Mar 24
