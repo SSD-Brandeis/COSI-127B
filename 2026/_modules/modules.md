@@ -88,7 +88,7 @@ Sat, Feb 28
 : **Programming Assignment 1.2 Released**{: .label .label-green}
 
 Tue, Mar 03
-: **Lecture 11:** Tree Indexing
+: **Lecture 11:** Tree Indexing <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mmb34uwzgi45h5" target="_blank"><span class="slides-icon"></span></a>
     : - Textbook, Chapter 10.1, 10.3-10.8
 
 Thu, Mar 05
