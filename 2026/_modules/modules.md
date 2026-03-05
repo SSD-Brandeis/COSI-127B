@@ -91,6 +91,9 @@ Tue, Mar 03
 : **Lecture 11:** Tree Indexing <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mmb34uwzgi45h5" target="_blank"><span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
     : - Textbook, Chapter 10.1, 10.3-10.8
 
+Wed, Mar 04
+: **Recitation 6:** Review <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mmcq0f04n1b6oc" target="_blank"><span class="slides-icon"></span></a>
+
 Thu, Mar 05
 : **Midterm I Exam**{: .label .label-purple}
     : 
