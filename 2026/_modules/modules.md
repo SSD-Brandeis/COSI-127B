@@ -81,14 +81,14 @@ Wed, Feb 25
 : **Recitation 5:** File Organization & Storage Layer <br> **Due Written Assignment 3**{: .label .label-red} <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mm2e8ms985l2ac" target="_blank"><span class="slides-icon"></span></a>
 
 Thu, Feb 26
-: **Lecture 10:** Indexing <br> **Due Programming Assignment 1.1**{: .label .label-red} <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mm3xyub9kg31jr" target="blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
+: **Lecture 10:** Indexing <br> **Due Programming Assignment 1.1**{: .label .label-red} <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mm3xyub9kg31jr" target="_blank"> <span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
     : - Textbook, Chapter Chapter 8.4, 8.5
 
 Sat, Feb 28
 : **Programming Assignment 1.2 Released**{: .label .label-green}
 
 Tue, Mar 03
-: **Lecture 11:** Tree Indexing <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mmb34uwzgi45h5" target="_blank"><span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
+: **Lecture 11:** Tree Indexing <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mmb34uwzgi45h5" target="_blank"><span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
     : - Textbook, Chapter 10.1, 10.3-10.8
 
 Wed, Mar 04
@@ -99,7 +99,7 @@ Thu, Mar 05
     : 
 
 Tue, Mar 10
-: **Lecture 13:** Hashing
+: **Lecture 13:** Hash Indexing <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mml0tzw2qli19r" target="_blank"><span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
 
 Thu, Mar 12
 : **Lecture 14:** External Sorting
