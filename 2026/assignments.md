@@ -35,24 +35,24 @@ banner_description: ""
             <td>Feb 24, 2026 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mljw1uun6m7b" target="_blank">File Organization & Page Replacement Policies</a></td>
             </tr>
-            <!--tr>
-            <td><a href="https://www.gradescope.com/courses/1213802" target="_blank">Assignment 4</a></td>
-            <td>Mar 5, 2025 @ 23:59</td>
-            <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m7ladjsspjb7y" target="_blank">Indexing</a></td>
-            </tr>
             <tr>
+            <td><a href="https://www.gradescope.com/courses/1213802" target="_blank">Assignment 4</a></td>
+            <td>Mar 23, 2026 @ 23:59</td>
+            <td><a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mmmcvaeazmu5zq" target="_blank">B+-trees & Hash Indexing</a></td>
+            </tr>
+            <!--tr>
             <td><a href="https://www.gradescope.com/courses/1213802" target="_blank">Assignment 5</a></td>
-            <td>Mar 22, 2025 @ 23:59</td>
+            <td>Mar 22, 2026 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m86kmq7n3gq78" target="_blank">Hash Index & Sorting</a></td>
             </tr>
             <tr>
             <td><a href="https://www.gradescope.com/courses/1213802" target="_blank">Assignment 6</a></td>
-            <td>Apr 4, 2025 @ 23:59</td>
+            <td>Apr 4, 2026 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8j0mpa9cmb144" target="_blank">Query Optimization</a></td>
             </tr>
             <tr>
             <td><a href="https://www.gradescope.com/courses/1213802" target="_blank">Assignment 7</a></td>
-            <td>Apr 12, 2025 @ 23:59</td>
+            <td>Apr 12, 2026 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m921c6vso9l4il" target="_blank">Transaction & Locks</a></td>
             </tr>
             <tr>
@@ -106,7 +106,7 @@ banner_description: ""
             </tr> -->
             <!-- <tr>
             <td><a href="https://www.gradescope.com/courses/1213802" target="_blank">Programming Assignment 2</a></td>
-            <td>Apr 22, 2025 @ 23:59</td>
+            <td>Apr 22, 2026 @ 23:59</td>
             <td><a href="https://piazza.com/class_profile/get_resource/m5be2anlyef17z/m8olj4qn2l83qm" target="_blank">Programming Assignment doc</a></td>
             </tr> -->
         </tbody>
