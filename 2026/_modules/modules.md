@@ -105,7 +105,7 @@ Wed, Mar 11
 : **Recitation 7:** B+-tree <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mmmdbotzq9byh" target="_blank"><span class="slides-icon"></span></a> <br> **Released Written Assignment 4**{: .label .label-green}
 
 Thu, Mar 12
-: **Lecture 14:** External Sorting
+: **Lecture 14:** External Sorting <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mmnvpz354uy4ae" target="_blank"><span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
     : 
 
 Tue, Mar 17
