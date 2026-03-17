@@ -99,33 +99,34 @@ Thu, Mar 05
     : 
 
 Tue, Mar 10
-: **Lecture 13:** Hash Indexing <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mml0tzw2qli19r" target="_blank"><span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
+: **Lecture 12:** Hash Indexing <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mml0tzw2qli19r" target="_blank"><span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
+    : - Textbook, Chapter 11
 
 Wed, Mar 11
 : **Recitation 7:** B+-tree <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mmmdbotzq9byh" target="_blank"><span class="slides-icon"></span></a> <br> **Released Written Assignment 4**{: .label .label-green}
 
 Thu, Mar 12
-: **Lecture 14:** External Sorting <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mmnvpz354uy4ae" target="_blank"><span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
-    : 
+: **Lecture 13:** External Sorting <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mmnvpz354uy4ae" target="_blank"><span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
+    : - Textbook, Chapter 13
 
 Tue, Mar 17
-: **Lecture 15:** Query Processing I
-    : 
+: **Lecture 14:** Query Processing I <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mmv0yn8b4e93m3" target="_blank"><span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
+    : - Textbook, Chapter 12 & 14.1-14.3
 
 Thu, Mar 19
-: **Lecture 16:** Query Processing II <br> **Due Programming Assignment 1.2**{: .label .label-red}
-    : 
+: **Lecture 15:** Query Processing II <br> **Due Programming Assignment 1.2**{: .label .label-red}
+    : - Textbook, Chapter 14.4.1-14.4.2
 
 Tue, Mar 24
-: **Lecture 17:** Query Processing III
-    : 
+: **Lecture 16:** Query Processing III
+    : - Textbook, Chapter 14.4.3-14.4.4, 14.6-14.7, Chapter 15
 
 Thu, Mar 26
-: **Lecture 18:** Query Processing IV + Quiz
-    : 
+: **Lecture 17:** Query Processing IV + Quiz
+    : - Textbook, Chapter 14.4.3-14.4.4, 14.6-14.7, Chapter 15
 
 Tue, Mar 31
-: **Lecture 19:** Transaction Management
+: **Lecture 18:** Transaction Management
     : 
 
 Thu, Apr 02
@@ -139,19 +140,19 @@ Thu, Apr 09
 : **Passover Break**{: .label .label-yellow}
 
 Tue, Apr 14
-: **Lecture 20:** Concurrency Control
+: **Lecture 19:** Concurrency Control
     : 
 
 Thu, Apr 16
-: **Lecture 21:** Recovery
-    : 
+: **Lecture 20:** Recovery
+  : - Textbook, Chapter 18
 
 Tue, Apr 21
-: **Lecture 22:** Advanced Topics / NoSQL / LSM
+: **Lecture 21:** Advanced Topics / NoSQL / LSM
     : 
 
 Thu, Apr 23
-: **Lecture 23:** Guest Lecture / Review
+: **Lecture 22:** Guest Lecture / Review
     : 
 
 Tue, Apr 28
