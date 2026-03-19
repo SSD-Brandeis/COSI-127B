@@ -113,6 +113,9 @@ Tue, Mar 17
 : **Lecture 14:** Query Processing I <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mmv0yn8b4e93m3" target="_blank"><span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
     : - Textbook, Chapter 12 & 14.1-14.3
 
+Wed, Mar 18
+: **Recitation 8:** Hash Indexing & External Sorting <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mmxmtwzzgaj21c" target="_blank"><span class="slides-icon"></span></a>
+
 Thu, Mar 19
 : **Lecture 15:** Query Processing II <br> **Due Programming Assignment 1.2**{: .label .label-red}
     : - Textbook, Chapter 14.4.1-14.4.2
