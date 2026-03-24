@@ -121,7 +121,7 @@ Thu, Mar 19
     : - Textbook, Chapter 14.4.1-14.4.2
 
 Tue, Mar 24
-: **Lecture 16:** Query Processing III
+: **Lecture 16:** Query Processing III <br> **Released Written Assignment 5**{: .label .label-green}
     : - Textbook, Chapter 14.4.3-14.4.4, 14.6-14.7, Chapter 15
 
 Thu, Mar 26
@@ -129,7 +129,7 @@ Thu, Mar 26
     : - Textbook, Chapter 14.4.3-14.4.4, 14.6-14.7, Chapter 15
 
 Tue, Mar 31
-: **Lecture 18:** Transaction Management
+: **Lecture 18:** Transaction Management **Due Written Assignment 5**{: .label .label-red}
     : 
 
 Thu, Apr 02
