@@ -125,7 +125,7 @@ Tue, Mar 24
     : - Textbook, Chapter 14.4.3-14.4.4, 14.6-14.7, Chapter 15
 
 Thu, Mar 26
-: **Lecture 17:** Query Processing IV + Quiz
+: **Lecture 17:** Query Processing IV + Quiz <br> **Released Programming Assignment 2**{: .label .label-green}
     : - Textbook, Chapter 14.4.3-14.4.4, 14.6-14.7, Chapter 15
 
 Tue, Mar 31
@@ -147,7 +147,7 @@ Tue, Apr 14
     : 
 
 Thu, Apr 16
-: **Lecture 20:** Recovery
+: **Lecture 20:** Recovery <br> **Due Programming Assignment 2**{: .label .label-red}
   : - Textbook, Chapter 18
 
 Tue, Apr 21
