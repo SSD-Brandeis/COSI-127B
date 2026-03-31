@@ -129,7 +129,7 @@ Thu, Mar 26
     : - Textbook, Chapter 14.4.3-14.4.4, 14.6-14.7, Chapter 15
 
 Tue, Mar 31
-: **Lecture 18:** Transaction Management <br> **Due Written Assignment 5**{: .label .label-red}
+: **Lecture 18:** Transaction Management <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mnf0kijss703p6" target="_blank"><span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a> <br> **Due Written Assignment 5**{: .label .label-red}
     : 
 
 Thu, Apr 02
