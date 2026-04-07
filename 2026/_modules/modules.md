@@ -137,7 +137,7 @@ Thu, Apr 02
     : 
 
 Tue, Apr 07
-: **Passover Break**{: .label .label-yellow}
+: **Passover Break**{: .label .label-yellow} <br> **Released Written Assignment 6**{: .label .label-green}
 
 Thu, Apr 09
 : **Passover Break**{: .label .label-yellow}
