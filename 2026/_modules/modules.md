@@ -143,7 +143,7 @@ Thu, Apr 09
 : **Passover Break**{: .label .label-yellow}
 
 Tue, Apr 14
-: **Lecture 19:** Concurrency Control
+: **Lecture 19:** Locking <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mnz0z2jw8pg4ar" target="_blank"><span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
     : 
 
 Thu, Apr 16
