@@ -147,7 +147,7 @@ Tue, Apr 14
     : 
 
 Thu, Apr 16
-: **Lecture 20:** Recovery <br> **Due Programming Assignment 2**{: .label .label-red}
+: **Lecture 20:** Recovery <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mo1we8qzxzt493" target="_blank"><span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a> <br> **Due Programming Assignment 2**{: .label .label-red}
   : - Textbook, Chapter 18
 
 Tue, Apr 21
