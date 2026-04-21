@@ -124,6 +124,9 @@ Tue, Mar 24
 : **Lecture 16:** Query Processing III <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mn5160e3qng6sk" target="_blank"><span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a> <br> **Released Written Assignment 5**{: .label .label-green}
     : - Textbook, Chapter 14.4.3-14.4.4, 14.6-14.7, Chapter 15
 
+Wed, Mar 25
+: **Recitation 9:** Query Optimization <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mn7ms2u17jyg7" target="_blank"><span class="slides-icon"></span></a>
+
 Thu, Mar 26
 : **Lecture 17:** Query Processing IV + Quiz <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mn7vz1kt7bh6m" target="_blank"><span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a> <br> **Released Programming Assignment 2**{: .label .label-green}
     : - Textbook, Chapter 14.4.3-14.4.4, 14.6-14.7, Chapter 15
@@ -145,6 +148,9 @@ Thu, Apr 09
 Tue, Apr 14
 : **Lecture 19:** Locking <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mnz0z2jw8pg4ar" target="_blank"><span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
     : 
+
+Wed, Apr 15
+: **Recitation 10:** Transaction Concurrency Control & Locking <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mo0c74c7wiq2hm" target="_blank"><span class="slides-icon"></span></a>
 
 Thu, Apr 16
 : **Lecture 20:** Recovery <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mo1we8qzxzt493" target="_blank"><span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a> <br> **Due Programming Assignment 2**{: .label .label-red}
