@@ -151,7 +151,7 @@ Thu, Apr 16
   : - Textbook, Chapter 18
 
 Tue, Apr 21
-: **Lecture 21:** Advanced Topics / NoSQL / LSM
+: **Lecture 21:** Advanced Topics / NoSQL / LSM <br> **Slides:** <a href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mo91jye4s4f4th" target="_blank"><span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>
     : 
 
 Thu, Apr 23
