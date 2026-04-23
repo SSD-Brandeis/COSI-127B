@@ -164,7 +164,7 @@ Wed, Apr 22
 : **Recitation 11:** Review <br> **Slides:** <a title="Recitation slides" href="https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mobl2qylabo26c" target="_blank"><span class="slides-icon"></span></a>
 
 Thu, Apr 23
-: **Lecture 22:** Guest Lecture / Review
+: **Lecture 22:** Final Thoughts <br> **Slides:** <a href="__https://piazza.com/class_profile/get_resource/mk3a0fm91tj44m/mobwchfpnxxqu" target="_blank"><span class="lec-slides-icon" data-tooltip="Lecture slides"></span></a>  
     : 
 
 Tue, Apr 28
